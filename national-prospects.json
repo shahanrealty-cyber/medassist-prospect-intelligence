@@ -22,7 +22,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Groveland Fire Department\" EMS quality improvement director | \"Groveland Fire Department\" EMS chief staff directory contact | \"Groveland Fire Department\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
+          "url": "https://account.microsoft.com/account",
+          "description": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
+        },
+        {
+          "title": "Microsoft 365 - Sign into Copilot",
+          "url": "https://m365.cloud.microsoft/?origindomain=microsoft365",
+          "description": "Microsoft 365 includes Word, Excel, PowerPoint, Outlook, Teams, and OneDrive, with Microsoft Copilot built in to help you create, communicate, and summarize information. Formerly Office 365."
+        },
+        {
+          "title": "Sign in to your account",
+          "url": "https://myaccount.microsoft.com/",
+          "description": "Access and manage your Microsoft account, subscriptions, and settings all in one place."
+        },
+        {
+          "title": "My Account",
+          "url": "https://myaccount.microsoft.com/login",
+          "description": "Sign in to manage your Microsoft account and access free online services like Outlook, Word, Excel, and PowerPoint securely from any device."
+        },
+        {
+          "title": "Outlook",
+          "url": "https://outlook.office.com/mail/",
+          "description": "Securely sign in to access your Microsoft account and manage emails, calendars, and other services efficiently."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Brevard County Fire Rescue",
@@ -43,7 +79,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Brevard County Fire Rescue\" EMS quality improvement director | \"Brevard County Fire Rescue\" EMS chief staff directory contact | \"Brevard County Fire Rescue\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Home | Brevard County Clerk of Court and Comptroller",
+          "url": "https://www.brevardclerk.us/",
+          "description": "Learn about the Brevard County Clerk of the Circuit Court & Comptroller, including office functions, leadership, contact details, news, and public resources."
+        },
+        {
+          "title": "Official Brevard County Government Website | Brevard County, FL",
+          "url": "https://www.brevardfl.gov/",
+          "description": "Explore the official Brevard County Government website for essential local services, community resources, and timely emergency updates on Florida's Space Coast."
+        },
+        {
+          "title": "Brevard College: Your Academic Adventure Awaits!",
+          "url": "https://brevard.edu/",
+          "description": "Brevard College is consistently recognized as one of the best liberal arts colleges. The College's focus on experiential learning, small class sizes, and location in the mountains of Western North Carolina near Asheville make Brevard a top choice college for students around the world."
+        },
+        {
+          "title": "Brevard, North Carolina - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brevard,_North_Carolina",
+          "description": "Brevard is located at the entrance to Pisgah National Forest and has become a noted tourism, retirement, and cultural center in western North Carolina. A moderate climate, environmental beauty and cultural activities attracts retirees to the area. Brevard is also known for its white squirrels."
+        },
+        {
+          "title": "Brevard County, Florida - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brevard_County,_Florida",
+          "description": "Brevard County was established in 1855 and is named after Theodore Washington Brevard, an early Florida settler and state comptroller. The county's boundaries were changed and reduced numerous times, resulting in the current boundary since 1907."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Seminole County Fire Department / EMS System",
@@ -64,7 +136,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Seminole County Fire Department / EMS System\" EMS quality improvement director | \"Seminole County Fire Department / EMS System\" EMS chief staff directory contact | \"Seminole County Fire Department / EMS System\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Seminole History - Florida Department of State",
+          "url": "https://dos.fl.gov/florida-facts/florida-history/seminole-history/",
+          "description": "Seminole History Seminole History The Seminoles of Florida call themselves the \"Unconquered People,\" descendants of just 300 Indians who managed to elude capture by the U.S. army in the 19th century. Today, more than 2,000 live on six reservations in the state - located in Hollywood, Big Cypress, Brighton, Immokalee, Ft. Pierce, and Tampa."
+        },
+        {
+          "title": "Seminole - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seminole",
+          "description": "The Seminole are a Native American people who developed in Florida in the 18th century. Today, they live in Oklahoma and Florida, and comprise three federally recognized tribes: the Seminole Nation of Oklahoma, the Seminole Tribe of Florida, and the Miccosukee Tribe of Indians of Florida, as well as independent groups. The Seminole people emerged in a process of ethnogenesis from various ..."
+        },
+        {
+          "title": "Seminole Tribe of Florida - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seminole_Tribe_of_Florida",
+          "description": "The Seminole Tribe of Florida is a federally recognized Seminole tribe based in the U.S. state of Florida. Together with the Seminole Nation of Oklahoma and the Miccosukee Tribe of Indians of Florida, it is one of three federally recognized Seminole entities. It received that status in 1957. Today, it has six Indian reservations in Florida."
+        },
+        {
+          "title": "Seminole | History, Culture & Facts | Britannica",
+          "url": "https://www.britannica.com/topic/Seminole-people",
+          "description": "Seminole, North American Indian tribe of Creek origin who speak a Muskogean language. In the last half of the 18th century, migrants from the Creek towns of southern Georgia moved into northern Florida, the former territory of the Apalachee and Timucua. By about 1775 those migrants had begun to be"
+        },
+        {
+          "title": "SEMINOLE Definition & Meaning - Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/Seminole",
+          "description": "The meaning of SEMINOLE is a member of any of several groups of Indigenous people that emigrated to Florida from Georgia and Alabama in the 18th and 19th centuries and whose descendants now live in southern Florida and Oklahoma."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Sacramento Metropolitan Fire District (Metro Fire)",
@@ -85,7 +193,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Sacramento Metropolitan Fire District (Metro Fire)\" EMS quality improvement director | \"Sacramento Metropolitan Fire District (Metro Fire)\" EMS chief staff directory contact | \"Sacramento Metropolitan Fire District (Metro Fire)\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Home | City of Sacramento",
+          "url": "https://www.cityofsacramento.gov/",
+          "description": "Zoning Property Lines & Surveying Arts and Culture Murals in the City of Sacramento: Guidance and Best Practice Engineering Property Line Changes/Mapping Zoning"
+        },
+        {
+          "title": "Sacramento, California - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sacramento,_California",
+          "description": "Sacramento[a] is the capital city of the U.S. state of California. The county seat of Sacramento County, it is located at the confluence of the Sacramento and American Rivers in the Sacramento Valley."
+        },
+        {
+          "title": "10-Day Weather Forecast for Sacramento, California - The Weather ...",
+          "url": "https://weather.com/us/california/city/sacramento/tenday",
+          "description": "Be prepared with the most accurate 10-day forecast for Sacramento, California with highs, lows, chance of precipitation from The Weather Channel and Weather.com"
+        },
+        {
+          "title": "Sacramento | History, Population, Map, & Facts | Britannica",
+          "url": "https://www.britannica.com/place/Sacramento-California",
+          "description": "Sacramento, city, capital of California, U.S., and seat of Sacramento county, in the north-central part of the state. It is situated in the Sacramento Valley along the Sacramento River at its confluence with the American River, about 90 miles northeast of San Francisco and 45 miles north of Stockton."
+        },
+        {
+          "title": "THE 15 BEST Things to Do in Sacramento (2026) - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Attractions-g32999-Activities-Sacramento_California.html",
+          "description": "Things to Do in Sacramento, California: See Tripadvisor's 93,757 traveler reviews and photos of Sacramento tourist attractions. Find what to do today, this weekend, or in October."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Montgomery County Fire and Rescue Service",
@@ -106,7 +250,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Montgomery County Fire and Rescue Service\" EMS quality improvement director | \"Montgomery County Fire and Rescue Service\" EMS chief staff directory contact | \"Montgomery County Fire and Rescue Service\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Montgomery, TX | Official Website",
+          "url": "https://www.montgomerytexas.gov/",
+          "description": "We are excited to celebrate this year’s Lone Star Christmas theme and cannot wait to see the creativity of our community shine throughout Cedar Brake Park! Read on..."
+        },
+        {
+          "title": "Montgomery, Alabama - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Montgomery,_Alabama",
+          "description": "Montgomery is the capital city of the U.S. state of Alabama and the county seat of Montgomery County. [9] It was named for Continental Army Major-General Richard Montgomery and stands beside the Alabama River on the Gulf Coastal Plain. The population was 200,603 at the 2020 census. [6] It is the fourth-most populous city in the state, after Huntsville, Mobile, and Birmingham, and the 133rd ..."
+        },
+        {
+          "title": "Montgomery, Texas - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Montgomery,_Texas",
+          "description": "Montgomery is a city located in Montgomery County, Texas, United States. As of the 2020 census, the city had a total population of 1,948. Known as the birthplace of the Texas flag, it sits next to Lake Conroe."
+        },
+        {
+          "title": "MCAD – Official Site – Montgomery Central Appraisal District",
+          "url": "https://mcad-tx.org/",
+          "description": "Montgomery Central Appraisal District (MCAD) — official site. File protests, exemptions, and access property records for Montgomery County, Texas."
+        },
+        {
+          "title": "Welcome to Montgomery County, Texas",
+          "url": "https://mctx.org/",
+          "description": "information from your local Tax Assessor-Collector: Montgomery County Tax Office Tammy McRae, Tax Assessor-Collector 400 N. San Jacinto St. Conroe, TX 77301-2823 936-539-7897 What's Happening Now in Montgomery County Texas Montgomery County Adopted Tax Rate Notice About 2026 Tax Rates"
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Greenville County EMS",
@@ -127,7 +307,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Greenville County EMS\" EMS quality improvement director | \"Greenville County EMS\" EMS chief staff directory contact | \"Greenville County EMS\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Greenville, SC - Official Website | Official Website",
+          "url": "https://www.greenvillesc.gov/",
+          "description": "GVLText Provides Curated News and Information Direct from the Source: The City of Greenville has launched GVLText — a new, curated text (SMS)... The City of Greenville will host an electronics recycling and shredding event Saturday, Oct. 17 from 9 a.m. to noon at the Public Works Facility,..."
+        },
+        {
+          "title": "Greenville, South Carolina - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Greenville,_South_Carolina",
+          "description": "Greenville (/ ˈɡriːnvɪl / GREEN-vil, locally / ˈɡriːnvəl / GREEN-vəl) is a city in Greenville County, South Carolina, United States, and its county seat."
+        },
+        {
+          "title": "Greenville, Wisconsin Wiki | Fandom",
+          "url": "https://greenville-wisconsin.fandom.com/wiki/Greenville,_Wisconsin_Wiki",
+          "description": "Players can customize and buy their dream cars, interactively work, role-play with friends, drive around the city of Greenville and the small towns of Horton and Brookmere, and more! We're an encyclopedia documenting the Greenville game created by the fans, for fans."
+        },
+        {
+          "title": "Greenville, Greenville sc, Greenville South Carolina, Guide to ...",
+          "url": "https://www.greenville.com/index.shtml",
+          "description": "A guide to Greenville, SC, and the Upstate area"
+        },
+        {
+          "title": "County of Greenville, SC",
+          "url": "https://www.greenvillecounty.org/Default.aspx",
+          "description": "Greenville County Council voted to place a referendum on the ballot this November giving residents the option to vote “yes” or “no” to a 1% sales tax. Get Information. WEEKLY OPERATIONS. This week's meeting calendar: Click Here."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "King County EMS",
@@ -148,7 +364,43 @@
       "triggerTerms": "EMS performance; metrics; reporting; quality assurance; patient care documentation",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"King County EMS\" EMS quality improvement director | \"King County EMS\" EMS chief staff directory contact | \"King County EMS\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Charles III - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Charles_III",
+          "description": "Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and 14 other Commonwealth realms. [b] Charles is the eldest son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He was born during the reign of his maternal grandfather, King George VI, and became heir apparent following his mother's accession in 1952. Charles was created Prince of Wales ..."
+        },
+        {
+          "title": "King - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/King_%28title%29",
+          "description": "King is a royal title given to a male monarch. [1] A king is an absolute monarch if he holds unrestricted governmental power or exercises full sovereignty over a nation. In a modern context, the title may refer to the ruler of one of a number of modern monarchies (either absolute or constitutional). [2][3] The title of king is used alongside other titles for monarchs: in the West, emperor ..."
+        },
+        {
+          "title": "King - Simple English Wikipedia, the free encyclopedia",
+          "url": "https://simple.wikipedia.org/wiki/King",
+          "description": "King Louis XIV was the ruler of the Kingdom of France. He is the longest reigning king and monarch to have ever lived A king is usually a male monarch who rules a country or territory which is a monarchy. The person usually inherits the title and position."
+        },
+        {
+          "title": "King Charles III | Latest News & Updates | BBC News",
+          "url": "https://www.bbc.co.uk/news/topics/cp7r8vgl7zyt",
+          "description": "King Charles III - get the breaking news, live updates, and in-depth analysis about HM King Charles III, UK head of state, from the experts across the BBC."
+        },
+        {
+          "title": "King.com - Play the Most Popular & Fun Games Online!",
+          "url": "https://www.king.com/",
+          "description": "Play the most popular and fun online games, join millions of players, and connect with the King.com community."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Monterey County EMS Agency",
@@ -169,7 +421,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Monterey County EMS Agency\" EMS quality improvement director | \"Monterey County EMS Agency\" EMS chief staff directory contact | \"Monterey County EMS Agency\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "City of Monterey, CA",
+          "url": "https://monterey.gov/",
+          "description": "Monterey Public Library Co-Sponsors Drag Queen Storyline Event- Event is Sponsored by the City's Independent Board of Library Trustees, Not Monterey City Council"
+        },
+        {
+          "title": "Monterey, California - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Monterey,_California",
+          "description": "Today, Monterey is a popular tourist destination on the Central Coast, hosting notable attractions such as the Monterey Bay Aquarium, Cannery Row, Fisherman's Wharf, California Roots Music and Arts Festival, and the annual Monterey Jazz Festival."
+        },
+        {
+          "title": "Monterey Bay - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Monterey_Bay",
+          "description": "Monterey Bay is a bay of the Pacific Ocean located on the coast of the U.S. state of California, south of the San Francisco Bay Area. San Francisco itself is farther north along the coast, by about 75 miles (120 km), accessible via CA 1 and US 101."
+        },
+        {
+          "title": "Upcoming Events in Monterey & Carmel | Food & Wine, Music, Sports",
+          "url": "https://whatsupmonterey.com/events",
+          "description": "Browse our upcoming events calendar to discover all food and wine festivals, Monterey nightlife events and live music festivals including Carmel."
+        },
+        {
+          "title": "Monterey Bay Aquarium",
+          "url": "https://www.montereybayaquarium.org/",
+          "description": "Located at the ocean's edge on historic Cannery Row, the Monterey Bay Aquarium is your window to marine life. Visit sea otters, penguins, sharks, jellies…"
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "San Mateo Consolidated Fire Department",
@@ -190,7 +478,43 @@
       "triggerTerms": "EMS; CQI; QA/QI; quality improvement; quality assurance; patient care reports; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"San Mateo Consolidated Fire Department\" EMS quality improvement director | \"San Mateo Consolidated Fire Department\" EMS chief staff directory contact | \"San Mateo Consolidated Fire Department\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "SAN - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/San",
+          "description": "San, buses by Polish manufacturer Autosan SAN Ecuador (Servicios Aéreos Nacionales, ICAO code: SAN), a defunct airline Sandersville Railroad (AAR reporting mark: SAN), in the US San Diego International Airport (IATA code: SAN), in California, US Sandown railway station (National Rail code: SAN), Isle of Wight, UK Siliwangi Antar Nusa, a bus company in Indonesia Société Aéronautique ..."
+        },
+        {
+          "title": "San peoples - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/San_peoples",
+          "description": "The San or Bushmen are the peoples of southern Africa who traditionally lived a hunter-gatherer lifestyle and spoke non-Bantu languages with click consonants (thus excluding the Twa, Kwisi and Cimba, but also the Kwadi and Damara). These include speakers of three distinct language families living between the Okavango River in Botswana and Etosha National Park in northwestern Namibia, extending ..."
+        },
+        {
+          "title": "Straight Arrow - Unbiased News. Fear No Fact.",
+          "url": "https://san.com/",
+          "description": "Get the news that matters most, without manipulation, bias or agenda. From politics and government oversight to cost of living and privacy, we fear no fact."
+        },
+        {
+          "title": "SAN",
+          "url": "https://san.dsca.mil/SANweb/",
+          "description": "SAN web Cloud WARNING: You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:"
+        },
+        {
+          "title": "What is a storage area network (SAN)? - IBM",
+          "url": "https://www.ibm.com/think/topics/storage-area-network",
+          "description": "SAN storage is a dedicated network combining servers, storage systems, networking switches, software, and services."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Palm Beach County EMS System",
@@ -211,7 +535,43 @@
       "triggerTerms": "EMS system; county authority; provider oversight; system-wide QA; ePCR review",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Palm Beach County EMS System\" EMS quality improvement director | \"Palm Beach County EMS System\" EMS chief staff directory contact | \"Palm Beach County EMS System\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Arecaceae - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arecaceae",
+          "description": "Early Christians used the palm branch to symbolize the victory of the faithful over enemies of the soul, as in the Palm Sunday festival celebrating the triumphal entry of Jesus Christ into Jerusalem."
+        },
+        {
+          "title": "Palm | Live in the moment.",
+          "url": "https://palm.com/",
+          "description": "Palm is the best small phone for minimalists, athletes, and families. Your entire digital life now fits in a coin pocket. Perfect for taking a break from your big phone."
+        },
+        {
+          "title": "Palm tree - Simple English Wikipedia, the free encyclopedia",
+          "url": "https://simple.wikipedia.org/wiki/Palm_tree",
+          "description": "Palm tree is a common name of perennial lianas, shrubs, and trees. They are the only members of the family Arecaceae, which is the only family in the order Arecales."
+        },
+        {
+          "title": "Palm | Description, Uses, Examples, Distribution, Types, & Facts ...",
+          "url": "https://www.britannica.com/plant/palm-tree",
+          "description": "palm, (family Arecaceae), family of nearly 190 genera and more than 2,450 species of monocotyledonous flowering plants (order Arecales). Members of the palm family are of major ecological importance to many tropical ecosystems and provide food and habitat to a wide range of wildlife."
+        },
+        {
+          "title": "PALM Definition & Meaning - Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/palm",
+          "description": "The meaning of PALM is any of a family (Palmae synonym Arecaceae) of mostly tropical or subtropical monocotyledonous trees, shrubs, or vines with usually a simple stem and a terminal crown of large pinnate or fan-shaped leaves."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Austin-Travis County EMS",
@@ -230,7 +590,43 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Austin-Travis County EMS\" EMS quality improvement director | \"Austin-Travis County EMS\" EMS chief staff directory contact | \"Austin-Travis County EMS\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "25 Best Things To Do in Austin - U.S. News Travel",
+          "url": "https://travel.usnews.com/Austin_TX/Things_To_Do/",
+          "description": "Guide to the best hotels and things to do in Austin. Maps, travel tips and more."
+        },
+        {
+          "title": "City of Austin | AustinTexas.gov",
+          "url": "https://www.austintexas.gov/",
+          "description": "The City of Austin will host its 2026 Fair Chance Hiring Job and Resource Fair on Wednesday, September 30, 2026, from 10 a.m. to 3 p.m. at the Permitting and Development Center, located at 6310 Wilhelmina Delco Drive, Austin, TX 78752."
+        },
+        {
+          "title": "Austin, Texas - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Austin,_Texas",
+          "description": "Austin (/ ˈɔːstɪn / ⓘ AW-stin) [8] is the capital city of the U.S. state of Texas. With a population of 961,855 at the 2020 census, [9] it is the 12th-most populous city in the U.S., fifth-most populous city in Texas, and second-most populous U.S. state capital (after Phoenix, Arizona), while the Austin metro area with an estimated 2.55 million residents is the 25th-largest metropolitan ..."
+        },
+        {
+          "title": "History of Austin, Texas - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/History_of_Austin,_Texas",
+          "description": "Austin's history has also been largely tied to state politics and in the late 19th century, the establishment of the University of Texas made Austin a regional center for higher education, as well as a hub for state government. In the 20th century, Austin's music scene had earned the city the nickname \"Live Music Capital of the World.\" [5]"
+        },
+        {
+          "title": "30+ Epic Things to Do in Austin,TX (2025 Guide)",
+          "url": "https://seekaustin.com/things-to-do/austin-tx/",
+          "description": "Planning a trip to Austin? Discover 30+ things to do in Austin for outdoor adventures, top food spots, music venues, and unique experiences."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Mecklenburg EMS Agency (MEDIC)",
@@ -668,7 +1064,43 @@
       "triggerTerms": "EMS operator; clinical quality; documentation standards; audit; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"American Medical Response (AMR)\" EMS quality improvement director | \"American Medical Response (AMR)\" EMS chief staff directory contact | \"American Medical Response (AMR)\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "American Airlines - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/American_Airlines",
+          "description": "American Airlines and American Eagle operate out of ten hubs, anchored by Dallas Fort Worth International Airport (DFW), the airline's largest. Charlotte Douglas International Airport (CLT) follows as the second-largest hub, serving as a primary gateway for Southeast and transatlantic travel."
+        },
+        {
+          "title": "Log in help - AAdvantage® - American Airlines",
+          "url": "https://login.aa.com/miniMenu",
+          "description": "Access your AAdvantage account and manage your American Airlines bookings, rewards, and personal information securely."
+        },
+        {
+          "title": "Log in help - AAdvantage® - American Airlines",
+          "url": "https://login.aa.com/miniMenu?locale=en_US",
+          "description": "Log in to your AAdvantage account to manage bookings, check-in, and access exclusive benefits with American Airlines."
+        },
+        {
+          "title": "American Airlines - Advanced search",
+          "url": "https://www.aa.com/booking/find-flights",
+          "description": "Link opens in new window. Site may not meet accessibility guidelines. AA.com®."
+        },
+        {
+          "title": "Find Flight Deals and Fares by Destination | American Airlines",
+          "url": "https://www.aa.com/en-us/flights",
+          "description": "Explore destinations across the United States and around the world. Select a region to compare fares by departure and arrival city, discover nonstop and connecting flights, and find travel options that fit your travel plans and budget. Fares update regularly and may vary based on route, travel dates, demand and availability."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Acadian Ambulance Service",
@@ -687,7 +1119,43 @@
       "triggerTerms": "regional EMS provider; clinical quality; documentation; audit; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Acadian Ambulance Service\" EMS quality improvement director | \"Acadian Ambulance Service\" EMS chief staff directory contact | \"Acadian Ambulance Service\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Acadian Central Log In",
+          "url": "https://ac.acadian.com/login?local=True",
+          "description": "OR Sign in via email OR Sign in via SMS Interact | community Reset your password using the Acadian Password Reset Assistant"
+        },
+        {
+          "title": "Acadian Companies | Knowing Life Matters Since 1971",
+          "url": "https://acadian.com/",
+          "description": "As Acadian employees, we have a great deal of pride in our work, and we see every day as an opportunity to make a difference. Our passion and compassion guide our actions as we treat more than just the injury or ailment, but the person as a whole."
+        },
+        {
+          "title": "Our Company | Acadian Companies",
+          "url": "https://acadian.com/our-company/",
+          "description": "Acadian began as a small ambulance company and expanded to include a diverse suite of services designed to offer the very best support and education in health, safety and transportation."
+        },
+        {
+          "title": "Acadian Ambulance Service | Medical Transport When You Need It",
+          "url": "https://acadianambulance.com/",
+          "description": "Acadian Ambulance is a proud member of the American Ambulance Association. Acadian is an Equal Opportunity Employer/Affirmative Action Employer. Employment is based solely upon one’s individual merit and qualifications directly related to professional competence."
+        },
+        {
+          "title": "Texas | Acadian Ambulance Service",
+          "url": "https://acadianambulance.com/locations/texas/",
+          "description": "In 2006, Acadian became the 911 provider in Orange County. We currently operate in 35 counties and serve nearly 20 million people spanning 32,000 square miles and operating more than 300 ambulance units."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Priority Ambulance",
@@ -706,7 +1174,43 @@
       "triggerTerms": "EMS operator; clinical quality; documentation standards; audit; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Priority Ambulance\" EMS quality improvement director | \"Priority Ambulance\" EMS chief staff directory contact | \"Priority Ambulance\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "PRIORITY | English meaning - Cambridge Dictionary",
+          "url": "https://dictionary.cambridge.org/dictionary/english/priority",
+          "description": "Repairing the plumbing is a priority task (= more important than other jobs). Banks normally give priority to large businesses when deciding on loans (= they deal with them first because they consider them most important)."
+        },
+        {
+          "title": "PRIORITY | definition in the Cambridge English Dictionary",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/priority",
+          "description": "PRIORITY meaning: 1. something that is very important and must be dealt with before other things: 2. something that…. Learn more."
+        },
+        {
+          "title": "Login - Priority Courier Experts / VANEX",
+          "url": "https://priority.com/login.asp",
+          "description": "When you login to this site, you will be able to place orders for delivery directly into Priority.com. You should be aware that until you logout, anyone who uses your computer will also have access to place orders on your account."
+        },
+        {
+          "title": "PRIORITY Definition & Meaning | Dictionary.com",
+          "url": "https://www.dictionary.com/browse/priority",
+          "description": "Priority comes from the word prior, which means to come before something else. A priority is the concern, interest or desire that comes before all others."
+        },
+        {
+          "title": "PRIORITY Definition & Meaning - Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/priority",
+          "description": "The meaning of PRIORITY is the quality or state of being prior. How to use priority in a sentence."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Falck USA",
@@ -725,7 +1229,43 @@
       "triggerTerms": "regional EMS provider; clinical quality; documentation; audit; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Falck USA\" EMS quality improvement director | \"Falck USA\" EMS chief staff directory contact | \"Falck USA\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
+          "url": "https://account.microsoft.com/account",
+          "description": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
+        },
+        {
+          "title": "Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/what-is-the-impact-for-current-apple-id-when-add-a/e645911a-fb50-4f94-9712-b179375b9849",
+          "description": "Microsoft Community"
+        },
+        {
+          "title": "Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/word-365-account-for-an-english-teacher-forces-all/0c2eb3d7-dcc6-4b16-a365-3c9235c84b04",
+          "description": "Microsoft Community"
+        },
+        {
+          "title": "13 BEST Things to Do in Warsaw, Poland (2026)",
+          "url": "https://awaytothecity.com/best-things-to-do-in-warsaw/",
+          "description": "Interactive Map: Best Things to Do in Warsaw To enhance your exploration of Warsaw, we’ve created an interactive map that shows all the top attractions mentioned in this post."
+        },
+        {
+          "title": "Microsoft - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Microsoft",
+          "description": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "MedStar Mobile Healthcare",
@@ -1029,7 +1569,43 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Albuquerque Fire Rescue\" EMS quality improvement director | \"Albuquerque Fire Rescue\" EMS chief staff directory contact | \"Albuquerque Fire Rescue\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "16 Fun Things to Do in Albuquerque, New Mexico - U.S. News Travel",
+          "url": "https://travel.usnews.com/Albuquerque_NM/Things_To_Do/",
+          "description": "Whether you're visiting for the International Balloon Fiesta, a \"Breaking Bad\" tour or just because, these are the best things to do in Albuquerque, New Mexico."
+        },
+        {
+          "title": "Homepage — City of Albuquerque",
+          "url": "https://www.cabq.gov/",
+          "description": "Albuquerque's legislative authority with the power to adopt all ordinances, resolutions, or other legislation conducive to the welfare of the people of the city."
+        },
+        {
+          "title": "11 Best Things to Do in Albuquerque",
+          "url": "https://albuquerque.com/discover-the-5-best-things-to-do-in-albuquerque/",
+          "description": "Plan your trip with our Albuquerque bucket list. Discover local Native culture, historic Old Town, the Balloon Fiesta, green chile roasters, and top museums."
+        },
+        {
+          "title": "Your Guide to the Best Things to Do in Albuquerque",
+          "url": "https://albuquerque.com/things-to-do/",
+          "description": "Looking for the best things to do in Albuquerque! Our guide will help you plan family-friendly events, your next road trip or outdoor adventure, and more!"
+        },
+        {
+          "title": "Albuquerque, New Mexico - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Albuquerque,_New_Mexico",
+          "description": "Albuquerque[b] is the most populous city in the U.S. state of New Mexico. [8] Founded in 1706 as La Villa de Alburquerque by Santa Fe de Nuevo México governor Francisco Cuervo y Valdés, and named in honor of Francisco Fernández de la Cueva, 10th Duke of Alburquerque and Viceroy of New Spain, it was an outpost on El Camino Real, linking Mexico City to the northernmost territories of New ..."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Las Vegas Fire & Rescue",
@@ -1315,7 +1891,43 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Anne Arundel County Fire Department\" EMS quality improvement director | \"Anne Arundel County Fire Department\" EMS chief staff directory contact | \"Anne Arundel County Fire Department\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Anne (TV series) - Anne with an E Wiki",
+          "url": "https://anne-with-an-e.fandom.com/wiki/Anne_(TV_series)",
+          "description": "Anne, also known as Anne - The Series and rebranded as \"Anne with an E\" on Netflix, is a drama television series based on the books by Lucy M. Montgomery. The series is produced by Canadian Broadcasting Corporation (CBC) and world-wide broadcast by Netflix. Anne is a coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her ..."
+        },
+        {
+          "title": "Anne - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Anne",
+          "description": "Anne, alternatively spelled Ann, is a form of the Latin female name Anna. This in turn is a representation of the Hebrew Hannah, which means 'favour' or 'grace'. [1] Related names include Annie and Ana. Anne is sometimes used as a male name in the Netherlands, particularly in the Frisian speaking part (for example, author Anne de Vries)."
+        },
+        {
+          "title": "Anne with an E - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Anne_with_an_E",
+          "description": "Anne with an E (initially titled Anne for its first season within Canada) is a Canadian period drama television series loosely adapted from Lucy Maud Montgomery 's 1908 classic work of children's literature, Anne of Green Gables. It was created by Moira Walley-Beckett for CBC and Netflix; it stars Amybeth McNulty as orphan Anne Shirley, Geraldine James as Marilla Cuthbert, R. H. Thomson as ..."
+        },
+        {
+          "title": "Anne with an E (TV Series 2017–2019) - IMDb",
+          "url": "https://m.imdb.com/title/tt5421602",
+          "description": "Anne with an E: Created by Moira Walley-Beckett. With Amybeth McNulty, Geraldine James, R.H. Thomson, Andrea Arruti. The adventures of a young orphan girl living in late-19th-century Canada. Follow Anne as she learns to navigate her new life on Prince Edward Island in this new take on L.M. Montgomery's classic novels."
+        },
+        {
+          "title": "Anne with an E (TV Series 2017–2019) - Episode list - IMDb",
+          "url": "https://m.imdb.com/title/tt5421602/episodes/",
+          "description": "Anne is introduced to the inner social workings of public school, while Marilla is introduced to the inner social workings of Avonlea's progressive young mothers. Anne and Marilla struggle with Anne's staunch boycott of the local school; a minister's backward advice has a reverse effect, causing ..."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Prince George's County Fire/EMS Department",
@@ -1391,7 +2003,43 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Allegheny County Emergency Services\" EMS quality improvement director | \"Allegheny County Emergency Services\" EMS chief staff directory contact | \"Allegheny County Emergency Services\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Home - Allegheny County, PA",
+          "url": "https://www.alleghenycounty.us/Home",
+          "description": "The official website of Allegheny County, PA, which provides information on services, licenses, records and permits, and events for neighbors and businesses."
+        },
+        {
+          "title": "Allegheny College - Profile, Rankings and Data | US News Best Colleges",
+          "url": "https://www.usnews.com/best-colleges/allegheny-college-3230",
+          "description": "Find everything you need to know about Allegheny College, including tuition & financial aid, student life, application info, academics & more."
+        },
+        {
+          "title": "Allegheny College",
+          "url": "https://allegheny.edu/",
+          "description": "At Allegheny, you’re never just one thing. Let your passions shape your purpose through distinctive majors and experiential learning centers."
+        },
+        {
+          "title": "Visit - Allegheny College",
+          "url": "https://allegheny.edu/visit/",
+          "description": "Allegheny offers majors and minors in several aspects of the arts, as well as lessons, clubs, and organizations that allow students to express their artistic talents."
+        },
+        {
+          "title": "Allegheny County, Pennsylvania - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",
+          "description": "Four major rivers traverse Allegheny County: the Allegheny River and the Monongahela River converge at Downtown Pittsburgh to form the Ohio River. The Youghiogheny River flows into the Monongahela River at McKeesport, 10 miles (16 km) to the southeast."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "Atlanta Fire Rescue Department",
@@ -1410,7 +2058,43 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Atlanta Fire Rescue Department\" EMS quality improvement director | \"Atlanta Fire Rescue Department\" EMS chief staff directory contact | \"Atlanta Fire Rescue Department\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "31 Best Things To Do in Atlanta - U.S. News Travel",
+          "url": "https://travel.usnews.com/Atlanta_GA/Things_To_Do/",
+          "description": "Discover fun things to do in Atlanta, including family-friendly attractions like the Georgia Aquarium, World of Coca-Cola museum and Center for Puppetry Arts."
+        },
+        {
+          "title": "Atlanta, GA | Home",
+          "url": "https://www.atlantaga.gov/",
+          "description": "The City of Atlanta Government includes the Mayor’s Executive Offices as well as Departments, Commissions, Boards and associated Agencies. Together, they deliver and manage City services, programs and other operations."
+        },
+        {
+          "title": "Atlanta",
+          "url": "https://atlanta.com/",
+          "description": "Hartsfield-Jackson Atlanta International Airport is one of the busiest airports in the world, making Atlanta easy to reach from anywhere. Top attractions include the Georgia Aquarium, World of Coca-Cola, the Martin Luther King Jr. National Historic Site, and the Atlanta BeltLine trail system."
+        },
+        {
+          "title": "Atlanta City guide to top attractions, neighborhoods and culture",
+          "url": "https://atlanta.com/articles/city/atlanta-city",
+          "description": "Explore Atlanta City with insider guides to top neighborhoods, food, history, and nightlife. Plan smarter, avoid tourist traps, and discover what to do next."
+        },
+        {
+          "title": "Official Atlanta Guide for Travelers and Locals | Discover Atlanta",
+          "url": "https://discoveratlanta.com/",
+          "description": "Explore things to do in Atlanta, popular attractions, events, restaurants & nearby hotels to help plan your trip or weekend in Atlanta."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "agency": "DeKalb County Fire Rescue",
@@ -1526,7 +2210,43 @@
       "triggerTerms": "procurement; ambulance billing; ePCR; reporting; documentation; compliance",
       "validationStatus": "Needs review",
       "validationReason": "Review original source and record the exact evidence, date, and MedAssist relevance.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "Target role: EMS QA/QI or clinical quality leader",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Fort Lauderdale Fire Rescue\" EMS quality improvement director | \"Fort Lauderdale Fire Rescue\" EMS chief staff directory contact | \"Fort Lauderdale Fire Rescue\" QA QI patient care report contact",
+      "contactResearchResults": [
+        {
+          "title": "Find A Fort - Forts (U.S. National Park Service)",
+          "url": "https://www.nps.gov/subjects/forts/find-a-fort.htm",
+          "description": "This map shows locations of forts preserved by the National Park Service throughout the United States and Puerto Rico. Bent's Old Fort National Historic Site features a reconstructed 1840s adobe fur trading post on the mountain branch of the Santa Fe Trail."
+        },
+        {
+          "title": "Fortification - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fortification",
+          "description": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime."
+        },
+        {
+          "title": "List of forts in the United States - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_forts_in_the_United_States",
+          "description": "This is a list of historical forts in the United States. World War II military reservations containing 8-inch and larger gun batteries are also included. Roberts 1988, p. 10. Roberts 1988, pp. 3–4. Roberts 1988, p. 527. Roberts 1988, pp. 821–822. Roberts, Robert B. (1988)."
+        },
+        {
+          "title": "Fortnite Tracker - Fortnite Stats, Leaderboards, & More!",
+          "url": "https://fortnitetracker.com/",
+          "description": "Detailed Fortnite Stats, Leaderboards, Fortnite Events, Creatives, Challenges and more!"
+        },
+        {
+          "title": "Fortnite | Download and Play for Free - Epic Games Store",
+          "url": "https://store.epicgames.com/p/fortnite?lang=en-US",
+          "description": "Explore the worlds of LEGO Fortnite. There is always something new for you and your friends. Stay up to date with what’s happening in Fortnite this week, including new experiences and updates. Everything you love, all in Fortnite. Drop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
+      "contactResearchStatus": "Search results found; review official source and identify a named contact"
     },
     {
       "id": "rss-32e2c6b01d087205",
@@ -3842,15 +4562,19 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Public EMS oversight and advisory boards. Query: EMS advisory board (\"quality assurance\" OR \"quality improvement\" OR documentation OR ePCR). Collected at 2026-10-09T05:17:49.160043+00:00. Publisher: Maine.gov. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T05:17:49.160043+00:00",
-  "last_research_added": 12,
+  "last_research_run_utc": "2026-10-09T05:26:47.049011+00:00",
+  "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 25,
-  "last_research_skipped_irrelevant": 16,
+  "last_research_skipped_old": 28,
+  "last_research_skipped_irrelevant": 18,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
     "records_reviewed": 180,
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
-  }
+  },
+  "last_contact_research_run_utc": "2026-10-09T05:26:55.284781+00:00",
+  "last_contact_research_checked": 20,
+  "last_contact_research_with_results": 20,
+  "last_contact_research_errors": []
 }
