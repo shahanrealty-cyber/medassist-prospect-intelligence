@@ -156,8 +156,12 @@ async function refreshSharedDatabase(){
       const key=identity(remote),local=existing.get(key);
       if(!local){const incoming={...remote,id:remote.id||('remote-'+btoa(unescape(encodeURIComponent(key))).replace(/[^a-zA-Z0-9]/g,'').slice(0,18))};leads.push(incoming);added++;addedRecords.push({agency:incoming.agency||'Agency not identified',state:incoming.state||'State unknown',signal:incoming.signal||'',source:incoming.source||''});continue}
       const merged={...remote,...local};
+      // Keep browser-local sales work, but always refresh research metadata from the shared database.
       for(const field of ['agency','state','providerType','category','signal','why','contact','nextStep','source','confidence','signalDate','notes','triggerQuery','triggerTerms','sourceType','publishedAt','agencyMatchConfidence','validationStatus','triggerEvidence','medassistRelevance','validationReason','lastValidatedAt']){
         if(!local[field]&&remote[field])merged[field]=remote[field];
+      }
+      for(const field of ['triggerQuery','triggerTerms','triggerEvidence','sourceType','validationReason','medassistRelevance']){
+        if(remote[field])merged[field]=remote[field];
       }
       if(!local.status)merged.status=remote.status||'Research';
       Object.assign(local,merged);updated++;
