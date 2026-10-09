@@ -65,6 +65,8 @@ def main():
                     "state": "",
                     "providerType": "Public / private EMS research",
                     "category": category,
+                    "triggerQuery": query,
+                    "triggerTerms": category,
                     "signal": title + ((" | Publisher: " + publisher) if publisher else ""),
                     "why": "Candidate public-news signal discovered by hourly RSS search. Validate the underlying article, identify the actual agency/provider, and confirm relevance before outreach.",
                     "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
@@ -73,7 +75,7 @@ def main():
                     "confidence": "Needs validation",
                     "status": "Research",
                     "signalDate": pubdate,
-                    "notes": "Automated RSS candidate. Search category: " + category + ". Collected at " + now + ". Publisher: " + publisher + ". Do not treat as a verified buying signal."
+                    "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Trigger category: " + category + ". Exact search query: " + query + ". Collected at " + now + ". Publisher: " + publisher + ". The headline may not identify a buyer or demonstrate purchase intent. Open and validate source before outreach."
                 }
                 k = key_for(lead)
                 if k in existing_keys:
