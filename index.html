@@ -111,7 +111,7 @@ async function refreshSharedDatabase(){
       const key=identity(remote),local=existing.get(key);
       if(!local){leads.push({...remote,id:remote.id||('remote-'+btoa(unescape(encodeURIComponent(key))).replace(/[^a-zA-Z0-9]/g,'').slice(0,18))});added++;continue}
       const merged={...remote,...local};
-      for(const field of ['agency','state','providerType','category','signal','why','contact','nextStep','source','confidence','signalDate','notes']){
+      for(const field of ['agency','state','providerType','category','signal','why','contact','nextStep','source','confidence','signalDate','notes','triggerQuery','triggerTerms']){
         if(!local[field]&&remote[field])merged[field]=remote[field];
       }
       if(!local.status)merged.status=remote.status||'Research';
