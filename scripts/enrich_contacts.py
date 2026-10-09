@@ -41,7 +41,8 @@ def relevant_result(item, agency):
         return False
     terms = [t.lower() for t in re.findall(r"[A-Za-z0-9]+", agency) if len(t) > 3 and t.lower() not in {"department", "county", "rescue", "system"}]
     blob = (item.get("title", "") + " " + item.get("description", "") + " " + url).lower()
-    return any(term in blob for term in terms) or officialish(url)
+    context_terms = ("fire rescue", "fire department", "ems", "emergency medical", "ambulance", "quality improvement", "clinical quality", "staff directory", "leadership", "medical director", "chief")
+    return any(term in blob for term in terms) and any(term in blob for term in context_terms)
 
 def fetch_rss(query):
     url = "https://www.bing.com/search?format=rss&q=" + quote(query)
