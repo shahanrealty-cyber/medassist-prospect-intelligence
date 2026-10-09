@@ -67,6 +67,7 @@ def main():
                     "category": category,
                     "triggerQuery": query,
                     "triggerTerms": category,
+                    "triggerEvidence": "Headline: " + title + ((" | Publisher: " + publisher) if publisher else "") + ". This is a discovery clue only; open the linked article and verify the agency, date, and operational relevance.",
                     "signal": title + ((" | Publisher: " + publisher) if publisher else ""),
                     "why": "Candidate public-news signal discovered by hourly RSS search. Validate the underlying article, identify the actual agency/provider, and confirm relevance before outreach.",
                     "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
