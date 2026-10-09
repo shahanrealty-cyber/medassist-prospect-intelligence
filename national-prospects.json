@@ -92,35 +92,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Seminole County Fire Department   EMS System\" FL fire rescue leadership official | \"Seminole County Fire Department   EMS System\" FL EMS quality improvement contact | \"Seminole County Fire Department   EMS System\" FL staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Seminole History - Florida Department of State",
-          "url": "https://dos.fl.gov/florida-facts/florida-history/seminole-history/",
-          "description": "The 1770s is when Florida Indians collectively became known as Seminole, a name meaning \"wild people\" or \"runaway.\" In addition to Creeks, Seminoles included Yuchis, Yamasses and a few aboriginal remnants."
-        },
-        {
-          "title": "Seminole | History, Culture & Facts | Britannica",
-          "url": "https://www.britannica.com/topic/Seminole-people",
-          "description": "Seminole, North American Indian tribe of Creek origin who speak a Muskogean language. In the last half of the 18th century, migrants from the Creek towns of southern Georgia moved into northern Florida, the former territory of the Apalachee and Timucua."
-        },
-        {
-          "title": "SEMINOLE Definition & Meaning - Merriam-Webster",
-          "url": "https://www.merriam-webster.com/dictionary/Seminole",
-          "description": "The meaning of SEMINOLE is a member of any of several groups of Indigenous people that emigrated to Florida from Georgia and Alabama in the 18th and 19th centuries and whose descendants now live in southern Florida and Oklahoma."
-        },
-        {
-          "title": "Seminole, FL | Official Website",
-          "url": "https://www.myseminole.com/",
-          "description": "11th Annual Art In The Park Featuring local Artists & Fine Crafters Read on..."
-        },
-        {
-          "title": "Seminole Tribe of Florida",
-          "url": "https://www.semtribe.com/",
-          "description": "Seminole Tribe of Florida official homepage is dedicated to the rich history, culture, and services of the Florida Seminole Indians."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Sacramento Metropolitan Fire District (Metro Fire)",
@@ -149,35 +123,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Sacramento Metropolitan Fire District  Metro Fire\" CA fire rescue leadership official | \"Sacramento Metropolitan Fire District  Metro Fire\" CA EMS quality improvement contact | \"Sacramento Metropolitan Fire District  Metro Fire\" CA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "12 Best Things To Do in Sacramento - U.S. News Travel",
-          "url": "https://travel.usnews.com/Sacramento_CA/Things_To_Do/",
-          "description": "Ranking of the top 12 things to do in Sacramento. Travelers favorites include #1 Capitol Park, #2 Crocker Art Museum and more."
-        },
-        {
-          "title": "Home | City of Sacramento",
-          "url": "https://www.cityofsacramento.gov/",
-          "description": "Homepage of the City of Sacramento's website"
-        },
-        {
-          "title": "Sacramento | History, Population, Map, & Facts | Britannica",
-          "url": "https://www.britannica.com/place/Sacramento-California",
-          "description": "Sacramento, city, capital of California, U.S., and seat of Sacramento county, in the north-central part of the state. It is situated in the Sacramento Valley along the Sacramento River at its confluence with the American River, about 90 miles northeast of San Francisco and 45 miles north of Stockton."
-        },
-        {
-          "title": "THE 15 BEST Things to Do in Sacramento (2026) - Tripadvisor",
-          "url": "https://www.tripadvisor.com/Attractions-g32999-Activities-Sacramento_California.html",
-          "description": "Things to Do in Sacramento, California: See Tripadvisor's 93,757 traveler reviews and photos of Sacramento tourist attractions. Find what to do today, this weekend, or in October. We have reviews of the best places to see in Sacramento. Visit top-rated & must-see attractions."
-        },
-        {
-          "title": "Visit Sacramento | Hotels, Restaurants, Events, & Things to Do",
-          "url": "https://www.visitsacramento.com/",
-          "description": "The official visitor and travel website for Sacramento. Find information on things to do, hotels, restaurants, events, activities, and attractions in and around Sacramento to help plan your next trip."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Montgomery County Fire and Rescue Service",
@@ -206,35 +154,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Montgomery County Fire and Rescue Service\" MD fire rescue leadership official | \"Montgomery County Fire and Rescue Service\" MD EMS quality improvement contact | \"Montgomery County Fire and Rescue Service\" MD staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "City of Montgomery, AL | Home",
-          "url": "https://www.montgomeryal.gov/",
-          "description": "Known as the Capital of Dreams, Montgomery is a city rich in history, yet clearly focused on the future."
-        },
-        {
-          "title": "Get to Know Montgomery",
-          "url": "https://experiencemontgomeryal.org/get-to-know-montgomery/",
-          "description": "Montgomery's cultural landscape offers rich stories and meaningful context, from the powerful exhibits at the Legacy Sites to the iconic steps of the Alabama State Capitol. Explore the Rosa Parks Museum, the Freedom Rides Museum, and local favorites like the Montgomery Museum of Fine Arts."
-        },
-        {
-          "title": "Montgomery Advertiser",
-          "url": "https://www.montgomeryadvertiser.com/",
-          "description": "Stay informed with both Montgomery Alabama news as well as headlines and stories from around the world."
-        },
-        {
-          "title": "Montgomery's - South Dakota Furniture & Mattress Stores",
-          "url": "https://www.montgomerys.com/",
-          "description": "At each one of our four eastern South Dakota locations, you will find furniture, flooring, lighting, window treatments, mattresses and home decor. Our expert design team offers complimentary interior design consultations to guide you through every step of your shopping experience."
-        },
-        {
-          "title": "16 Best Things To Do In Montgomery, Alabama - Southern Living",
-          "url": "https://www.southernliving.com/montgomery-alabama-7504866",
-          "description": "The birthplace of the Civil Rights Movement, here are the best things to do in Montgomery, Alabama, from museums to restaurants to the Freedom Riders Trail."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Greenville County EMS",
@@ -263,35 +185,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Greenville County EMS\" SC fire rescue leadership official | \"Greenville County EMS\" SC EMS quality improvement contact | \"Greenville County EMS\" SC staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Greenville, SC - Official Website | Official Website",
-          "url": "https://www.greenvillesc.gov/",
-          "description": "GVLText Provides Curated News and Information Direct from the Source: The City of Greenville has launched GVLText — a new, curated text (SMS)... The City of Greenville will host an electronics recycling and shredding event Saturday, Oct. 17 from 9 a.m. to noon at the Public Works Facility,..."
-        },
-        {
-          "title": "Greenville SC Community | All Things Greenville",
-          "url": "https://allthingsgreenville.com/",
-          "description": "Greenville SC community by All Things Greenville. Discover local events, businesses, and connect with the Greenville, SC community today."
-        },
-        {
-          "title": "Greenville, Wisconsin Wiki | Fandom",
-          "url": "https://greenville-wisconsin.fandom.com/wiki/Greenville,_Wisconsin_Wiki",
-          "description": "Players can customize and buy their dream cars, interactively work, role-play with friends, drive around the city of Greenville and the small towns of Horton and Brookmere, and more! We're an encyclopedia documenting the Greenville game created by the fans, for fans."
-        },
-        {
-          "title": "Greenville.com - An Online Guide to Greenville, SC",
-          "url": "https://www.greenville.com/",
-          "description": "Guiding you toward things to do, places to eat, and hotels to stay at while visiting Greenville, SC."
-        },
-        {
-          "title": "County of Greenville, SC",
-          "url": "https://www.greenvillecounty.org/Default.aspx",
-          "description": "Greenville County Council voted to place a referendum on the ballot this November giving residents the option to vote “yes” or “no” to a 1% sales tax. Get Information. WEEKLY OPERATIONS. This week's meeting calendar: Click Here."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "King County EMS",
@@ -320,30 +216,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"King County EMS\" WA fire rescue leadership official | \"King County EMS\" WA EMS quality improvement contact | \"King County EMS\" WA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "KING | English meaning - Cambridge Dictionary",
-          "url": "https://dictionary.cambridge.org/dictionary/english/king",
-          "description": "A king is a playing piece in the game of chess and each player’s most important piece."
-        },
-        {
-          "title": "King.com - Play the Most Popular & Fun Games Online!",
-          "url": "https://www.king.com/",
-          "description": "Join millions of other players and enjoy the most popular and fun games online at King.com. Enter the Kingdom and make new friends in our player community!"
-        },
-        {
-          "title": "Free Online Games – Download or Play Now at King.com",
-          "url": "https://www.king.com/game",
-          "description": "Download game apps or play the free, full-version online games at King.com! Enjoy our hugely popular games with your friends and have fun playing online!"
-        },
-        {
-          "title": "KING Definition & Meaning - Merriam-Webster",
-          "url": "https://www.merriam-webster.com/dictionary/king",
-          "description": "The meaning of KING is a male monarch of a major territorial unit; especially : one whose position is hereditary and who rules for life. How to use king in a sentence."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Monterey County EMS Agency",
@@ -372,35 +247,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Monterey County EMS Agency\" CA fire rescue leadership official | \"Monterey County EMS Agency\" CA EMS quality improvement contact | \"Monterey County EMS Agency\" CA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "City of Monterey, CA",
-          "url": "https://monterey.gov/",
-          "description": "Sea lions are back, temporarily closing public access to San Carlos Beach."
-        },
-        {
-          "title": "City of Monterey, CA",
-          "url": "https://www.monterey.gov/Services/",
-          "description": "Now there's a new way to find the vast array of services provided by our full service city - download the new MY Monterey Gov app and get started! MY Monterey Gov app details. If you still can't find the topic you need, please email us at suggest@monterey.gov or call (831) 646-3799."
-        },
-        {
-          "title": "Monterey Bay Aquarium",
-          "url": "https://www.montereybayaquarium.org/",
-          "description": "Located at the ocean's edge on historic Cannery Row, the Monterey Bay Aquarium is your window to marine life. Visit sea otters, penguins, sharks, jellies…"
-        },
-        {
-          "title": "See Monterey California and Explore California’s Central Coast",
-          "url": "https://www.seemonterey.com/",
-          "description": "Plan a vacation in Monterey County during the ideal time of year for your travel musts. Discover seasonal draws, including popular annual events, things to do and suggested places to stay."
-        },
-        {
-          "title": "Things to Do in Monterey: Discover the Beauty of Monterey CA",
-          "url": "https://www.seemonterey.com/things-to-do/",
-          "description": "Monterey County’s rich artistic heritage and vibrant cultural scene make it a haven for art lovers, history buffs and creatives alike. From world-class museums to charming galleries and live performances, there’s always something to inspire and delight."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "San Mateo Consolidated Fire Department",
@@ -462,32 +311,12 @@
       "contactResearchQuery": "\"Palm Beach County EMS System\" FL fire rescue leadership official | \"Palm Beach County EMS System\" FL EMS quality improvement contact | \"Palm Beach County EMS System\" FL staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "74 Types of Palm Trees with Pictures: Identification Guide",
-          "url": "https://leafyplace.com/types-of-palm-trees/",
-          "description": "This guide will help you identify and choose the perfect palm for your garden or indoor space. Discover a wide range of palms, along with their pictures."
-        },
-        {
-          "title": "Palm | Live in the moment.",
-          "url": "https://palm.com/",
-          "description": "Palm is the best small phone for minimalists, athletes, and families. Your entire digital life now fits in a coin pocket. Perfect for taking a break from your big phone."
-        },
-        {
-          "title": "USA Palm",
-          "url": "https://usapalm.com/",
-          "description": "Crafted with premium fabrics and meticulous detail, USA Palm Quarter-Zips deliver unmatched comfort, durability, and style, elevated layers built to last and impress."
-        },
-        {
-          "title": "Palm | Description, Uses, Examples, Distribution, Types ...",
+          "title": "Palm | Description, Uses, Examples, Distribution, Types, & Facts ...",
           "url": "https://www.britannica.com/plant/palm-tree",
           "description": "palm, (family Arecaceae), family of nearly 190 genera and more than 2,450 species of monocotyledonous flowering plants (order Arecales). Members of the palm family are of major ecological importance to many tropical ecosystems and provide food and habitat to a wide range of wildlife."
-        },
-        {
-          "title": "PALM Definition & Meaning - Merriam-Webster",
-          "url": "https://www.merriam-webster.com/dictionary/palm",
-          "description": "The meaning of PALM is any of a family (Palmae synonym Arecaceae) of mostly tropical or subtropical monocotyledonous trees, shrubs, or vines with usually a simple stem and a terminal crown of large pinnate or fan-shaped leaves."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
       "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
@@ -515,35 +344,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Austin-Travis County EMS\" TX fire rescue leadership official | \"Austin-Travis County EMS\" TX EMS quality improvement contact | \"Austin-Travis County EMS\" TX staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "25 Best Things To Do in Austin - U.S. News Travel",
-          "url": "https://travel.usnews.com/Austin_TX/Things_To_Do/",
-          "description": "Guide to the best hotels and things to do in Austin. Maps, travel tips and more."
-        },
-        {
-          "title": "City of Austin | AustinTexas.gov",
-          "url": "https://www.austintexas.gov/",
-          "description": "The City of Austin will host its 2026 Fair Chance Hiring Job and Resource Fair on Wednesday, September 30, 2026, from 10 a.m. to 3 p.m. at the Permitting and Development Center, located at 6310 Wilhelmina Delco Drive, Austin, TX 78752."
-        },
-        {
-          "title": "30+ Epic Things to Do in Austin,TX (2025 Guide)",
-          "url": "https://seekaustin.com/things-to-do/austin-tx/",
-          "description": "Planning a trip to Austin? Discover 30+ things to do in Austin for outdoor adventures, top food spots, music venues, and unique experiences."
-        },
-        {
-          "title": "Austin, TX | Hotels, Music, Restaurants & Things to Do",
-          "url": "https://www.austintexas.org/",
-          "description": "Austin, Texas is the Live Music Capital of the World... and so much more. Explore our city's hotels, things to do, restaurant and nightlife scene, museums, outdoor spaces and exciting events."
-        },
-        {
-          "title": "Things to Do in Austin, TX | Attractions & Live Music",
-          "url": "https://www.austintexas.org/things-to-do/",
-          "description": "Explore the best things to do in Austin, from nightlife and shopping to sightseeing and outdoor activities. Find official information on attractions and more."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Mecklenburg EMS Agency (MEDIC)",
@@ -739,35 +542,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Boston EMS\" MA fire rescue leadership official | \"Boston EMS\" MA EMS quality improvement contact | \"Boston EMS\" MA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "30 Top-Rated Things to Do in Boston - U.S. News Travel",
-          "url": "https://travel.usnews.com/Boston_MA/Things_To_Do/",
-          "description": "Aside from the historic Freedom Trail, top-rated things to do in Boston include eating Italian fare in the North End and catching a game or concert at Fenway Park."
-        },
-        {
-          "title": "Homepage | Boston.gov",
-          "url": "https://www.boston.gov/",
-          "description": "Welcome to the official homepage for the City of Boston."
-        },
-        {
-          "title": "Visiting Boston | Boston.gov",
-          "url": "https://www.boston.gov/visiting-boston",
-          "description": "With our rich history, diverse neighborhoods, and legacy of arts, culture, and education, Boston has something for everyone."
-        },
-        {
-          "title": "Boston.com: Local breaking news, sports, weather, and things to do",
-          "url": "https://www.boston.com/",
-          "description": "What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and more on Boston.com."
-        },
-        {
-          "title": "Boston news: Local and national breaking news, crime, and politics",
-          "url": "https://www.boston.com/category/news/",
-          "description": "Get the latest local and national breaking news, crime, Boston traffic, New England weather, politics in Massachusetts and across the U.S., and more."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Nashville Fire Department",
@@ -813,35 +590,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Baltimore City Fire Department\" MD fire rescue leadership official | \"Baltimore City Fire Department\" MD EMS quality improvement contact | \"Baltimore City Fire Department\" MD staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Home | Baltimore City",
-          "url": "https://www.baltimorecity.gov/",
-          "description": "Brandon M. Scott is the 52nd Mayor of Baltimore City, and the youngest person elected to the position in over a century. Mayor Scott is committed to ending gun violence, restoring public trust in local government, and building a more equitable Baltimore for families to thrive."
-        },
-        {
-          "title": "Baltimore",
-          "url": "https://baltimore.com/",
-          "description": "Baltimore is an informational news publication. Content published on this site is for general informational and educational purposes only and does not constitute professional legal, financial, medical, or other professional advice."
-        },
-        {
-          "title": "Visit Baltimore | Official Travel Website for Baltimore Maryland",
-          "url": "https://baltimore.org/",
-          "description": "Baltimore is full of surprises, steeped in history (home of the birthplace of our national anthem!) and culture, from the gritty graffiti alley to the vast collections at our art museums."
-        },
-        {
-          "title": "Things to Do in Baltimore | Visit Baltimore",
-          "url": "https://baltimore.org/what-to-do",
-          "description": "We invite you to wander through eclectic neighborhoods and visit a variety of attractions at your leisure, or select from one of our many guided tour opportunities. Scroll down for our recommendations of what to do in Baltimore. The Baltimore restaurant scene is thriving."
-        },
-        {
-          "title": "Baltimore Sun – Baltimore Sun: Your source for Baltimore breaking news ...",
-          "url": "https://www.baltimoresun.com/",
-          "description": "Editorial: The announcement of a $3.7 billion submarine manufacturing facility in Baltimore County should have been a moment of unity."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "District of Columbia Fire and EMS Department",
@@ -1147,35 +898,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Boca Raton Fire Rescue\" FL fire rescue leadership official | \"Boca Raton Fire Rescue\" FL EMS quality improvement contact | \"Boca Raton Fire Rescue\" FL staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Boca Restaurants – Fresh Seasonal Creations",
-          "url": "https://bocarestaurants.com/",
-          "description": "With a cozy vibe, food you crave, and heartfelt hospitality, Boca is your kind of place - where everyone recognizes you and knows how much you matter. Relax and enjoy the comfortable industrial farmhouse design while great music and engaging conversation surround you."
-        },
-        {
-          "title": "Club Atlético Boca Juniors",
-          "url": "https://www.bocajuniors.com.ar/",
-          "description": "Sitio web oficial del Club Atlético Boca Juniors. Noticias, información, contenidos especiales y todo lo que los socios, socias e hinchas en general necesitan saber sobre el club."
-        },
-        {
-          "title": "Boca Taqueria - Award Winning Mexican Food",
-          "url": "https://www.bocataqueria.com/",
-          "description": "I have never had a hamburger there but I will now. I have always ordered the shrimp tacos. I have ordered shrimp tacos from many places around the valley and none have ever Been as good as Boca. Also seafood enchiladas are excellent !!! My favorite place!"
-        },
-        {
-          "title": "Toca Boca — Kids Games & Digital Play Studio",
-          "url": "https://www.tocaboca.com/",
-          "description": "Toca Boca creates digital toys and games for kids. Play Toca Boca World, Toca Boca Jr, and more — available on iOS and Android. A Spin Master studio."
-        },
-        {
-          "title": "Boca Raton Florida - Things to Do & Attractions",
-          "url": "https://www.visitflorida.com/places-to-go/southeast/boca-raton/",
-          "description": "A. Boca Raton offers a variety of activities for visitors. You can explore the beautiful beaches, such as Red Reef Park, which is great for snorkeling and swimming."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Delray Beach Fire Rescue",
@@ -1277,35 +1002,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"American Medical Response  AMR\" CO fire rescue leadership official | \"American Medical Response  AMR\" CO EMS quality improvement contact | \"American Medical Response  AMR\" CO staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Log in help - AAdvantage® - American Airlines",
-          "url": "https://login.aa.com/miniMenu?locale=en_US",
-          "description": "Log in to your AAdvantage account to manage bookings, check-in, and access exclusive benefits with American Airlines."
-        },
-        {
-          "title": "American Airlines - Advanced search",
-          "url": "https://www.aa.com/booking/find-flights",
-          "description": "Book flights with American Airlines."
-        },
-        {
-          "title": "American Airlines - Airline tickets and low fares at aa.com",
-          "url": "https://www.aa.com/homePage.do?locale=en_US",
-          "description": "Book low fares to destinations around the world and find the latest deals on airline tickets, hotels, car rentals and vacations at aa.com. As an AAdantage member you earn miles on every trip and everyday spend."
-        },
-        {
-          "title": "American Express Credit Cards, Rewards & Banking",
-          "url": "https://www.americanexpress.com/",
-          "description": "American Express offers world-class Charge and Credit Cards, Gift Cards, Rewards, Travel, Personal Savings, Business Services, Insurance and more."
-        },
-        {
-          "title": "Home - From Scratch - American Restaurant in Salt Lake City, UT",
-          "url": "https://www.fromscratchslc.com/",
-          "description": "From Scratch in Salt Lake City, UT. From Scratch is a locally owned, independent restaurant in downtown Salt Lake City whose ethos is to make \"everything from scratch\" — bread, sauces, pasta, jam, even cured meats. They combine a casual, modern atmosphere with a menu of burgers, sandwiches, pizzas, pastas, and seasonal entrees."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Acadian Ambulance Service",
@@ -1331,18 +1030,8 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Acadian Ambulance Service\" EMS quality improvement director | \"Acadian Ambulance Service\" EMS chief staff directory contact | \"Acadian Ambulance Service\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Acadian Ambulance Service\" LA fire rescue leadership official | \"Acadian Ambulance Service\" LA EMS quality improvement contact | \"Acadian Ambulance Service\" LA staff directory fire rescue",
       "contactResearchResults": [
-        {
-          "title": "Acadian Central Log In",
-          "url": "https://ac.acadian.com/login?local=True",
-          "description": "OR Sign in via email OR Sign in via SMS Interact | community Reset your password using the Acadian Password Reset Assistant"
-        },
-        {
-          "title": "Acadian Companies | Knowing Life Matters Since 1971",
-          "url": "https://acadian.com/",
-          "description": "As Acadian employees, we have a great deal of pride in our work, and we see every day as an opportunity to make a difference. Our passion and compassion guide our actions as we treat more than just the injury or ailment, but the person as a whole."
-        },
         {
           "title": "Our Company | Acadian Companies",
           "url": "https://acadian.com/our-company/",
@@ -1359,8 +1048,8 @@
           "description": "In 2006, Acadian became the 911 provider in Orange County. We currently operate in 35 counties and serve nearly 20 million people spanning 32,000 square miles and operating more than 300 ambulance units."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Priority Ambulance",
@@ -1386,36 +1075,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Priority Ambulance\" EMS quality improvement director | \"Priority Ambulance\" EMS chief staff directory contact | \"Priority Ambulance\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "PRIORITY | English meaning - Cambridge Dictionary",
-          "url": "https://dictionary.cambridge.org/dictionary/english/priority",
-          "description": "Repairing the plumbing is a priority task (= more important than other jobs). Banks normally give priority to large businesses when deciding on loans (= they deal with them first because they consider them most important)."
-        },
-        {
-          "title": "PRIORITY | definition in the Cambridge English Dictionary",
-          "url": "https://dictionary.cambridge.org/us/dictionary/english/priority",
-          "description": "PRIORITY meaning: 1. something that is very important and must be dealt with before other things: 2. something that…. Learn more."
-        },
-        {
-          "title": "Login - Priority Courier Experts / VANEX",
-          "url": "https://priority.com/login.asp",
-          "description": "When you login to this site, you will be able to place orders for delivery directly into Priority.com. You should be aware that until you logout, anyone who uses your computer will also have access to place orders on your account."
-        },
-        {
-          "title": "PRIORITY Definition & Meaning | Dictionary.com",
-          "url": "https://www.dictionary.com/browse/priority",
-          "description": "Priority comes from the word prior, which means to come before something else. A priority is the concern, interest or desire that comes before all others."
-        },
-        {
-          "title": "PRIORITY Definition & Meaning - Merriam-Webster",
-          "url": "https://www.merriam-webster.com/dictionary/priority",
-          "description": "The meaning of PRIORITY is the quality or state of being prior. How to use priority in a sentence."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Priority Ambulance\" TN fire rescue leadership official | \"Priority Ambulance\" TN EMS quality improvement contact | \"Priority Ambulance\" TN staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Falck USA",
@@ -1442,35 +1105,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Falck USA\" CA fire rescue leadership official | \"Falck USA\" CA EMS quality improvement contact | \"Falck USA\" CA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Falck US - Home",
-          "url": "https://www.falck.us/",
-          "description": "We are a global market leader in emergency response and healthcare services."
-        },
-        {
-          "title": "Falck US - Services",
-          "url": "https://www.falck.us/services/",
-          "description": "Falck is a global healthcare company and the world’s largest ambulance provider. In the U.S., we deliver 911 emergency response, Mobile Care services, and professional healthcare training."
-        },
-        {
-          "title": "Falck Health Institute",
-          "url": "https://falck.education/",
-          "description": "Career opportunity with Falck Our faculty are always looking for outstanding students and refer them to join Falck, Southern California’s primary 911 response agency."
-        },
-        {
-          "title": "Falck Mobile Care",
-          "url": "https://falckmobilecare.com/",
-          "description": "Falck Mobile Care is a service provided by Falck that offers mobile healthcare solutions. This includes healthcare services delivered directly to patients in their homes or other locations outside of traditional healthcare facilities."
-        },
-        {
-          "title": "Falck - Login",
-          "url": "https://gems.falck.com/",
-          "description": "If you have a Falck email address, please click the SSO (Single Sign On) login. If not, fill in your user name and the password you created when your account was set up."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "MedStar Mobile Healthcare",
@@ -1962,35 +1599,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Albuquerque Fire Rescue\" NM fire rescue leadership official | \"Albuquerque Fire Rescue\" NM EMS quality improvement contact | \"Albuquerque Fire Rescue\" NM staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "16 Fun Things to Do in Albuquerque, New Mexico - U.S. News Travel",
-          "url": "https://travel.usnews.com/Albuquerque_NM/Things_To_Do/",
-          "description": "Whether you're visiting for the International Balloon Fiesta, a \"Breaking Bad\" tour or just because, these are the best things to do in Albuquerque, New Mexico."
-        },
-        {
-          "title": "Homepage — City of Albuquerque",
-          "url": "https://www.cabq.gov/",
-          "description": "Albuquerque's legislative authority with the power to adopt all ordinances, resolutions, or other legislation conducive to the welfare of the people of the city."
-        },
-        {
-          "title": "11 Best Things to Do in Albuquerque",
-          "url": "https://albuquerque.com/discover-the-5-best-things-to-do-in-albuquerque/",
-          "description": "Plan your trip with our Albuquerque bucket list. Discover local Native culture, historic Old Town, the Balloon Fiesta, green chile roasters, and top museums."
-        },
-        {
-          "title": "Your Guide to the Best Things to Do in Albuquerque",
-          "url": "https://albuquerque.com/things-to-do/",
-          "description": "Looking for the best things to do in Albuquerque! Our guide will help you plan family-friendly events, your next road trip or outdoor adventure, and more!"
-        },
-        {
-          "title": "THE 15 BEST Things to Do in Albuquerque (2026) - Tripadvisor",
-          "url": "https://www.tripadvisor.com/Attractions-g60933-Activities-Albuquerque_New_Mexico.html",
-          "description": "Things to Do in Albuquerque, New Mexico: See Tripadvisor's 209,769 traveler reviews and photos of Albuquerque tourist attractions. Find what to do today, this weekend, or in October. We have reviews of the best places to see in Albuquerque. Visit top-rated & must-see attractions."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Las Vegas Fire & Rescue",
@@ -2428,35 +2039,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Anne Arundel County Fire Department\" MD fire rescue leadership official | \"Anne Arundel County Fire Department\" MD EMS quality improvement contact | \"Anne Arundel County Fire Department\" MD staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Anne Shirley Cuthbert | Anne with an E Wiki | Fandom",
-          "url": "https://anne-with-an-e.fandom.com/wiki/Anne_Shirley_Cuthbert",
-          "description": "Anne Cordelia Shirley-Cuthbert is the titular protagonist of Anne. She is the orphaned daughter of Walter Shirley and Bertha Shirley, and the adoptive daughter of Marilla and Matthew Cuthbert. She is portrayed by Amybeth McNulty. After an abusive childhood spent in orphanages and working in the homes of strangers, 13-year-old Anne Shirley is a remarkably resilient girl with a unique spirit ..."
-        },
-        {
-          "title": "Anne Hathaway - IMDb",
-          "url": "https://m.imdb.com/name/nm0004266/",
-          "description": "Anne Jacqueline Hathaway was born in Brooklyn, New York, to Kate McCauley Hathaway, an actress, and Gerald T. Hathaway, a lawyer, both originally from Philadelphia. She is of mostly Irish descent, along with English, German, and French. Her first major role came in the short-lived television series Get Real (1999)."
-        },
-        {
-          "title": "Anne with an E (TV Series 2017–2019) - IMDb",
-          "url": "https://m.imdb.com/title/tt5421602",
-          "description": "Anne with an E: Created by Moira Walley-Beckett. With Amybeth McNulty, Geraldine James, R.H. Thomson, Andrea Arruti. The adventures of a young orphan girl living in late-19th-century Canada. Follow Anne as she learns to navigate her new life on Prince Edward Island in this new take on L.M. Montgomery's classic novels."
-        },
-        {
-          "title": "Anne with an E - streaming tv show online - JustWatch",
-          "url": "https://www.justwatch.com/us/tv-show/anne",
-          "description": "Find out how and where to watch \"Anne with an E\" on Netflix and Prime Video today - including free options."
-        },
-        {
-          "title": "Watch Anne with an E | Netflix Official Site",
-          "url": "https://www.netflix.com/title/80136311",
-          "description": "A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on \"Anne of Green Gables.\""
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Prince George's County Fire/EMS Department",
@@ -2540,25 +2125,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Allegheny County Emergency Services\" PA fire rescue leadership official | \"Allegheny County Emergency Services\" PA EMS quality improvement contact | \"Allegheny County Emergency Services\" PA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Home - Allegheny County, PA",
-          "url": "https://www.alleghenycounty.us/Home",
-          "description": "The official website of Allegheny County, PA, which provides information on services, licenses, records and permits, and events for neighbors and businesses."
-        },
-        {
-          "title": "Allegheny | Pittsburgh, Rivers, Hills | Britannica",
-          "url": "https://www.britannica.com/place/Allegheny",
-          "description": "Allegheny, county, southwestern Pennsylvania, U.S., consisting of a hilly region on the Allegheny Plateau bounded to the southeast by the Monongahela and Youghiogheny rivers and to the northeast by the Allegheny River."
-        },
-        {
-          "title": "Allegheny Mountains | Appalachian, Pennsylvania, Maryland - Britannica",
-          "url": "https://www.britannica.com/place/Allegheny-Mountains",
-          "description": "Allegheny Mountains, mountainous eastern part of the Allegheny Plateau in the Appalachian Mountains, U.S. The Allegheny range extends south-southwestward for more than 500 miles (800 km) from north-central Pennsylvania to southwestern Virginia."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Atlanta Fire Rescue Department",
@@ -2584,36 +2153,16 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Atlanta Fire Rescue Department\" EMS quality improvement director | \"Atlanta Fire Rescue Department\" EMS chief staff directory contact | \"Atlanta Fire Rescue Department\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Atlanta Fire Rescue Department\" GA fire rescue leadership official | \"Atlanta Fire Rescue Department\" GA EMS quality improvement contact | \"Atlanta Fire Rescue Department\" GA staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "31 Best Things To Do in Atlanta - U.S. News Travel",
-          "url": "https://travel.usnews.com/Atlanta_GA/Things_To_Do/",
-          "description": "Discover fun things to do in Atlanta, including family-friendly attractions like the Georgia Aquarium, World of Coca-Cola museum and Center for Puppetry Arts."
-        },
-        {
-          "title": "Atlanta, GA | Home",
-          "url": "https://www.atlantaga.gov/",
-          "description": "The City of Atlanta Government includes the Mayor’s Executive Offices as well as Departments, Commissions, Boards and associated Agencies. Together, they deliver and manage City services, programs and other operations."
-        },
-        {
-          "title": "Atlanta",
-          "url": "https://atlanta.com/",
-          "description": "Hartsfield-Jackson Atlanta International Airport is one of the busiest airports in the world, making Atlanta easy to reach from anywhere. Top attractions include the Georgia Aquarium, World of Coca-Cola, the Martin Luther King Jr. National Historic Site, and the Atlanta BeltLine trail system."
-        },
-        {
-          "title": "Atlanta City guide to top attractions, neighborhoods and culture",
-          "url": "https://atlanta.com/articles/city/atlanta-city",
-          "description": "Explore Atlanta City with insider guides to top neighborhoods, food, history, and nightlife. Plan smarter, avoid tourist traps, and discover what to do next."
-        },
-        {
-          "title": "Official Atlanta Guide for Travelers and Locals | Discover Atlanta",
-          "url": "https://discoveratlanta.com/",
-          "description": "Explore things to do in Atlanta, popular attractions, events, restaurants & nearby hotels to help plan your trip or weekend in Atlanta."
+          "title": "50 Fun Things to Do in Atlanta, GA - Discover Atlanta",
+          "url": "https://discoveratlanta.com/50fun/main/",
+          "description": "Check out the top fifty fun things to do in Atlanta! From top attractions to hidden gems and everything in between, there is something fun for everyone."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "DeKalb County Fire Rescue",
@@ -2845,35 +2394,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Fort Lauderdale Fire Rescue\" FL fire rescue leadership official | \"Fort Lauderdale Fire Rescue\" FL EMS quality improvement contact | \"Fort Lauderdale Fire Rescue\" FL staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Find A Fort - Forts (U.S. National Park Service)",
-          "url": "https://www.nps.gov/subjects/forts/find-a-fort.htm",
-          "description": "This map shows locations of forts preserved by the National Park Service throughout the United States and Puerto Rico. Bent's Old Fort National Historic Site features a reconstructed 1840s adobe fur trading post on the mountain branch of the Santa Fe Trail."
-        },
-        {
-          "title": "Forts (U.S. National Park Service)",
-          "url": "https://www.nps.gov/subjects/forts/index.htm",
-          "description": "Find a fort and start exploring today! Read more about forts or perhaps explore what we do to preserve forts or catch up on the latest fort news. Kids and teachers may enjoy exploring lesson plans and activities too. Lastly, learn all the great things that you can do to help support our forts."
-        },
-        {
-          "title": "Fortnite Tracker - Fortnite Stats, Leaderboards, & More!",
-          "url": "https://fortnitetracker.com/",
-          "description": "Detailed Fortnite Stats, Leaderboards, Fortnite Events, Creatives, Challenges and more!"
-        },
-        {
-          "title": "FORT Definition & Meaning | Dictionary.com",
-          "url": "https://www.dictionary.com/browse/fort",
-          "description": "FORT definition: a strong or fortified place occupied by troops and usually surrounded by walls, ditches, and other defensive works; a fortress; fortification. See examples of fort used in a sentence."
-        },
-        {
-          "title": "Fortnite | Free-to-Play Cross-Platform Game - Fortnite",
-          "url": "https://www.fortnite.com/",
-          "description": "Explore games, concerts, live events and more, or be the last player standing in Battle Royale and Zero Build."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "id": "rss-32e2c6b01d087205",
@@ -5189,10 +4712,10 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Public EMS oversight and advisory boards. Query: EMS advisory board (\"quality assurance\" OR \"quality improvement\" OR documentation OR ePCR). Collected at 2026-10-09T05:17:49.160043+00:00. Publisher: Maine.gov. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T05:32:31.502795+00:00",
+  "last_research_run_utc": "2026-10-09T05:34:25.174159+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 32,
+  "last_research_skipped_old": 28,
   "last_research_skipped_irrelevant": 16,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
@@ -5200,9 +4723,9 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-09T05:32:37.987670+00:00",
+  "last_contact_research_run_utc": "2026-10-09T05:34:30.588109+00:00",
   "last_contact_research_checked": 20,
-  "last_contact_research_with_results": 17,
+  "last_contact_research_with_results": 3,
   "last_contact_research_errors": [],
   "last_contact_research_filter_version": 2
 }
