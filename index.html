@@ -136,10 +136,10 @@ async function refreshSharedDatabase(){
     if(!Array.isArray(data.leads))throw new Error('Database does not contain a leads list');
     const identity=x=>(x.source||'').trim()||((x.agency||'').trim().toLowerCase()+'|'+(x.state||'').trim().toUpperCase());
     const existing=new Map(leads.map(x=>[identity(x),x]));
-    let added=0,updated=0;
+    let added=0,updated=0;const addedRecords=[];
     for(const remote of data.leads){
       const key=identity(remote),local=existing.get(key);
-      if(!local){leads.push({...remote,id:remote.id||('remote-'+btoa(unescape(encodeURIComponent(key))).replace(/[^a-zA-Z0-9]/g,'').slice(0,18))});added++;continue}
+      if(!local){const incoming={...remote,id:remote.id||('remote-'+btoa(unescape(encodeURIComponent(key))).replace(/[^a-zA-Z0-9]/g,'').slice(0,18))};leads.push(incoming);added++;addedRecords.push({agency:incoming.agency||'Agency not identified',state:incoming.state||'State unknown',signal:incoming.signal||'',source:incoming.source||''});continue}
       const merged={...remote,...local};
       for(const field of ['agency','state','providerType','category','signal','why','contact','nextStep','source','confidence','signalDate','notes','triggerQuery','triggerTerms','sourceType','publishedAt','agencyMatchConfidence','validationStatus','triggerEvidence','medassistRelevance','validationReason','lastValidatedAt']){
         if(!local[field]&&remote[field])merged[field]=remote[field];
@@ -148,7 +148,7 @@ async function refreshSharedDatabase(){
       Object.assign(local,merged);updated++;
     }
     save();btn.textContent='Refresh shared database';
-    alert('Shared database refreshed. '+added+' new records added; '+updated+' matching records checked. Your existing sales statuses and notes were preserved.');
+    const addedSummary=addedRecords.slice(0,10).map((x,i)=>(i+1)+'. '+x.agency+(x.state&&x.state!=='State unknown'?' ('+x.state+')':'')+(x.signal?' — '+x.signal:'' )).join('\\n');alert('Shared database refreshed. '+added+' new records added; '+updated+' matching records checked. Your existing sales statuses and notes were preserved.'+(added?'\\n\\nNEW RECORDS ADDED:\\n'+addedSummary+(addedRecords.length>10?'\\n…and '+(addedRecords.length-10)+' more.':''):'\\n\\nNo new records were added this refresh.'));
   }catch(e){alert('Could not refresh shared database: '+e.message)}
   finally{btn.disabled=false;btn.textContent='Refresh shared database'}
 }
