@@ -42,7 +42,8 @@ def relevant_result(item, agency):
     terms = [t.lower() for t in re.findall(r"[A-Za-z0-9]+", agency) if len(t) > 3 and t.lower() not in {"department", "county", "rescue", "system"}]
     blob = (item.get("title", "") + " " + item.get("description", "") + " " + url).lower()
     context_terms = ("fire rescue", "fire department", "ems", "emergency medical", "ambulance", "quality improvement", "clinical quality", "staff directory", "leadership", "medical director", "chief")
-    return any(term in blob for term in terms) and any(term in blob for term in context_terms)
+    # Require an official public-sector source with both agency and EMS/fire context.
+    return any(term in blob for term in terms) and any(term in blob for term in context_terms) and officialish(url)
 
 def fetch_rss(query):
     url = "https://www.bing.com/search?format=rss&q=" + quote(query)
@@ -88,7 +89,7 @@ def main():
                 seen.add(result["url"])
                 results2.append(result)
         lead["bestContact"] = lead.get("bestContact", "")
-        lead["bestContactTitle"] = lead.get("bestContactTitle", "") or "Target role: EMS QA/QI or clinical quality leader"
+        lead["bestContactTitle"] = lead.get("bestContactTitle", "")
         lead["bestContactEmail"] = lead.get("bestContactEmail", "")
         lead["bestContactPhone"] = lead.get("bestContactPhone", "")
         lead["bestContactSource"] = lead.get("bestContactSource", "")
@@ -96,12 +97,12 @@ def main():
         lead["contactResearchQuery"] = " | ".join(queries)
         lead["contactResearchResults"] = results2[:5]
         lead["contactResearchUpdatedAt"] = now
-        lead["contactResearchStatus"] = "Candidate sources found; verify agency match and identify a named contact" if results2 else "No usable search results; manual research required"
+        lead["contactResearchStatus"] = "Official candidate sources found; named contact not yet verified" if results2 else "No relevant official source found; manual research required"
         if results2:
             enriched += 1
     data["last_contact_research_run_utc"] = now
     data["last_contact_research_checked"] = min(len(candidates), MAX_PER_RUN)
-    data["last_contact_research_filter_version"] = 2
+    data["last_contact_research_filter_version"] = 3
     data["last_contact_research_with_results"] = enriched
     data["last_contact_research_errors"] = errors[:10]
     with open(DATA_PATH, "w", encoding="utf-8") as f:
