@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+  # Run once when this workflow is updated, allowing a fresh research pass.
+  push:
+    paths:
+      - ".github/workflows/hourly-research.yml"
 
 permissions:
   contents: write
