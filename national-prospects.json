@@ -2461,9 +2461,40 @@
       "status": "Research",
       "signalDate": "Tue, 24 Apr 2018 07:00:00 GMT",
       "notes": "Automated RSS candidate. Search category: private ambulance. Collected at 2026-10-09T04:41:42.404380+00:00. Publisher: Georgetown University. Do not treat as a verified buying signal."
+    },
+    {
+      "id": "rss-ad1dddfca5283d92",
+      "agency": "Research lead: CA – Fire EMS Quality Improvement Coordinator – Contra Costa County Fire Protection District – Closing: 09/13/2026 - WFCA",
+      "state": "",
+      "providerType": "Public / private EMS research",
+      "category": "EMS QA/QI",
+      "triggerQuery": "\"EMS\" (\"quality improvement\" OR \"quality assurance\" OR CQI)",
+      "triggerTerms": "EMS QA/QI",
+      "triggerEvidence": "Headline: CA – Fire EMS Quality Improvement Coordinator – Contra Costa County Fire Protection District – Closing: 09/13/2026 - WFCA | Publisher: WFCA. Discovery clue only, not proof of buying intent.",
+      "sourceType": "News / industry publisher; verify original source",
+      "sourceDomain": "news.google.com",
+      "sourceCheckStatus": "reachable",
+      "sourceContentType": "text/html; charset=utf-8",
+      "publishedAt": "2026-09-13",
+      "agencyMatchConfidence": "Low",
+      "validationStatus": "Needs review",
+      "validationReason": "Automated checks only. Confirm the original source, agency/provider identity, exact claim, publication date, and whether the signal is actionable before outreach.",
+      "medassistRelevance": "",
+      "lastValidatedAt": "",
+      "signal": "CA – Fire EMS Quality Improvement Coordinator – Contra Costa County Fire Protection District – Closing: 09/13/2026 - WFCA | Publisher: WFCA",
+      "why": "Candidate discovered via Google News RSS. The linked page reachability was checked, but the claim and agency match were not independently verified.",
+      "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
+      "nextStep": "Open source, verify agency and date, capture the exact evidence, then merge into the correct account record.",
+      "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWFVCQm5JMDFRc1pWaEZMRmlwbWRPMG1pdkJHNVpfZno3MUNFY1FVRWNNdmNtaXRLMlg4N3JiYXNpT3VDWHZCalNOdHByUndrT3g4ZTVhS0tXd0hZcVA1dGhJcFFtQkstYnRWYmxxcHJ3eEExdXFneE9OXzlqcXBLSmt1eUJRQTFrdkxrT0NwdzBLS25aVWZmSTBTRjM4VXBmcy1FYlJRQTFBeDdoaXdBLU5NUXR1UUJlMGEtZGp1YzlWWW5PUlc3SHh0am93X0RjMEJwWTZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "confidence": "Needs validation",
+      "status": "Research",
+      "signalDate": "2026-09-13",
+      "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: EMS QA/QI. Query: \"EMS\" (\"quality improvement\" OR \"quality assurance\" OR CQI). Collected at 2026-10-09T05:04:04.101496+00:00. Publisher: WFCA. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T04:41:42.404380+00:00",
-  "last_research_added": 88,
-  "last_research_errors": []
+  "last_research_run_utc": "2026-10-09T05:04:04.101496+00:00",
+  "last_research_added": 1,
+  "last_research_errors": [],
+  "last_research_skipped_old": 2,
+  "last_research_skipped_irrelevant": 0
 }
