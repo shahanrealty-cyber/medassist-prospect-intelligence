@@ -20,6 +20,8 @@ ROLE_TERMS = [
     '"EMS medical director" official staff directory',
 ]
 OFFICIAL_HINTS = (".gov", ".us", "municode.com")
+BLOCKED_HOSTS = ("microsoft.com", "live.com", "office.com", "cloud.microsoft", "wikipedia.org", "facebook.com", "youtube.com", "google.com", "bing.com")
+JUNK_TITLE_TERMS = ("sign in", "sign into", "create your account", "college", "university", "wikipedia")
 
 def text(el, tag):
     node = el.find(tag)
@@ -28,6 +30,18 @@ def text(el, tag):
 def officialish(url):
     host = (urlparse(url).hostname or "").lower()
     return host.endswith(".gov") or host.endswith(".us") or any(h in host for h in OFFICIAL_HINTS)
+
+def relevant_result(item, agency):
+    url = item.get("url", "")
+    title = item.get("title", "").lower()
+    host = (urlparse(url).hostname or "").lower()
+    if any(host == h or host.endswith("." + h) for h in BLOCKED_HOSTS):
+        return False
+    if any(term in title for term in JUNK_TITLE_TERMS):
+        return False
+    terms = [t.lower() for t in re.findall(r"[A-Za-z0-9]+", agency) if len(t) > 3 and t.lower() not in {"department", "county", "rescue", "system"}]
+    blob = (item.get("title", "") + " " + item.get("description", "") + " " + url).lower()
+    return any(term in blob for term in terms) or officialish(url)
 
 def fetch_rss(query):
     url = "https://www.bing.com/search?format=rss&q=" + quote(query)
@@ -45,16 +59,18 @@ def main():
     with open(DATA_PATH, encoding="utf-8") as f:
         data = json.load(f)
     leads = data.get("leads", [])
-    candidates = [x for x in leads if not x.get("bestContact") and not x.get("contactResearchUpdatedAt") and x.get("agency") and not x.get("agency", "").startswith("Research lead:")]
+    candidates = [x for x in leads if x.get("agency") and not x.get("agency", "").startswith("Research lead:") and (not x.get("contactResearchUpdatedAt") or any(not relevant_result(r, x.get("agency", "")) for r in x.get("contactResearchResults", [])))]
     candidates.sort(key=lambda x: (0 if "baseline" not in (x.get("category") or "").lower() else 1, x.get("agency", "")))
     now = datetime.now(timezone.utc).isoformat()
     enriched, errors = 0, []
     for lead in candidates[:MAX_PER_RUN]:
         agency = lead["agency"]
+        state = (lead.get("state") or "").strip()
+        agency_clean = re.sub(r"[^A-Za-z0-9 &'-]", " ", agency).strip()
         queries = [
-            '"' + agency.replace('"', '') + '" EMS quality improvement director',
-            '"' + agency.replace('"', '') + '" EMS chief staff directory contact',
-            '"' + agency.replace('"', '') + '" QA QI patient care report contact',
+            '"' + agency_clean + '" ' + state + ' fire rescue leadership official',
+            '"' + agency_clean + '" ' + state + ' EMS quality improvement contact',
+            '"' + agency_clean + '" ' + state + ' staff directory fire rescue',
         ]
         results = []
         for query in queries:
@@ -63,9 +79,10 @@ def main():
                 time.sleep(0.5)
             except Exception as exc:
                 errors.append(agency + ": " + type(exc).__name__)
-        # Prefer official results, then deduplicate URLs. Search snippets are not proof of identity.
+        # Filter irrelevant destinations first, then prefer official sources.
         seen, results2 = set(), []
-        for result in sorted(results, key=lambda r: (not officialish(r["url"]), r["url"])):
+        filtered = [r for r in results if relevant_result(r, agency)]
+        for result in sorted(filtered, key=lambda r: (not officialish(r["url"]), r["url"])):
             if result["url"] not in seen:
                 seen.add(result["url"])
                 results2.append(result)
@@ -78,11 +95,12 @@ def main():
         lead["contactResearchQuery"] = " | ".join(queries)
         lead["contactResearchResults"] = results2[:5]
         lead["contactResearchUpdatedAt"] = now
-        lead["contactResearchStatus"] = "Search results found; review official source and identify a named contact" if results2 else "No usable search results; manual research required"
+        lead["contactResearchStatus"] = "Candidate sources found; verify agency match and identify a named contact" if results2 else "No usable search results; manual research required"
         if results2:
             enriched += 1
     data["last_contact_research_run_utc"] = now
     data["last_contact_research_checked"] = min(len(candidates), MAX_PER_RUN)
+    data["last_contact_research_filter_version"] = 2
     data["last_contact_research_with_results"] = enriched
     data["last_contact_research_errors"] = errors[:10]
     with open(DATA_PATH, "w", encoding="utf-8") as f:
