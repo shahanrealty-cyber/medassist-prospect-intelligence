@@ -148,7 +148,7 @@ async function refreshSharedDatabase(){
       Object.assign(local,merged);updated++;
     }
     save();btn.textContent='Refresh shared database';
-    const addedSummary=addedRecords.slice(0,10).map((x,i)=>(i+1)+'. '+x.agency+(x.state&&x.state!=='State unknown'?' ('+x.state+')':'')+(x.signal?' — '+x.signal:'' )).join('\\n');alert('Shared database refreshed. '+added+' new records added; '+updated+' matching records checked. Your existing sales statuses and notes were preserved.'+(added?'\\n\\nNEW RECORDS ADDED:\\n'+addedSummary+(addedRecords.length>10?'\\n…and '+(addedRecords.length-10)+' more.':''):'\\n\\nNo new records were added this refresh.'));
+    const addedSummary=addedRecords.slice(0,10).map((x,i)=>(i+1)+'. '+x.agency+(x.state&&x.state!=='State unknown'?' ('+x.state+')':'')+(x.signal?' : '+x.signal:'' )).join('\n');alert('Shared database refreshed. '+added+' new records added; '+updated+' matching records checked. Your existing sales statuses and notes were preserved.'+(added?'\n\nNEW RECORDS ADDED:\n'+addedSummary+(addedRecords.length>10?'\nand '+(addedRecords.length-10)+' more.':''):'\n\nNo new records were added this refresh.'));
   }catch(e){alert('Could not refresh shared database: '+e.message)}
   finally{btn.disabled=false;btn.textContent='Refresh shared database'}
 }
