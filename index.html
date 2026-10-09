@@ -26,7 +26,7 @@
 <div><label for="typeFilter">Provider type</label><select id="typeFilter"><option value="">All provider types</option><option>Fire-based EMS</option><option>Third-service EMS</option><option>Private ambulance</option><option>Public safety / EMS</option></select></div>
 <div><label for="statusFilter">Status</label><select id="statusFilter"><option value="">All statuses</option><option>Research</option><option>Signal verified</option><option>Contacted</option><option>Meeting booked</option><option>Qualified</option><option>Disqualified</option></select></div>
 </div>
-<div class="actions"><button id="addBtn">+ Add prospect / signal</button><button class="secondary" id="exportBtn">Export backup (JSON)</button><button class="secondary" id="importBtn">Import backup</button><button class="secondary" id="csvBtn">Export CSV</button><input class="hidden" type="file" id="importFile" accept=".json,application/json"></div>
+<div class="actions"><button id="addBtn">+ Add prospect / signal</button><button class="secondary" id="exportBtn">Export backup (JSON)</button><button class="secondary" id="importBtn">Import backup</button><button class="secondary" id="csvBtn">Export CSV</button><button class="secondary" id="refreshBtn">Refresh shared database</button><input class="hidden" type="file" id="importFile" accept=".json,application/json"></div>
 </section>
 <section class="panel hidden" id="editor">
 <div class="sectionhead"><h2 id="editorTitle">Add prospect</h2><button class="secondary" id="cancelBtn">Cancel</button></div>
@@ -49,7 +49,7 @@
 </form>
 </section>
 <section class="panel"><div class="sectionhead"><h2>Prospect list</h2><span class="muted">Saved in this browser</span></div><div class="tablewrap"><table class="table"><thead><tr><th>Agency / provider</th><th>State / type</th><th>Signal / context</th><th>Evidence</th><th>Status</th><th>Next action</th><th></th></tr></thead><tbody id="rows"></tbody></table><div class="empty hidden" id="empty">No prospects match these filters. Try a broader search or add a record.</div></div></section>
-<footer>Standalone local-first tool. Export JSON periodically for backup or to move records to another browser. No employer CRM connection.</footer>
+<footer>Standalone tool. Refresh shared database to load the latest GitHub research. Your browser-local edits are preserved when records match. Export JSON backups regularly. No employer CRM connection.</footer>
 </main>
 <script>
 const KEY='medassistProspectIntelV1';
@@ -96,6 +96,32 @@ $('rows').onclick=e=>{const b=e.target.closest('button.edit');if(b){const x=lead
 ['q','stateFilter','typeFilter','statusFilter'].forEach(id=>$(id).addEventListener(id==='q'?'input':'change',render));
 $('exportBtn').onclick=()=>{const blob=new Blob([JSON.stringify({exportedAt:new Date().toISOString(),leads},null,2)],{type:'application/json'});download(blob,'medassist-prospects-backup.json')};
 $('importBtn').onclick=()=>$('importFile').click();$('importFile').onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const data=JSON.parse(await f.text()),incoming=Array.isArray(data)?data:data.leads;if(!Array.isArray(incoming))throw Error('No leads array found');if(confirm('Import '+incoming.length+' records? This replaces the current browser data. Export a backup first if needed.')){leads=incoming;save()}}catch(err){alert('Could not import file: '+err.message)}e.target.value=''};
+$('refreshBtn').onclick=refreshSharedDatabase;
+async function refreshSharedDatabase(){
+  const btn=$('refreshBtn');btn.disabled=true;btn.textContent='Refreshing…';
+  try{
+    const response=await fetch('https://raw.githubusercontent.com/shahanrealty-cyber/medassist-prospect-intelligence/main/national-prospects.json?ts='+Date.now(),{cache:'no-store'});
+    if(!response.ok)throw new Error('GitHub returned HTTP '+response.status);
+    const data=await response.json();
+    if(!Array.isArray(data.leads))throw new Error('Database does not contain a leads list');
+    const identity=x=>(x.source||'').trim()||((x.agency||'').trim().toLowerCase()+'|'+(x.state||'').trim().toUpperCase());
+    const existing=new Map(leads.map(x=>[identity(x),x]));
+    let added=0,updated=0;
+    for(const remote of data.leads){
+      const key=identity(remote),local=existing.get(key);
+      if(!local){leads.push({...remote,id:remote.id||('remote-'+btoa(unescape(encodeURIComponent(key))).replace(/[^a-zA-Z0-9]/g,'').slice(0,18))});added++;continue}
+      const merged={...remote,...local};
+      for(const field of ['agency','state','providerType','category','signal','why','contact','nextStep','source','confidence','signalDate','notes']){
+        if(!local[field]&&remote[field])merged[field]=remote[field];
+      }
+      if(!local.status)merged.status=remote.status||'Research';
+      Object.assign(local,merged);updated++;
+    }
+    save();btn.textContent='Refresh shared database';
+    alert('Shared database refreshed. '+added+' new records added; '+updated+' matching records checked. Your existing sales statuses and notes were preserved.');
+  }catch(e){alert('Could not refresh shared database: '+e.message)}
+  finally{btn.disabled=false;btn.textContent='Refresh shared database'}
+}
 $('csvBtn').onclick=()=>{const cols=['agency','state','providerType','category','signalDate','signal','why','contact','nextStep','confidence','status','source','notes'];const csv=[cols.join(','),...leads.map(x=>cols.map(k=>'"'+String(x[k]||'').replace(/"/g,'""')+'"').join(','))].join('\r\n');download(new Blob([csv],{type:'text/csv;charset=utf-8'}),'medassist-prospects.csv')};
 function download(blob,name){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 render();
