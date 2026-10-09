@@ -229,7 +229,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -248,7 +248,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -267,7 +267,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -286,7 +286,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -305,7 +305,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -324,7 +324,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -343,7 +343,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -362,7 +362,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -381,7 +381,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -400,7 +400,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -419,7 +419,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -438,7 +438,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -457,7 +457,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -476,7 +476,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -495,7 +495,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -514,7 +514,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -533,7 +533,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -552,7 +552,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -571,7 +571,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -590,7 +590,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -609,7 +609,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -628,7 +628,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -647,7 +647,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -743,7 +743,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -762,7 +762,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -781,7 +781,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -800,7 +800,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -819,7 +819,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -838,7 +838,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -857,7 +857,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -876,7 +876,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -895,7 +895,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -914,7 +914,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -933,7 +933,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -952,7 +952,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -971,7 +971,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -990,7 +990,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1009,7 +1009,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1028,7 +1028,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1047,7 +1047,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1066,7 +1066,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1085,7 +1085,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1104,7 +1104,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1123,7 +1123,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1142,7 +1142,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1161,7 +1161,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1180,7 +1180,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1199,7 +1199,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1218,7 +1218,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1238,7 +1238,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1257,7 +1257,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1276,7 +1276,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1295,7 +1295,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1314,7 +1314,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1333,7 +1333,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1352,7 +1352,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1371,7 +1371,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1390,7 +1390,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1409,7 +1409,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1428,7 +1428,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1447,7 +1447,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1466,7 +1466,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1485,7 +1485,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -1504,7 +1504,7 @@
       "triggerQuery": "Manual account research: inspect official agency EMS pages, QA/QI program, ePCR documentation workflows, budgets, board records, and procurement notices.",
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
-      "validationReason": "Baseline account only. Identify an official QA/QI, documentation, procurement, or budget signal before qualifying.",
+      "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
       "sourceType": "Not classified; verify source ownership and evidence"
     },
     {
@@ -3847,12 +3847,10 @@
   "last_research_errors": [],
   "last_research_skipped_old": 25,
   "last_research_skipped_irrelevant": 16,
-  "cleanup_timestamp_utc": "2026-10-09T05:17:32.579Z",
+  "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
-    "records_reviewed": 168,
-    "trigger_evidence_filled": 167,
-    "trigger_query_filled": 167,
-    "trigger_terms_filled": 167,
-    "method": "Filled missing metadata using existing record fields and category-specific research instructions. This is metadata cleanup, not independent verification of every prospect."
+    "records_reviewed": 180,
+    "placeholder_evidence_replaced": 0,
+    "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   }
 }
