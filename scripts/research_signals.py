@@ -4,6 +4,7 @@ All newly discovered items are stored as unverified research leads until a human
 """
 import json, os, re, time, hashlib
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
@@ -59,6 +60,12 @@ def main():
                 publisher = ((source_el.text or "").strip() if source_el is not None else "")
                 if not title or not link or link in existing_urls:
                     continue
+                published_at = ""
+                if pubdate:
+                    try:
+                        published_at = parsedate_to_datetime(pubdate).date().isoformat()
+                    except (TypeError, ValueError, OverflowError):
+                        published_at = ""
                 lead = {
                     "id": "rss-" + hashlib.sha256(link.encode("utf-8")).hexdigest()[:16],
                     "agency": "Research lead: " + title[:180],
@@ -67,7 +74,14 @@ def main():
                     "category": category,
                     "triggerQuery": query,
                     "triggerTerms": category,
-                    "triggerEvidence": "Headline: " + title + ((" | Publisher: " + publisher) if publisher else "") + ". This is a discovery clue only; open the linked article and verify the agency, date, and operational relevance.",
+                    "triggerEvidence": "Headline: " + title + ((" | Publisher: " + publisher) if publisher else "") + ". Discovery clue only, not proof of buying intent.",
+                    "sourceType": "Search result / aggregator",
+                    "publishedAt": published_at,
+                    "agencyMatchConfidence": "Low",
+                    "validationStatus": "Needs review",
+                    "validationReason": "Not yet reviewed. Confirm the original source, agency/provider identity, publication date, and whether the evidence supports the claimed signal.",
+                    "medassistRelevance": "",
+                    "lastValidatedAt": "",
                     "signal": title + ((" | Publisher: " + publisher) if publisher else ""),
                     "why": "Candidate public-news signal discovered by hourly RSS search. Validate the underlying article, identify the actual agency/provider, and confirm relevance before outreach.",
                     "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
