@@ -1,0 +1,38 @@
+name: Hourly EMS prospect research
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-ems-prospect-research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect candidate public signals
+        run: python scripts/research_signals.py
+      - name: Commit new research candidates
+        run: |
+          if git diff --quiet -- national-prospects.json; then
+            echo "No database changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add national-prospects.json
+          git commit -m "Update hourly EMS prospect research"
+          git push
