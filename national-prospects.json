@@ -29,36 +29,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Groveland Fire Department\" EMS quality improvement director | \"Groveland Fire Department\" EMS chief staff directory contact | \"Groveland Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
-          "url": "https://account.microsoft.com/account",
-          "description": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
-        },
-        {
-          "title": "Microsoft 365 - Sign into Copilot",
-          "url": "https://m365.cloud.microsoft/?origindomain=microsoft365",
-          "description": "Microsoft 365 includes Word, Excel, PowerPoint, Outlook, Teams, and OneDrive, with Microsoft Copilot built in to help you create, communicate, and summarize information. Formerly Office 365."
-        },
-        {
-          "title": "Sign in to your account",
-          "url": "https://myaccount.microsoft.com/",
-          "description": "Access and manage your Microsoft account, subscriptions, and settings all in one place."
-        },
-        {
-          "title": "My Account",
-          "url": "https://myaccount.microsoft.com/login",
-          "description": "Sign in to manage your Microsoft account and access free online services like Outlook, Word, Excel, and PowerPoint securely from any device."
-        },
-        {
-          "title": "Outlook",
-          "url": "https://outlook.office.com/mail/",
-          "description": "Securely sign in to access your Microsoft account and manage emails, calendars, and other services efficiently."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Groveland Fire Department\" FL fire rescue leadership official | \"Groveland Fire Department\" FL EMS quality improvement contact | \"Groveland Fire Department\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Brevard County Fire Rescue",
@@ -86,36 +60,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Brevard County Fire Rescue\" EMS quality improvement director | \"Brevard County Fire Rescue\" EMS chief staff directory contact | \"Brevard County Fire Rescue\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Home | Brevard County Clerk of Court and Comptroller",
-          "url": "https://www.brevardclerk.us/",
-          "description": "Learn about the Brevard County Clerk of the Circuit Court & Comptroller, including office functions, leadership, contact details, news, and public resources."
-        },
-        {
-          "title": "Official Brevard County Government Website | Brevard County, FL",
-          "url": "https://www.brevardfl.gov/",
-          "description": "Explore the official Brevard County Government website for essential local services, community resources, and timely emergency updates on Florida's Space Coast."
-        },
-        {
-          "title": "Brevard College: Your Academic Adventure Awaits!",
-          "url": "https://brevard.edu/",
-          "description": "Brevard College is consistently recognized as one of the best liberal arts colleges. The College's focus on experiential learning, small class sizes, and location in the mountains of Western North Carolina near Asheville make Brevard a top choice college for students around the world."
-        },
-        {
-          "title": "Brevard, North Carolina - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Brevard,_North_Carolina",
-          "description": "Brevard is located at the entrance to Pisgah National Forest and has become a noted tourism, retirement, and cultural center in western North Carolina. A moderate climate, environmental beauty and cultural activities attracts retirees to the area. Brevard is also known for its white squirrels."
-        },
-        {
-          "title": "Brevard County, Florida - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Brevard_County,_Florida",
-          "description": "Brevard County was established in 1855 and is named after Theodore Washington Brevard, an early Florida settler and state comptroller. The county's boundaries were changed and reduced numerous times, resulting in the current boundary since 1907."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Brevard County Fire Rescue\" FL fire rescue leadership official | \"Brevard County Fire Rescue\" FL EMS quality improvement contact | \"Brevard County Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Seminole County Fire Department / EMS System",
@@ -143,36 +91,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Seminole County Fire Department / EMS System\" EMS quality improvement director | \"Seminole County Fire Department / EMS System\" EMS chief staff directory contact | \"Seminole County Fire Department / EMS System\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Seminole County Fire Department   EMS System\" FL fire rescue leadership official | \"Seminole County Fire Department   EMS System\" FL EMS quality improvement contact | \"Seminole County Fire Department   EMS System\" FL staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "Seminole History - Florida Department of State",
           "url": "https://dos.fl.gov/florida-facts/florida-history/seminole-history/",
-          "description": "Seminole History Seminole History The Seminoles of Florida call themselves the \"Unconquered People,\" descendants of just 300 Indians who managed to elude capture by the U.S. army in the 19th century. Today, more than 2,000 live on six reservations in the state - located in Hollywood, Big Cypress, Brighton, Immokalee, Ft. Pierce, and Tampa."
-        },
-        {
-          "title": "Seminole - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Seminole",
-          "description": "The Seminole are a Native American people who developed in Florida in the 18th century. Today, they live in Oklahoma and Florida, and comprise three federally recognized tribes: the Seminole Nation of Oklahoma, the Seminole Tribe of Florida, and the Miccosukee Tribe of Indians of Florida, as well as independent groups. The Seminole people emerged in a process of ethnogenesis from various ..."
-        },
-        {
-          "title": "Seminole Tribe of Florida - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Seminole_Tribe_of_Florida",
-          "description": "The Seminole Tribe of Florida is a federally recognized Seminole tribe based in the U.S. state of Florida. Together with the Seminole Nation of Oklahoma and the Miccosukee Tribe of Indians of Florida, it is one of three federally recognized Seminole entities. It received that status in 1957. Today, it has six Indian reservations in Florida."
+          "description": "The 1770s is when Florida Indians collectively became known as Seminole, a name meaning \"wild people\" or \"runaway.\" In addition to Creeks, Seminoles included Yuchis, Yamasses and a few aboriginal remnants."
         },
         {
           "title": "Seminole | History, Culture & Facts | Britannica",
           "url": "https://www.britannica.com/topic/Seminole-people",
-          "description": "Seminole, North American Indian tribe of Creek origin who speak a Muskogean language. In the last half of the 18th century, migrants from the Creek towns of southern Georgia moved into northern Florida, the former territory of the Apalachee and Timucua. By about 1775 those migrants had begun to be"
+          "description": "Seminole, North American Indian tribe of Creek origin who speak a Muskogean language. In the last half of the 18th century, migrants from the Creek towns of southern Georgia moved into northern Florida, the former territory of the Apalachee and Timucua."
         },
         {
           "title": "SEMINOLE Definition & Meaning - Merriam-Webster",
           "url": "https://www.merriam-webster.com/dictionary/Seminole",
           "description": "The meaning of SEMINOLE is a member of any of several groups of Indigenous people that emigrated to Florida from Georgia and Alabama in the 18th and 19th centuries and whose descendants now live in southern Florida and Oklahoma."
+        },
+        {
+          "title": "Seminole, FL | Official Website",
+          "url": "https://www.myseminole.com/",
+          "description": "11th Annual Art In The Park Featuring local Artists & Fine Crafters Read on..."
+        },
+        {
+          "title": "Seminole Tribe of Florida",
+          "url": "https://www.semtribe.com/",
+          "description": "Seminole Tribe of Florida official homepage is dedicated to the rich history, culture, and services of the Florida Seminole Indians."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Sacramento Metropolitan Fire District (Metro Fire)",
@@ -200,22 +148,17 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Sacramento Metropolitan Fire District (Metro Fire)\" EMS quality improvement director | \"Sacramento Metropolitan Fire District (Metro Fire)\" EMS chief staff directory contact | \"Sacramento Metropolitan Fire District (Metro Fire)\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Sacramento Metropolitan Fire District  Metro Fire\" CA fire rescue leadership official | \"Sacramento Metropolitan Fire District  Metro Fire\" CA EMS quality improvement contact | \"Sacramento Metropolitan Fire District  Metro Fire\" CA staff directory fire rescue",
       "contactResearchResults": [
+        {
+          "title": "12 Best Things To Do in Sacramento - U.S. News Travel",
+          "url": "https://travel.usnews.com/Sacramento_CA/Things_To_Do/",
+          "description": "Ranking of the top 12 things to do in Sacramento. Travelers favorites include #1 Capitol Park, #2 Crocker Art Museum and more."
+        },
         {
           "title": "Home | City of Sacramento",
           "url": "https://www.cityofsacramento.gov/",
-          "description": "Zoning Property Lines & Surveying Arts and Culture Murals in the City of Sacramento: Guidance and Best Practice Engineering Property Line Changes/Mapping Zoning"
-        },
-        {
-          "title": "Sacramento, California - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Sacramento,_California",
-          "description": "Sacramento[a] is the capital city of the U.S. state of California. The county seat of Sacramento County, it is located at the confluence of the Sacramento and American Rivers in the Sacramento Valley."
-        },
-        {
-          "title": "10-Day Weather Forecast for Sacramento, California - The Weather ...",
-          "url": "https://weather.com/us/california/city/sacramento/tenday",
-          "description": "Be prepared with the most accurate 10-day forecast for Sacramento, California with highs, lows, chance of precipitation from The Weather Channel and Weather.com"
+          "description": "Homepage of the City of Sacramento's website"
         },
         {
           "title": "Sacramento | History, Population, Map, & Facts | Britannica",
@@ -225,11 +168,16 @@
         {
           "title": "THE 15 BEST Things to Do in Sacramento (2026) - Tripadvisor",
           "url": "https://www.tripadvisor.com/Attractions-g32999-Activities-Sacramento_California.html",
-          "description": "Things to Do in Sacramento, California: See Tripadvisor's 93,757 traveler reviews and photos of Sacramento tourist attractions. Find what to do today, this weekend, or in October."
+          "description": "Things to Do in Sacramento, California: See Tripadvisor's 93,757 traveler reviews and photos of Sacramento tourist attractions. Find what to do today, this weekend, or in October. We have reviews of the best places to see in Sacramento. Visit top-rated & must-see attractions."
+        },
+        {
+          "title": "Visit Sacramento | Hotels, Restaurants, Events, & Things to Do",
+          "url": "https://www.visitsacramento.com/",
+          "description": "The official visitor and travel website for Sacramento. Find information on things to do, hotels, restaurants, events, activities, and attractions in and around Sacramento to help plan your next trip."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Montgomery County Fire and Rescue Service",
@@ -257,36 +205,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Montgomery County Fire and Rescue Service\" EMS quality improvement director | \"Montgomery County Fire and Rescue Service\" EMS chief staff directory contact | \"Montgomery County Fire and Rescue Service\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Montgomery County Fire and Rescue Service\" MD fire rescue leadership official | \"Montgomery County Fire and Rescue Service\" MD EMS quality improvement contact | \"Montgomery County Fire and Rescue Service\" MD staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Montgomery, TX | Official Website",
-          "url": "https://www.montgomerytexas.gov/",
-          "description": "We are excited to celebrate this year’s Lone Star Christmas theme and cannot wait to see the creativity of our community shine throughout Cedar Brake Park! Read on..."
+          "title": "City of Montgomery, AL | Home",
+          "url": "https://www.montgomeryal.gov/",
+          "description": "Known as the Capital of Dreams, Montgomery is a city rich in history, yet clearly focused on the future."
         },
         {
-          "title": "Montgomery, Alabama - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Montgomery,_Alabama",
-          "description": "Montgomery is the capital city of the U.S. state of Alabama and the county seat of Montgomery County. [9] It was named for Continental Army Major-General Richard Montgomery and stands beside the Alabama River on the Gulf Coastal Plain. The population was 200,603 at the 2020 census. [6] It is the fourth-most populous city in the state, after Huntsville, Mobile, and Birmingham, and the 133rd ..."
+          "title": "Get to Know Montgomery",
+          "url": "https://experiencemontgomeryal.org/get-to-know-montgomery/",
+          "description": "Montgomery's cultural landscape offers rich stories and meaningful context, from the powerful exhibits at the Legacy Sites to the iconic steps of the Alabama State Capitol. Explore the Rosa Parks Museum, the Freedom Rides Museum, and local favorites like the Montgomery Museum of Fine Arts."
         },
         {
-          "title": "Montgomery, Texas - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Montgomery,_Texas",
-          "description": "Montgomery is a city located in Montgomery County, Texas, United States. As of the 2020 census, the city had a total population of 1,948. Known as the birthplace of the Texas flag, it sits next to Lake Conroe."
+          "title": "Montgomery Advertiser",
+          "url": "https://www.montgomeryadvertiser.com/",
+          "description": "Stay informed with both Montgomery Alabama news as well as headlines and stories from around the world."
         },
         {
-          "title": "MCAD – Official Site – Montgomery Central Appraisal District",
-          "url": "https://mcad-tx.org/",
-          "description": "Montgomery Central Appraisal District (MCAD) — official site. File protests, exemptions, and access property records for Montgomery County, Texas."
+          "title": "Montgomery's - South Dakota Furniture & Mattress Stores",
+          "url": "https://www.montgomerys.com/",
+          "description": "At each one of our four eastern South Dakota locations, you will find furniture, flooring, lighting, window treatments, mattresses and home decor. Our expert design team offers complimentary interior design consultations to guide you through every step of your shopping experience."
         },
         {
-          "title": "Welcome to Montgomery County, Texas",
-          "url": "https://mctx.org/",
-          "description": "information from your local Tax Assessor-Collector: Montgomery County Tax Office Tammy McRae, Tax Assessor-Collector 400 N. San Jacinto St. Conroe, TX 77301-2823 936-539-7897 What's Happening Now in Montgomery County Texas Montgomery County Adopted Tax Rate Notice About 2026 Tax Rates"
+          "title": "16 Best Things To Do In Montgomery, Alabama - Southern Living",
+          "url": "https://www.southernliving.com/montgomery-alabama-7504866",
+          "description": "The birthplace of the Civil Rights Movement, here are the best things to do in Montgomery, Alabama, from museums to restaurants to the Freedom Riders Trail."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Greenville County EMS",
@@ -314,7 +262,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Greenville County EMS\" EMS quality improvement director | \"Greenville County EMS\" EMS chief staff directory contact | \"Greenville County EMS\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Greenville County EMS\" SC fire rescue leadership official | \"Greenville County EMS\" SC EMS quality improvement contact | \"Greenville County EMS\" SC staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "Greenville, SC - Official Website | Official Website",
@@ -322,9 +270,9 @@
           "description": "GVLText Provides Curated News and Information Direct from the Source: The City of Greenville has launched GVLText — a new, curated text (SMS)... The City of Greenville will host an electronics recycling and shredding event Saturday, Oct. 17 from 9 a.m. to noon at the Public Works Facility,..."
         },
         {
-          "title": "Greenville, South Carolina - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Greenville,_South_Carolina",
-          "description": "Greenville (/ ˈɡriːnvɪl / GREEN-vil, locally / ˈɡriːnvəl / GREEN-vəl) is a city in Greenville County, South Carolina, United States, and its county seat."
+          "title": "Greenville SC Community | All Things Greenville",
+          "url": "https://allthingsgreenville.com/",
+          "description": "Greenville SC community by All Things Greenville. Discover local events, businesses, and connect with the Greenville, SC community today."
         },
         {
           "title": "Greenville, Wisconsin Wiki | Fandom",
@@ -332,9 +280,9 @@
           "description": "Players can customize and buy their dream cars, interactively work, role-play with friends, drive around the city of Greenville and the small towns of Horton and Brookmere, and more! We're an encyclopedia documenting the Greenville game created by the fans, for fans."
         },
         {
-          "title": "Greenville, Greenville sc, Greenville South Carolina, Guide to ...",
-          "url": "https://www.greenville.com/index.shtml",
-          "description": "A guide to Greenville, SC, and the Upstate area"
+          "title": "Greenville.com - An Online Guide to Greenville, SC",
+          "url": "https://www.greenville.com/",
+          "description": "Guiding you toward things to do, places to eat, and hotels to stay at while visiting Greenville, SC."
         },
         {
           "title": "County of Greenville, SC",
@@ -342,8 +290,8 @@
           "description": "Greenville County Council voted to place a referendum on the ballot this November giving residents the option to vote “yes” or “no” to a 1% sales tax. Get Information. WEEKLY OPERATIONS. This week's meeting calendar: Click Here."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "King County EMS",
@@ -371,36 +319,31 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"King County EMS\" EMS quality improvement director | \"King County EMS\" EMS chief staff directory contact | \"King County EMS\" QA QI patient care report contact",
+      "contactResearchQuery": "\"King County EMS\" WA fire rescue leadership official | \"King County EMS\" WA EMS quality improvement contact | \"King County EMS\" WA staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Charles III - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Charles_III",
-          "description": "Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and 14 other Commonwealth realms. [b] Charles is the eldest son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He was born during the reign of his maternal grandfather, King George VI, and became heir apparent following his mother's accession in 1952. Charles was created Prince of Wales ..."
-        },
-        {
-          "title": "King - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/King_%28title%29",
-          "description": "King is a royal title given to a male monarch. [1] A king is an absolute monarch if he holds unrestricted governmental power or exercises full sovereignty over a nation. In a modern context, the title may refer to the ruler of one of a number of modern monarchies (either absolute or constitutional). [2][3] The title of king is used alongside other titles for monarchs: in the West, emperor ..."
-        },
-        {
-          "title": "King - Simple English Wikipedia, the free encyclopedia",
-          "url": "https://simple.wikipedia.org/wiki/King",
-          "description": "King Louis XIV was the ruler of the Kingdom of France. He is the longest reigning king and monarch to have ever lived A king is usually a male monarch who rules a country or territory which is a monarchy. The person usually inherits the title and position."
-        },
-        {
-          "title": "King Charles III | Latest News & Updates | BBC News",
-          "url": "https://www.bbc.co.uk/news/topics/cp7r8vgl7zyt",
-          "description": "King Charles III - get the breaking news, live updates, and in-depth analysis about HM King Charles III, UK head of state, from the experts across the BBC."
+          "title": "KING | English meaning - Cambridge Dictionary",
+          "url": "https://dictionary.cambridge.org/dictionary/english/king",
+          "description": "A king is a playing piece in the game of chess and each player’s most important piece."
         },
         {
           "title": "King.com - Play the Most Popular & Fun Games Online!",
           "url": "https://www.king.com/",
-          "description": "Play the most popular and fun online games, join millions of players, and connect with the King.com community."
+          "description": "Join millions of other players and enjoy the most popular and fun games online at King.com. Enter the Kingdom and make new friends in our player community!"
+        },
+        {
+          "title": "Free Online Games – Download or Play Now at King.com",
+          "url": "https://www.king.com/game",
+          "description": "Download game apps or play the free, full-version online games at King.com! Enjoy our hugely popular games with your friends and have fun playing online!"
+        },
+        {
+          "title": "KING Definition & Meaning - Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/king",
+          "description": "The meaning of KING is a male monarch of a major territorial unit; especially : one whose position is hereditary and who rules for life. How to use king in a sentence."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Monterey County EMS Agency",
@@ -428,36 +371,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Monterey County EMS Agency\" EMS quality improvement director | \"Monterey County EMS Agency\" EMS chief staff directory contact | \"Monterey County EMS Agency\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Monterey County EMS Agency\" CA fire rescue leadership official | \"Monterey County EMS Agency\" CA EMS quality improvement contact | \"Monterey County EMS Agency\" CA staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "City of Monterey, CA",
           "url": "https://monterey.gov/",
-          "description": "Monterey Public Library Co-Sponsors Drag Queen Storyline Event- Event is Sponsored by the City's Independent Board of Library Trustees, Not Monterey City Council"
+          "description": "Sea lions are back, temporarily closing public access to San Carlos Beach."
         },
         {
-          "title": "Monterey, California - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Monterey,_California",
-          "description": "Today, Monterey is a popular tourist destination on the Central Coast, hosting notable attractions such as the Monterey Bay Aquarium, Cannery Row, Fisherman's Wharf, California Roots Music and Arts Festival, and the annual Monterey Jazz Festival."
-        },
-        {
-          "title": "Monterey Bay - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Monterey_Bay",
-          "description": "Monterey Bay is a bay of the Pacific Ocean located on the coast of the U.S. state of California, south of the San Francisco Bay Area. San Francisco itself is farther north along the coast, by about 75 miles (120 km), accessible via CA 1 and US 101."
-        },
-        {
-          "title": "Upcoming Events in Monterey & Carmel | Food & Wine, Music, Sports",
-          "url": "https://whatsupmonterey.com/events",
-          "description": "Browse our upcoming events calendar to discover all food and wine festivals, Monterey nightlife events and live music festivals including Carmel."
+          "title": "City of Monterey, CA",
+          "url": "https://www.monterey.gov/Services/",
+          "description": "Now there's a new way to find the vast array of services provided by our full service city - download the new MY Monterey Gov app and get started! MY Monterey Gov app details. If you still can't find the topic you need, please email us at suggest@monterey.gov or call (831) 646-3799."
         },
         {
           "title": "Monterey Bay Aquarium",
           "url": "https://www.montereybayaquarium.org/",
           "description": "Located at the ocean's edge on historic Cannery Row, the Monterey Bay Aquarium is your window to marine life. Visit sea otters, penguins, sharks, jellies…"
+        },
+        {
+          "title": "See Monterey California and Explore California’s Central Coast",
+          "url": "https://www.seemonterey.com/",
+          "description": "Plan a vacation in Monterey County during the ideal time of year for your travel musts. Discover seasonal draws, including popular annual events, things to do and suggested places to stay."
+        },
+        {
+          "title": "Things to Do in Monterey: Discover the Beauty of Monterey CA",
+          "url": "https://www.seemonterey.com/things-to-do/",
+          "description": "Monterey County’s rich artistic heritage and vibrant cultural scene make it a haven for art lovers, history buffs and creatives alike. From world-class museums to charming galleries and live performances, there’s always something to inspire and delight."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "San Mateo Consolidated Fire Department",
@@ -485,36 +428,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"San Mateo Consolidated Fire Department\" EMS quality improvement director | \"San Mateo Consolidated Fire Department\" EMS chief staff directory contact | \"San Mateo Consolidated Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "SAN - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/San",
-          "description": "San, buses by Polish manufacturer Autosan SAN Ecuador (Servicios Aéreos Nacionales, ICAO code: SAN), a defunct airline Sandersville Railroad (AAR reporting mark: SAN), in the US San Diego International Airport (IATA code: SAN), in California, US Sandown railway station (National Rail code: SAN), Isle of Wight, UK Siliwangi Antar Nusa, a bus company in Indonesia Société Aéronautique ..."
-        },
-        {
-          "title": "San peoples - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/San_peoples",
-          "description": "The San or Bushmen are the peoples of southern Africa who traditionally lived a hunter-gatherer lifestyle and spoke non-Bantu languages with click consonants (thus excluding the Twa, Kwisi and Cimba, but also the Kwadi and Damara). These include speakers of three distinct language families living between the Okavango River in Botswana and Etosha National Park in northwestern Namibia, extending ..."
-        },
-        {
-          "title": "Straight Arrow - Unbiased News. Fear No Fact.",
-          "url": "https://san.com/",
-          "description": "Get the news that matters most, without manipulation, bias or agenda. From politics and government oversight to cost of living and privacy, we fear no fact."
-        },
-        {
-          "title": "SAN",
-          "url": "https://san.dsca.mil/SANweb/",
-          "description": "SAN web Cloud WARNING: You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:"
-        },
-        {
-          "title": "What is a storage area network (SAN)? - IBM",
-          "url": "https://www.ibm.com/think/topics/storage-area-network",
-          "description": "SAN storage is a dedicated network combining servers, storage systems, networking switches, software, and services."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"San Mateo Consolidated Fire Department\" CA fire rescue leadership official | \"San Mateo Consolidated Fire Department\" CA EMS quality improvement contact | \"San Mateo Consolidated Fire Department\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "No usable search results; manual research required"
     },
     {
       "agency": "Palm Beach County EMS System",
@@ -542,12 +459,12 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Palm Beach County EMS System\" EMS quality improvement director | \"Palm Beach County EMS System\" EMS chief staff directory contact | \"Palm Beach County EMS System\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Palm Beach County EMS System\" FL fire rescue leadership official | \"Palm Beach County EMS System\" FL EMS quality improvement contact | \"Palm Beach County EMS System\" FL staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Arecaceae - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Arecaceae",
-          "description": "Early Christians used the palm branch to symbolize the victory of the faithful over enemies of the soul, as in the Palm Sunday festival celebrating the triumphal entry of Jesus Christ into Jerusalem."
+          "title": "74 Types of Palm Trees with Pictures: Identification Guide",
+          "url": "https://leafyplace.com/types-of-palm-trees/",
+          "description": "This guide will help you identify and choose the perfect palm for your garden or indoor space. Discover a wide range of palms, along with their pictures."
         },
         {
           "title": "Palm | Live in the moment.",
@@ -555,12 +472,12 @@
           "description": "Palm is the best small phone for minimalists, athletes, and families. Your entire digital life now fits in a coin pocket. Perfect for taking a break from your big phone."
         },
         {
-          "title": "Palm tree - Simple English Wikipedia, the free encyclopedia",
-          "url": "https://simple.wikipedia.org/wiki/Palm_tree",
-          "description": "Palm tree is a common name of perennial lianas, shrubs, and trees. They are the only members of the family Arecaceae, which is the only family in the order Arecales."
+          "title": "USA Palm",
+          "url": "https://usapalm.com/",
+          "description": "Crafted with premium fabrics and meticulous detail, USA Palm Quarter-Zips deliver unmatched comfort, durability, and style, elevated layers built to last and impress."
         },
         {
-          "title": "Palm | Description, Uses, Examples, Distribution, Types, & Facts ...",
+          "title": "Palm | Description, Uses, Examples, Distribution, Types ...",
           "url": "https://www.britannica.com/plant/palm-tree",
           "description": "palm, (family Arecaceae), family of nearly 190 genera and more than 2,450 species of monocotyledonous flowering plants (order Arecales). Members of the palm family are of major ecological importance to many tropical ecosystems and provide food and habitat to a wide range of wildlife."
         },
@@ -570,8 +487,8 @@
           "description": "The meaning of PALM is any of a family (Palmae synonym Arecaceae) of mostly tropical or subtropical monocotyledonous trees, shrubs, or vines with usually a simple stem and a terminal crown of large pinnate or fan-shaped leaves."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Austin-Travis County EMS",
@@ -597,7 +514,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Austin-Travis County EMS\" EMS quality improvement director | \"Austin-Travis County EMS\" EMS chief staff directory contact | \"Austin-Travis County EMS\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Austin-Travis County EMS\" TX fire rescue leadership official | \"Austin-Travis County EMS\" TX EMS quality improvement contact | \"Austin-Travis County EMS\" TX staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "25 Best Things To Do in Austin - U.S. News Travel",
@@ -610,23 +527,23 @@
           "description": "The City of Austin will host its 2026 Fair Chance Hiring Job and Resource Fair on Wednesday, September 30, 2026, from 10 a.m. to 3 p.m. at the Permitting and Development Center, located at 6310 Wilhelmina Delco Drive, Austin, TX 78752."
         },
         {
-          "title": "Austin, Texas - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Austin,_Texas",
-          "description": "Austin (/ ˈɔːstɪn / ⓘ AW-stin) [8] is the capital city of the U.S. state of Texas. With a population of 961,855 at the 2020 census, [9] it is the 12th-most populous city in the U.S., fifth-most populous city in Texas, and second-most populous U.S. state capital (after Phoenix, Arizona), while the Austin metro area with an estimated 2.55 million residents is the 25th-largest metropolitan ..."
-        },
-        {
-          "title": "History of Austin, Texas - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/History_of_Austin,_Texas",
-          "description": "Austin's history has also been largely tied to state politics and in the late 19th century, the establishment of the University of Texas made Austin a regional center for higher education, as well as a hub for state government. In the 20th century, Austin's music scene had earned the city the nickname \"Live Music Capital of the World.\" [5]"
-        },
-        {
           "title": "30+ Epic Things to Do in Austin,TX (2025 Guide)",
           "url": "https://seekaustin.com/things-to-do/austin-tx/",
           "description": "Planning a trip to Austin? Discover 30+ things to do in Austin for outdoor adventures, top food spots, music venues, and unique experiences."
+        },
+        {
+          "title": "Austin, TX | Hotels, Music, Restaurants & Things to Do",
+          "url": "https://www.austintexas.org/",
+          "description": "Austin, Texas is the Live Music Capital of the World... and so much more. Explore our city's hotels, things to do, restaurant and nightlife scene, museums, outdoor spaces and exciting events."
+        },
+        {
+          "title": "Things to Do in Austin, TX | Attractions & Live Music",
+          "url": "https://www.austintexas.org/things-to-do/",
+          "description": "Explore the best things to do in Austin, from nightlife and shopping to sightseeing and outdoor activities. Find official information on attractions and more."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Mecklenburg EMS Agency (MEDIC)",
@@ -821,7 +738,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Boston EMS\" EMS quality improvement director | \"Boston EMS\" EMS chief staff directory contact | \"Boston EMS\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Boston EMS\" MA fire rescue leadership official | \"Boston EMS\" MA EMS quality improvement contact | \"Boston EMS\" MA staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "30 Top-Rated Things to Do in Boston - U.S. News Travel",
@@ -839,18 +756,18 @@
           "description": "With our rich history, diverse neighborhoods, and legacy of arts, culture, and education, Boston has something for everyone."
         },
         {
-          "title": "Boston - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Boston",
-          "description": "Boston (/ ˈbɔːstən / ⓘ BAW-stən, / ˈbɒ -/) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financial center of New England, a region of the Northeastern United States."
+          "title": "Boston.com: Local breaking news, sports, weather, and things to do",
+          "url": "https://www.boston.com/",
+          "description": "What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and more on Boston.com."
         },
         {
-          "title": "History of Boston - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/History_of_Boston",
-          "description": "Boston was named and officially incorporated on September 30, 1630 (Old Style). The city quickly became the political, commercial, financial, religious and educational center of Puritan New England and grew to play a central role in the history of the United States."
+          "title": "Boston news: Local and national breaking news, crime, and politics",
+          "url": "https://www.boston.com/category/news/",
+          "description": "Get the latest local and national breaking news, crime, Boston traffic, New England weather, politics in Massachusetts and across the U.S., and more."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Nashville Fire Department",
@@ -895,36 +812,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Baltimore City Fire Department\" EMS quality improvement director | \"Baltimore City Fire Department\" EMS chief staff directory contact | \"Baltimore City Fire Department\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Baltimore City Fire Department\" MD fire rescue leadership official | \"Baltimore City Fire Department\" MD EMS quality improvement contact | \"Baltimore City Fire Department\" MD staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "Home | Baltimore City",
           "url": "https://www.baltimorecity.gov/",
-          "description": "Charm City Cleanup Baltimore's citywide cleaning initiative brings together city agencies, community organizations, and residents to transform our neighborhoods."
+          "description": "Brandon M. Scott is the 52nd Mayor of Baltimore City, and the youngest person elected to the position in over a century. Mayor Scott is committed to ending gun violence, restoring public trust in local government, and building a more equitable Baltimore for families to thrive."
+        },
+        {
+          "title": "Baltimore",
+          "url": "https://baltimore.com/",
+          "description": "Baltimore is an informational news publication. Content published on this site is for general informational and educational purposes only and does not constitute professional legal, financial, medical, or other professional advice."
         },
         {
           "title": "Visit Baltimore | Official Travel Website for Baltimore Maryland",
           "url": "https://baltimore.org/",
-          "description": "Welcome to Baltimore. We are writing a new chapter in our history, fueled by cultural tastemakers and creative entrepreneurs. Plan your visit."
+          "description": "Baltimore is full of surprises, steeped in history (home of the birthplace of our national anthem!) and culture, from the gritty graffiti alley to the vast collections at our art museums."
         },
         {
           "title": "Things to Do in Baltimore | Visit Baltimore",
           "url": "https://baltimore.org/what-to-do",
-          "description": "Baltimore is a town for explorers, artists and dreamers. If you’re looking for things to do in Baltimore that will awaken your senses, inspire new thinking and spark your spirit of adventure, you’ll find it here. We invite you to wander through eclectic neighborhoods and visit a variety of attractions at your leisure, or select from one of our many guided tour opportunities. Scroll down ..."
+          "description": "We invite you to wander through eclectic neighborhoods and visit a variety of attractions at your leisure, or select from one of our many guided tour opportunities. Scroll down for our recommendations of what to do in Baltimore. The Baltimore restaurant scene is thriving."
         },
         {
-          "title": "How to Turn Drawings Into Stickers | 3 Easy Steps (2026)",
-          "url": "https://craftenify.com/how-to-turn-drawings-into-stickers/",
-          "description": "We’ve walked through the detailed process of how to turn drawings into stickers, from the inception of your design to the final touches that elevate your stickers to professional standards."
-        },
-        {
-          "title": "Baltimore - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Baltimore",
-          "description": "Baltimore, [14] also known as Baltimore City, [a] is the most populous city in the U.S. state of Maryland. It is the 30th-most populous U.S. city with a population of 585,708 at the 2020 census and estimated at 569,997 in 2025, while the Baltimore metropolitan area at 2.86 million residents is the 22nd-largest metropolitan area in the nation. [15]"
+          "title": "Baltimore Sun – Baltimore Sun: Your source for Baltimore breaking news ...",
+          "url": "https://www.baltimoresun.com/",
+          "description": "Editorial: The announcement of a $3.7 billion submarine manufacturing facility in Baltimore County should have been a moment of unity."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "District of Columbia Fire and EMS Department",
@@ -1229,36 +1146,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Boca Raton Fire Rescue\" EMS quality improvement director | \"Boca Raton Fire Rescue\" EMS chief staff directory contact | \"Boca Raton Fire Rescue\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Boca Raton Fire Rescue\" FL fire rescue leadership official | \"Boca Raton Fire Rescue\" FL EMS quality improvement contact | \"Boca Raton Fire Rescue\" FL staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Maps Hjälp - Google Help",
-          "url": "https://support.google.com/maps/?hl=sv",
-          "description": "Officiellt hjälpcenter för Maps. Här hittar du tips om produkten och vägledning för hur du använder den. Här finns även svar på andra vanliga frågor."
+          "title": "Boca Restaurants – Fresh Seasonal Creations",
+          "url": "https://bocarestaurants.com/",
+          "description": "With a cozy vibe, food you crave, and heartfelt hospitality, Boca is your kind of place - where everyone recognizes you and knows how much you matter. Relax and enjoy the comfortable industrial farmhouse design while great music and engaging conversation surround you."
         },
         {
-          "title": "Get started with Google Maps",
-          "url": "https://support.google.com/maps/answer/144349?hl=en&co=GENIE.Platform=Android",
-          "description": "Get started with Google Maps This article will help you set up, learn the basics, and explain various features of Google Maps. You can use the Google Maps app on your mobile device or Google Maps on your computer."
+          "title": "Club Atlético Boca Juniors",
+          "url": "https://www.bocajuniors.com.ar/",
+          "description": "Sitio web oficial del Club Atlético Boca Juniors. Noticias, información, contenidos especiales y todo lo que los socios, socias e hinchas en general necesitan saber sobre el club."
         },
         {
-          "title": "Use Gemini while you navigate - Android - Google Maps Help",
-          "url": "https://support.google.com/maps/answer/6041199?hl=en&co=GENIE.Platform%3DAndroid",
-          "description": "Talk to Gemini in Maps On your Android phone or tablet, open the Google Maps app . If you haven't used Gemini yet, get started with the Gemini mobile app. In navigation mode, say “Hey Google” or tap Gemini . If \"Hey Google\" doesn’t work, check if \"Hey Google\" and Voice Match, which is powered by Gemini, are turned on."
+          "title": "Boca Taqueria - Award Winning Mexican Food",
+          "url": "https://www.bocataqueria.com/",
+          "description": "I have never had a hamburger there but I will now. I have always ordered the shrimp tacos. I have ordered shrimp tacos from many places around the valley and none have ever Been as good as Boca. Also seafood enchiladas are excellent !!! My favorite place!"
         },
         {
-          "title": "302 Moved",
-          "url": "https://support.google.com/maps/answer/6258979?hl=it&co=GENIE.Platform%3DDesktop",
-          "description": "302 Moved The document has moved here."
+          "title": "Toca Boca — Kids Games & Digital Play Studio",
+          "url": "https://www.tocaboca.com/",
+          "description": "Toca Boca creates digital toys and games for kids. Play Toca Boca World, Toca Boca Jr, and more — available on iOS and Android. A Spin Master studio."
         },
         {
-          "title": "Google Maps Community",
-          "url": "https://support.google.com/maps/community?hl=en",
-          "description": "google maps saved places / lists feature: various problems for some time now, users have been posting in the google maps community forum reporting various prob…"
+          "title": "Boca Raton Florida - Things to Do & Attractions",
+          "url": "https://www.visitflorida.com/places-to-go/southeast/boca-raton/",
+          "description": "A. Boca Raton offers a variety of activities for visitors. You can explore the beautiful beaches, such as Red Reef Park, which is great for snorkeling and swimming."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Delray Beach Fire Rescue",
@@ -1359,18 +1276,8 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"American Medical Response (AMR)\" EMS quality improvement director | \"American Medical Response (AMR)\" EMS chief staff directory contact | \"American Medical Response (AMR)\" QA QI patient care report contact",
+      "contactResearchQuery": "\"American Medical Response  AMR\" CO fire rescue leadership official | \"American Medical Response  AMR\" CO EMS quality improvement contact | \"American Medical Response  AMR\" CO staff directory fire rescue",
       "contactResearchResults": [
-        {
-          "title": "American Airlines - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/American_Airlines",
-          "description": "American Airlines and American Eagle operate out of ten hubs, anchored by Dallas Fort Worth International Airport (DFW), the airline's largest. Charlotte Douglas International Airport (CLT) follows as the second-largest hub, serving as a primary gateway for Southeast and transatlantic travel."
-        },
-        {
-          "title": "Log in help - AAdvantage® - American Airlines",
-          "url": "https://login.aa.com/miniMenu",
-          "description": "Access your AAdvantage account and manage your American Airlines bookings, rewards, and personal information securely."
-        },
         {
           "title": "Log in help - AAdvantage® - American Airlines",
           "url": "https://login.aa.com/miniMenu?locale=en_US",
@@ -1379,16 +1286,26 @@
         {
           "title": "American Airlines - Advanced search",
           "url": "https://www.aa.com/booking/find-flights",
-          "description": "Link opens in new window. Site may not meet accessibility guidelines. AA.com®."
+          "description": "Book flights with American Airlines."
         },
         {
-          "title": "Find Flight Deals and Fares by Destination | American Airlines",
-          "url": "https://www.aa.com/en-us/flights",
-          "description": "Explore destinations across the United States and around the world. Select a region to compare fares by departure and arrival city, discover nonstop and connecting flights, and find travel options that fit your travel plans and budget. Fares update regularly and may vary based on route, travel dates, demand and availability."
+          "title": "American Airlines - Airline tickets and low fares at aa.com",
+          "url": "https://www.aa.com/homePage.do?locale=en_US",
+          "description": "Book low fares to destinations around the world and find the latest deals on airline tickets, hotels, car rentals and vacations at aa.com. As an AAdantage member you earn miles on every trip and everyday spend."
+        },
+        {
+          "title": "American Express Credit Cards, Rewards & Banking",
+          "url": "https://www.americanexpress.com/",
+          "description": "American Express offers world-class Charge and Credit Cards, Gift Cards, Rewards, Travel, Personal Savings, Business Services, Insurance and more."
+        },
+        {
+          "title": "Home - From Scratch - American Restaurant in Salt Lake City, UT",
+          "url": "https://www.fromscratchslc.com/",
+          "description": "From Scratch in Salt Lake City, UT. From Scratch is a locally owned, independent restaurant in downtown Salt Lake City whose ethos is to make \"everything from scratch\" — bread, sauces, pasta, jam, even cured meats. They combine a casual, modern atmosphere with a menu of burgers, sandwiches, pizzas, pastas, and seasonal entrees."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Acadian Ambulance Service",
@@ -1524,36 +1441,36 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Falck USA\" EMS quality improvement director | \"Falck USA\" EMS chief staff directory contact | \"Falck USA\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Falck USA\" CA fire rescue leadership official | \"Falck USA\" CA EMS quality improvement contact | \"Falck USA\" CA staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
-          "url": "https://account.microsoft.com/account",
-          "description": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
+          "title": "Falck US - Home",
+          "url": "https://www.falck.us/",
+          "description": "We are a global market leader in emergency response and healthcare services."
         },
         {
-          "title": "Microsoft Community",
-          "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/what-is-the-impact-for-current-apple-id-when-add-a/e645911a-fb50-4f94-9712-b179375b9849",
-          "description": "Microsoft Community"
+          "title": "Falck US - Services",
+          "url": "https://www.falck.us/services/",
+          "description": "Falck is a global healthcare company and the world’s largest ambulance provider. In the U.S., we deliver 911 emergency response, Mobile Care services, and professional healthcare training."
         },
         {
-          "title": "Microsoft Community",
-          "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/word-365-account-for-an-english-teacher-forces-all/0c2eb3d7-dcc6-4b16-a365-3c9235c84b04",
-          "description": "Microsoft Community"
+          "title": "Falck Health Institute",
+          "url": "https://falck.education/",
+          "description": "Career opportunity with Falck Our faculty are always looking for outstanding students and refer them to join Falck, Southern California’s primary 911 response agency."
         },
         {
-          "title": "13 BEST Things to Do in Warsaw, Poland (2026)",
-          "url": "https://awaytothecity.com/best-things-to-do-in-warsaw/",
-          "description": "Interactive Map: Best Things to Do in Warsaw To enhance your exploration of Warsaw, we’ve created an interactive map that shows all the top attractions mentioned in this post."
+          "title": "Falck Mobile Care",
+          "url": "https://falckmobilecare.com/",
+          "description": "Falck Mobile Care is a service provided by Falck that offers mobile healthcare solutions. This includes healthcare services delivered directly to patients in their homes or other locations outside of traditional healthcare facilities."
         },
         {
-          "title": "Microsoft - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Microsoft",
-          "description": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more."
+          "title": "Falck - Login",
+          "url": "https://gems.falck.com/",
+          "description": "If you have a Falck email address, please click the SSO (Single Sign On) login. If not, fill in your user name and the password you created when your account was set up."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "MedStar Mobile Healthcare",
@@ -2044,7 +1961,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Albuquerque Fire Rescue\" EMS quality improvement director | \"Albuquerque Fire Rescue\" EMS chief staff directory contact | \"Albuquerque Fire Rescue\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Albuquerque Fire Rescue\" NM fire rescue leadership official | \"Albuquerque Fire Rescue\" NM EMS quality improvement contact | \"Albuquerque Fire Rescue\" NM staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "16 Fun Things to Do in Albuquerque, New Mexico - U.S. News Travel",
@@ -2067,13 +1984,13 @@
           "description": "Looking for the best things to do in Albuquerque! Our guide will help you plan family-friendly events, your next road trip or outdoor adventure, and more!"
         },
         {
-          "title": "Albuquerque, New Mexico - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Albuquerque,_New_Mexico",
-          "description": "Albuquerque[b] is the most populous city in the U.S. state of New Mexico. [8] Founded in 1706 as La Villa de Alburquerque by Santa Fe de Nuevo México governor Francisco Cuervo y Valdés, and named in honor of Francisco Fernández de la Cueva, 10th Duke of Alburquerque and Viceroy of New Spain, it was an outpost on El Camino Real, linking Mexico City to the northernmost territories of New ..."
+          "title": "THE 15 BEST Things to Do in Albuquerque (2026) - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Attractions-g60933-Activities-Albuquerque_New_Mexico.html",
+          "description": "Things to Do in Albuquerque, New Mexico: See Tripadvisor's 209,769 traveler reviews and photos of Albuquerque tourist attractions. Find what to do today, this weekend, or in October. We have reviews of the best places to see in Albuquerque. Visit top-rated & must-see attractions."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Las Vegas Fire & Rescue",
@@ -2510,22 +2427,17 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Anne Arundel County Fire Department\" EMS quality improvement director | \"Anne Arundel County Fire Department\" EMS chief staff directory contact | \"Anne Arundel County Fire Department\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Anne Arundel County Fire Department\" MD fire rescue leadership official | \"Anne Arundel County Fire Department\" MD EMS quality improvement contact | \"Anne Arundel County Fire Department\" MD staff directory fire rescue",
       "contactResearchResults": [
         {
-          "title": "Anne (TV series) - Anne with an E Wiki",
-          "url": "https://anne-with-an-e.fandom.com/wiki/Anne_(TV_series)",
-          "description": "Anne, also known as Anne - The Series and rebranded as \"Anne with an E\" on Netflix, is a drama television series based on the books by Lucy M. Montgomery. The series is produced by Canadian Broadcasting Corporation (CBC) and world-wide broadcast by Netflix. Anne is a coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her ..."
+          "title": "Anne Shirley Cuthbert | Anne with an E Wiki | Fandom",
+          "url": "https://anne-with-an-e.fandom.com/wiki/Anne_Shirley_Cuthbert",
+          "description": "Anne Cordelia Shirley-Cuthbert is the titular protagonist of Anne. She is the orphaned daughter of Walter Shirley and Bertha Shirley, and the adoptive daughter of Marilla and Matthew Cuthbert. She is portrayed by Amybeth McNulty. After an abusive childhood spent in orphanages and working in the homes of strangers, 13-year-old Anne Shirley is a remarkably resilient girl with a unique spirit ..."
         },
         {
-          "title": "Anne - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Anne",
-          "description": "Anne, alternatively spelled Ann, is a form of the Latin female name Anna. This in turn is a representation of the Hebrew Hannah, which means 'favour' or 'grace'. [1] Related names include Annie and Ana. Anne is sometimes used as a male name in the Netherlands, particularly in the Frisian speaking part (for example, author Anne de Vries)."
-        },
-        {
-          "title": "Anne with an E - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Anne_with_an_E",
-          "description": "Anne with an E (initially titled Anne for its first season within Canada) is a Canadian period drama television series loosely adapted from Lucy Maud Montgomery 's 1908 classic work of children's literature, Anne of Green Gables. It was created by Moira Walley-Beckett for CBC and Netflix; it stars Amybeth McNulty as orphan Anne Shirley, Geraldine James as Marilla Cuthbert, R. H. Thomson as ..."
+          "title": "Anne Hathaway - IMDb",
+          "url": "https://m.imdb.com/name/nm0004266/",
+          "description": "Anne Jacqueline Hathaway was born in Brooklyn, New York, to Kate McCauley Hathaway, an actress, and Gerald T. Hathaway, a lawyer, both originally from Philadelphia. She is of mostly Irish descent, along with English, German, and French. Her first major role came in the short-lived television series Get Real (1999)."
         },
         {
           "title": "Anne with an E (TV Series 2017–2019) - IMDb",
@@ -2533,13 +2445,18 @@
           "description": "Anne with an E: Created by Moira Walley-Beckett. With Amybeth McNulty, Geraldine James, R.H. Thomson, Andrea Arruti. The adventures of a young orphan girl living in late-19th-century Canada. Follow Anne as she learns to navigate her new life on Prince Edward Island in this new take on L.M. Montgomery's classic novels."
         },
         {
-          "title": "Anne with an E (TV Series 2017–2019) - Episode list - IMDb",
-          "url": "https://m.imdb.com/title/tt5421602/episodes/",
-          "description": "Anne is introduced to the inner social workings of public school, while Marilla is introduced to the inner social workings of Avonlea's progressive young mothers. Anne and Marilla struggle with Anne's staunch boycott of the local school; a minister's backward advice has a reverse effect, causing ..."
+          "title": "Anne with an E - streaming tv show online - JustWatch",
+          "url": "https://www.justwatch.com/us/tv-show/anne",
+          "description": "Find out how and where to watch \"Anne with an E\" on Netflix and Prime Video today - including free options."
+        },
+        {
+          "title": "Watch Anne with an E | Netflix Official Site",
+          "url": "https://www.netflix.com/title/80136311",
+          "description": "A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on \"Anne of Green Gables.\""
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Prince George's County Fire/EMS Department",
@@ -2622,7 +2539,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Allegheny County Emergency Services\" EMS quality improvement director | \"Allegheny County Emergency Services\" EMS chief staff directory contact | \"Allegheny County Emergency Services\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Allegheny County Emergency Services\" PA fire rescue leadership official | \"Allegheny County Emergency Services\" PA EMS quality improvement contact | \"Allegheny County Emergency Services\" PA staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "Home - Allegheny County, PA",
@@ -2630,28 +2547,18 @@
           "description": "The official website of Allegheny County, PA, which provides information on services, licenses, records and permits, and events for neighbors and businesses."
         },
         {
-          "title": "Allegheny College - Profile, Rankings and Data | US News Best Colleges",
-          "url": "https://www.usnews.com/best-colleges/allegheny-college-3230",
-          "description": "Find everything you need to know about Allegheny College, including tuition & financial aid, student life, application info, academics & more."
+          "title": "Allegheny | Pittsburgh, Rivers, Hills | Britannica",
+          "url": "https://www.britannica.com/place/Allegheny",
+          "description": "Allegheny, county, southwestern Pennsylvania, U.S., consisting of a hilly region on the Allegheny Plateau bounded to the southeast by the Monongahela and Youghiogheny rivers and to the northeast by the Allegheny River."
         },
         {
-          "title": "Allegheny College",
-          "url": "https://allegheny.edu/",
-          "description": "At Allegheny, you’re never just one thing. Let your passions shape your purpose through distinctive majors and experiential learning centers."
-        },
-        {
-          "title": "Visit - Allegheny College",
-          "url": "https://allegheny.edu/visit/",
-          "description": "Allegheny offers majors and minors in several aspects of the arts, as well as lessons, clubs, and organizations that allow students to express their artistic talents."
-        },
-        {
-          "title": "Allegheny County, Pennsylvania - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",
-          "description": "Four major rivers traverse Allegheny County: the Allegheny River and the Monongahela River converge at Downtown Pittsburgh to form the Ohio River. The Youghiogheny River flows into the Monongahela River at McKeesport, 10 miles (16 km) to the southeast."
+          "title": "Allegheny Mountains | Appalachian, Pennsylvania, Maryland - Britannica",
+          "url": "https://www.britannica.com/place/Allegheny-Mountains",
+          "description": "Allegheny Mountains, mountainous eastern part of the Allegheny Plateau in the Appalachian Mountains, U.S. The Allegheny range extends south-southwestward for more than 500 miles (800 km) from north-central Pennsylvania to southwestern Virginia."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "agency": "Atlanta Fire Rescue Department",
@@ -2937,7 +2844,7 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Fort Lauderdale Fire Rescue\" EMS quality improvement director | \"Fort Lauderdale Fire Rescue\" EMS chief staff directory contact | \"Fort Lauderdale Fire Rescue\" QA QI patient care report contact",
+      "contactResearchQuery": "\"Fort Lauderdale Fire Rescue\" FL fire rescue leadership official | \"Fort Lauderdale Fire Rescue\" FL EMS quality improvement contact | \"Fort Lauderdale Fire Rescue\" FL staff directory fire rescue",
       "contactResearchResults": [
         {
           "title": "Find A Fort - Forts (U.S. National Park Service)",
@@ -2945,14 +2852,9 @@
           "description": "This map shows locations of forts preserved by the National Park Service throughout the United States and Puerto Rico. Bent's Old Fort National Historic Site features a reconstructed 1840s adobe fur trading post on the mountain branch of the Santa Fe Trail."
         },
         {
-          "title": "Fortification - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Fortification",
-          "description": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime."
-        },
-        {
-          "title": "List of forts in the United States - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/List_of_forts_in_the_United_States",
-          "description": "This is a list of historical forts in the United States. World War II military reservations containing 8-inch and larger gun batteries are also included. Roberts 1988, p. 10. Roberts 1988, pp. 3–4. Roberts 1988, p. 527. Roberts 1988, pp. 821–822. Roberts, Robert B. (1988)."
+          "title": "Forts (U.S. National Park Service)",
+          "url": "https://www.nps.gov/subjects/forts/index.htm",
+          "description": "Find a fort and start exploring today! Read more about forts or perhaps explore what we do to preserve forts or catch up on the latest fort news. Kids and teachers may enjoy exploring lesson plans and activities too. Lastly, learn all the great things that you can do to help support our forts."
         },
         {
           "title": "Fortnite Tracker - Fortnite Stats, Leaderboards, & More!",
@@ -2960,13 +2862,18 @@
           "description": "Detailed Fortnite Stats, Leaderboards, Fortnite Events, Creatives, Challenges and more!"
         },
         {
-          "title": "Fortnite | Download and Play for Free - Epic Games Store",
-          "url": "https://store.epicgames.com/p/fortnite?lang=en-US",
-          "description": "Explore the worlds of LEGO Fortnite. There is always something new for you and your friends. Stay up to date with what’s happening in Fortnite this week, including new experiences and updates. Everything you love, all in Fortnite. Drop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale."
+          "title": "FORT Definition & Meaning | Dictionary.com",
+          "url": "https://www.dictionary.com/browse/fort",
+          "description": "FORT definition: a strong or fortified place occupied by troops and usually surrounded by walls, ditches, and other defensive works; a fortress; fortification. See examples of fort used in a sentence."
+        },
+        {
+          "title": "Fortnite | Free-to-Play Cross-Platform Game - Fortnite",
+          "url": "https://www.fortnite.com/",
+          "description": "Explore games, concerts, live events and more, or be the last player standing in Battle Royale and Zero Build."
         }
       ],
-      "contactResearchUpdatedAt": "2026-10-09T05:26:55.284781+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchUpdatedAt": "2026-10-09T05:32:37.987670+00:00",
+      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
     },
     {
       "id": "rss-32e2c6b01d087205",
@@ -5282,10 +5189,10 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Public EMS oversight and advisory boards. Query: EMS advisory board (\"quality assurance\" OR \"quality improvement\" OR documentation OR ePCR). Collected at 2026-10-09T05:17:49.160043+00:00. Publisher: Maine.gov. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T05:30:48.915714+00:00",
+  "last_research_run_utc": "2026-10-09T05:32:31.502795+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 28,
+  "last_research_skipped_old": 32,
   "last_research_skipped_irrelevant": 16,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
@@ -5293,8 +5200,9 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-09T05:30:57.012465+00:00",
+  "last_contact_research_run_utc": "2026-10-09T05:32:37.987670+00:00",
   "last_contact_research_checked": 20,
-  "last_contact_research_with_results": 20,
-  "last_contact_research_errors": []
+  "last_contact_research_with_results": 17,
+  "last_contact_research_errors": [],
+  "last_contact_research_filter_version": 2
 }
