@@ -504,7 +504,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Seattle Fire Department\" WA fire rescue leadership official | \"Seattle Fire Department\" WA EMS quality improvement contact | \"Seattle Fire Department\" WA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Indianapolis Emergency Medical Services",
@@ -813,7 +823,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Tampa Fire Rescue\" FL fire rescue leadership official | \"Tampa Fire Rescue\" FL EMS quality improvement contact | \"Tampa Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Pinellas County EMS / Sunstar Paramedics",
@@ -832,7 +852,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Pinellas County EMS   Sunstar Paramedics\" FL fire rescue leadership official | \"Pinellas County EMS   Sunstar Paramedics\" FL EMS quality improvement contact | \"Pinellas County EMS   Sunstar Paramedics\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Palm Beach County Fire Rescue",
@@ -938,7 +968,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"West Palm Beach Fire Rescue\" FL fire rescue leadership official | \"West Palm Beach Fire Rescue\" FL EMS quality improvement contact | \"West Palm Beach Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "American Medical Response (AMR)",
@@ -1132,7 +1172,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Wake County EMS\" NC fire rescue leadership official | \"Wake County EMS\" NC EMS quality improvement contact | \"Wake County EMS\" NC staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Greensboro Fire Department",
@@ -1325,7 +1375,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Saint Paul Fire Department\" MN fire rescue leadership official | \"Saint Paul Fire Department\" MN EMS quality improvement contact | \"Saint Paul Fire Department\" MN staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Milwaukee Fire Department",
@@ -1402,7 +1462,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"St  Louis Fire Department\" MO fire rescue leadership official | \"St  Louis Fire Department\" MO EMS quality improvement contact | \"St  Louis Fire Department\" MO staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Oklahoma City Fire Department",
@@ -1450,7 +1520,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Tulsa Fire Department\" OK fire rescue leadership official | \"Tulsa Fire Department\" OK EMS quality improvement contact | \"Tulsa Fire Department\" OK staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Albuquerque Fire Rescue",
@@ -1556,7 +1636,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Salt Lake City Fire Department\" UT fire rescue leadership official | \"Salt Lake City Fire Department\" UT EMS quality improvement contact | \"Salt Lake City Fire Department\" UT staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Unified Fire Authority",
@@ -1575,7 +1665,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Unified Fire Authority\" UT fire rescue leadership official | \"Unified Fire Authority\" UT EMS quality improvement contact | \"Unified Fire Authority\" UT staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Portland Fire & Rescue",
@@ -1594,7 +1694,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Portland Fire & Rescue\" OR fire rescue leadership official | \"Portland Fire & Rescue\" OR EMS quality improvement contact | \"Portland Fire & Rescue\" OR staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Seattle Medic One / King County EMS",
@@ -1613,7 +1723,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Seattle Medic One   King County EMS\" WA fire rescue leadership official | \"Seattle Medic One   King County EMS\" WA EMS quality improvement contact | \"Seattle Medic One   King County EMS\" WA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "San Diego Fire-Rescue Department",
@@ -1632,7 +1752,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"San Diego Fire-Rescue Department\" CA fire rescue leadership official | \"San Diego Fire-Rescue Department\" CA EMS quality improvement contact | \"San Diego Fire-Rescue Department\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "San Francisco Fire Department",
@@ -1651,7 +1781,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"San Francisco Fire Department\" CA fire rescue leadership official | \"San Francisco Fire Department\" CA EMS quality improvement contact | \"San Francisco Fire Department\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Sacramento Fire Department",
@@ -1670,7 +1810,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Sacramento Fire Department\" CA fire rescue leadership official | \"Sacramento Fire Department\" CA EMS quality improvement contact | \"Sacramento Fire Department\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Fresno Fire Department",
@@ -1806,7 +1956,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Prince William County Fire and Rescue\" VA fire rescue leadership official | \"Prince William County Fire and Rescue\" VA EMS quality improvement contact | \"Prince William County Fire and Rescue\" VA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Anne Arundel County Fire Department",
@@ -1854,7 +2014,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Prince George's County Fire EMS Department\" MD fire rescue leadership official | \"Prince George's County Fire EMS Department\" MD EMS quality improvement contact | \"Prince George's County Fire EMS Department\" MD staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Philadelphia Fire Department",
@@ -1902,7 +2072,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"Pittsburgh Bureau of EMS\" PA fire rescue leadership official | \"Pittsburgh Bureau of EMS\" PA EMS quality improvement contact | \"Pittsburgh Bureau of EMS\" PA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Allegheny County Emergency Services",
@@ -2095,7 +2275,17 @@
       "triggerTerms": "baseline account; EMS operations; QA/QI; ePCR documentation; official budget; procurement; board records",
       "validationStatus": "Needs review",
       "validationReason": "Baseline prospecting target, not evidence of active buying intent. Verify an agency-specific fact before marking as a buying signal.",
-      "sourceType": "Not classified; verify source ownership and evidence"
+      "sourceType": "Not classified; verify source ownership and evidence",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"St  Petersburg Fire Rescue\" FL fire rescue leadership official | \"St  Petersburg Fire Rescue\" FL EMS quality improvement contact | \"St  Petersburg Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T07:31:50.113125+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Fort Lauderdale Fire Rescue",
@@ -4442,10 +4632,10 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Public EMS oversight and advisory boards. Query: EMS advisory board (\"quality assurance\" OR \"quality improvement\" OR documentation OR ePCR). Collected at 2026-10-09T05:17:49.160043+00:00. Publisher: Maine.gov. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T06:36:25.826354+00:00",
+  "last_research_run_utc": "2026-10-09T07:31:44.310085+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 28,
+  "last_research_skipped_old": 29,
   "last_research_skipped_irrelevant": 16,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
@@ -4453,8 +4643,8 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-09T06:36:31.417794+00:00",
-  "last_contact_research_checked": 20,
+  "last_contact_research_run_utc": "2026-10-09T07:31:50.113125+00:00",
+  "last_contact_research_checked": 19,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
   "last_contact_research_filter_version": 3,
