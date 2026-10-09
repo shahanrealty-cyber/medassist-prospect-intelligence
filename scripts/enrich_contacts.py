@@ -45,7 +45,7 @@ def main():
     with open(DATA_PATH, encoding="utf-8") as f:
         data = json.load(f)
     leads = data.get("leads", [])
-    candidates = [x for x in leads if not x.get("bestContact") and x.get("agency") and not x.get("agency", "").startswith("Research lead:")]
+    candidates = [x for x in leads if not x.get("bestContact") and not x.get("contactResearchUpdatedAt") and x.get("agency") and not x.get("agency", "").startswith("Research lead:")]
     candidates.sort(key=lambda x: (0 if "baseline" not in (x.get("category") or "").lower() else 1, x.get("agency", "")))
     now = datetime.now(timezone.utc).isoformat()
     enriched, errors = 0, []
