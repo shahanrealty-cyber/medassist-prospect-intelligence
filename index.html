@@ -89,8 +89,12 @@ const $=id=>document.getElementById(id);
 function save(){localStorage.setItem(KEY,JSON.stringify(leads));render()}
 function esc(s=''){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function scoreLead(x){
- const text=[x.category,x.signal,x.why,x.notes,x.triggerQuery,x.triggerEvidence,x.medassistRelevance].join(' ').toLowerCase();
+ const text=[x.category,x.signal,x.why,x.notes,x.triggerQuery,x.triggerEvidence,x.medassistRelevance,x.sourceType,x.source].join(' ').toLowerCase();
  let score=10;
+ const publicRecord=/public meeting records|city \/ county board|public ems audit|public ems epcr|public ems procurement|public ems oversight/.test(text);
+ const officialDocument=/official document|public record|agenda|minutes|board packet|staff report|resolution|performance audit|\bcounty commission\b|\bcity council\b|\bboard of supervisors\b/.test(text);
+ if(publicRecord)score+=10;
+ if(publicRecord&&officialDocument)score+=10;
  const verified=['Verified buying signal','Verified signal'].includes(x.validationStatus)||x.confidence==='Verified signal';
  const explicitNeed=/needs? (automated )?(epcr|e pcr|chart|documentation|quality|qa|qi)|seeking (qa|qi|quality assurance|quality improvement|chart review|documentation review)|looking for (qa|qi|quality assurance|quality improvement|chart review|documentation review)|evaluat(e|ing) (qa|qi|quality assurance|quality improvement|epcr|e pcr)|request for (information|proposal).{0,80}(qa|qi|quality assurance|quality improvement|epcr|e pcr|chart review)|implement(ing|ation)? .{0,60}(epcr|e pcr|quality assurance|quality improvement|chart review)|automated chart review|epcr qa|e pcr qa|quality assurance software|quality improvement software/.test(text);
  const qualityProblem=/(audit|inspection|accreditation|review|investigation|corrective action|deficienc|finding|failure|gap|non.?compliance|documentation error|incomplete documentation|missed documentation|charting issue|quality issue|patient safety event).{0,100}(documentation|chart|epcr|e pcr|quality|clinical|patient care|compliance|billing|reimbursement)|(documentation|chart|epcr|e pcr|quality|clinical|patient care|compliance|billing|reimbursement).{0,100}(audit finding|deficienc|corrective action|non.?compliance|gap|error|failure|issue|finding)/.test(text);
