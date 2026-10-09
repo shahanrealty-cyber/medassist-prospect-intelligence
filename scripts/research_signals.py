@@ -28,6 +28,13 @@ AGENCY_HINTS = re.compile(
 OFFICIAL_HOST_HINTS = (".gov", ".us", ".state.", "municode.com", "publicpurchase.com", "bonfirehub.com", "bidnetdirect.com")
 
 QUERIES = [
+    # Prioritize public-sector records, not just media coverage. These search hits still require human verification.
+    ('Public meeting records: explicit EMS QA', 'EMS ("quality assurance" OR "quality improvement" OR CQI OR "ePCR QA") (agenda OR minutes OR "board packet" OR "staff report" OR resolution)'),
+    ('City / county board EMS quality priorities', '(county commission OR county board OR city council OR "board of supervisors" OR "fire authority") EMS ("quality improvement" OR "quality assurance" OR documentation)'),
+    ('Public EMS audit and quality findings', 'EMS ambulance (audit OR "performance audit" OR "corrective action" OR findings OR deficiencies) documentation quality'),
+    ('Public EMS ePCR QA initiatives', '(ePCR OR "electronic patient care report" OR "patient care reports") ("quality assurance" OR "chart review" OR documentation) (county OR city OR authority OR board)'),
+    ('Public EMS procurement and budgets', '(EMS OR ambulance OR "fire rescue") ("quality assurance" OR "quality improvement" OR ePCR OR "chart review") (RFP OR budget OR procurement OR solicitation)'),
+    ('Public EMS oversight and advisory boards', 'EMS advisory board ("quality assurance" OR "quality improvement" OR documentation OR ePCR)'),
     ('EMS QA/QI', '"EMS" ("quality improvement" OR "quality assurance" OR CQI)'),
     ('ePCR procurement', '("ePCR" OR "electronic patient care report") (RFP OR solicitation OR procurement OR contract) EMS'),
     ('EMS billing/documentation', 'EMS ambulance (documentation OR "medical necessity" OR reimbursement OR billing) audit'),
@@ -79,11 +86,16 @@ def infer_agency(title):
 
 def source_kind(url, publisher):
     host = (urlparse(url).hostname or "").lower()
-    if host.endswith(".gov") or host.endswith(".us") or any(hint in host for hint in OFFICIAL_HOST_HINTS):
-        return "Potential official source; verify ownership"
+    path = (urlparse(url).path or "").lower()
+    public_record_path = any(term in path for term in (".pdf", "agenda", "minutes", "meeting", "packet", "staff-report", "staff_report", "resolution", "ordinance", "audit", "solicitation", "rfp", "procurement"))
+    official_host = host.endswith(".gov") or host.endswith(".us") or any(hint in host for hint in OFFICIAL_HOST_HINTS)
+    if official_host and public_record_path:
+        return "Potential public record / official document; verify contents"
+    if official_host:
+        return "Potential official source; verify ownership and document type"
     if publisher:
-        return "News / industry publisher; verify original source"
-    return "Search result / aggregator"
+        return "News / industry publisher; locate original public record"
+    return "Search result / aggregator; locate original public record"
 
 def resolve_source(url):
     """Record whether the linked page can be reached and its final URL; this does not validate the claim."""
@@ -142,11 +154,11 @@ def main():
                     "id": "rss-" + hashlib.sha256(source_url.encode("utf-8")).hexdigest()[:16],
                     "agency": agency or "Research lead: " + title[:150],
                     "state": "",
-                    "providerType": "Public / private EMS research",
+                    "providerType": "Public agency / authority research" if category.lower().startswith("public ") else "Public / private EMS research",
                     "category": category,
                     "triggerQuery": query,
                     "triggerTerms": category,
-                    "triggerEvidence": "Headline: " + title + ((" | Publisher: " + publisher) if publisher else "") + ". Discovery clue only, not proof of buying intent.",
+                    "triggerEvidence": ("Search-result title: " if category.lower().startswith("public ") else "Headline: ") + title + ((" | Publisher: " + publisher) if publisher else "") + (". Locate original public document; this title is only a discovery clue, not verified evidence." if category.lower().startswith("public ") else ". Discovery clue only, not proof of buying intent."),
                     "sourceType": source_kind(source_url, publisher),
                     "sourceDomain": urlparse(source_url).hostname or "",
                     "sourceCheckStatus": source_check_status,
@@ -158,9 +170,9 @@ def main():
                     "medassistRelevance": "",
                     "lastValidatedAt": "",
                     "signal": title + ((" | Publisher: " + publisher) if publisher else ""),
-                    "why": "Candidate discovered via Google News RSS. The linked page reachability was checked, but the claim and agency match were not independently verified.",
+                    "why": ("Public-record search candidate discovered via Google News RSS. Locate the original agenda, minutes, staff report, audit, budget, or procurement document and verify the exact statement; source reachability alone does not validate the claim." if category.lower().startswith("public ") else "Candidate discovered via Google News RSS. The linked page reachability was checked, but the claim and agency match were not independently verified."),
                     "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
-                    "nextStep": "Open source, verify agency and date, capture the exact evidence, then merge into the correct account record.",
+                    "nextStep": ("Open the original public document, capture the exact quotation plus page/agenda item and meeting date, identify the responsible agency and EMS QA decision-maker, then merge into the correct account record." if category.lower().startswith("public ") else "Open source, verify agency and date, capture the exact evidence, then merge into the correct account record."),
                     "source": source_url,
                     "confidence": "Needs validation",
                     "status": "Research",
