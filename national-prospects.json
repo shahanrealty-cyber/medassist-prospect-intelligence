@@ -309,15 +309,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Palm Beach County EMS System\" FL fire rescue leadership official | \"Palm Beach County EMS System\" FL EMS quality improvement contact | \"Palm Beach County EMS System\" FL staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Palm | Description, Uses, Examples, Distribution, Types, & Facts ...",
-          "url": "https://www.britannica.com/plant/palm-tree",
-          "description": "palm, (family Arecaceae), family of nearly 190 genera and more than 2,450 species of monocotyledonous flowering plants (order Arecales). Members of the palm family are of major ecological importance to many tropical ecosystems and provide food and habitat to a wide range of wildlife."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Austin-Travis County EMS",
@@ -391,36 +385,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Denver Health Paramedics\" EMS quality improvement director | \"Denver Health Paramedics\" EMS chief staff directory contact | \"Denver Health Paramedics\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "19 Best Things to Do in Denver, Colorado - U.S. News Travel",
-          "url": "https://travel.usnews.com/Denver_CO/Things_To_Do/",
-          "description": "Brewery tours, concerts at Red Rocks Park Amphitheatre and driving the Mount Evans Scenic Byway are among the best things to do in Denver, Colorado."
-        },
-        {
-          "title": "Denver - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Denver",
-          "description": "Denver (/ ˈdɛnvər / ⓘ DEN-vər) is the capital and most populous city of the U.S. state of Colorado. Officially a consolidated city and county, it is located in the South Platte River valley on the western edge of the High Plains, and is just east of the Front Range of the Rocky Mountains (Rockies). [10] ."
-        },
-        {
-          "title": "Denver Colorado Vacations & Conventions | Plan Your Trip",
-          "url": "https://visitdenver.com/",
-          "description": "Explore things to do, hotels, restaurants & more in Denver. Find all the info you need to start planning your trip or meeting. Download our Visitors Guide!"
-        },
-        {
-          "title": "Denver & Colorado Official Visitors Guide | VISIT DENVER",
-          "url": "https://visitdenver.com/about-denver/visitors-guide/",
-          "description": "With stunning photos, maps and events, this guide will help you navigate Denver’s neighborhoods, explore attractions and find the perfect places to stay and dine."
-        },
-        {
-          "title": "Denver | History, Elevation, Map, & Facts | Britannica",
-          "url": "https://www.britannica.com/place/Denver",
-          "description": "Denver, city and county, capital of Colorado, U.S., at the western edge of the Great Plains, just east of the Front Range of the Rocky Mountains. The city and county were consolidated as a single administrative unit in 1902. Denver lies at the junction of Cherry Creek and the South Platte River."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Denver Health Paramedics\" CO fire rescue leadership official | \"Denver Health Paramedics\" CO EMS quality improvement contact | \"Denver Health Paramedics\" CO staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Phoenix Fire Department",
@@ -618,36 +586,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"District of Columbia Fire and EMS Department\" EMS quality improvement director | \"District of Columbia Fire and EMS Department\" EMS chief staff directory contact | \"District of Columbia Fire and EMS Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "County of Saginaw, MI - 70th District Court",
-          "url": "https://saginawcountymi.gov/courts-public-safety/courts/70th-district-court/",
-          "description": "Welcome to the 70th District Court. The Judges of the 70th District Court have provided this website to assist the public in their dealings with the court. Please use the links for information regarding criminal, civil, and traffic matters. You may also use the court forms page to fill out and print forms online for filing with the court."
-        },
-        {
-          "title": "County of Saginaw, MI - District Maps",
-          "url": "https://saginawcountymi.gov/departments/county-clerk/elections/district-maps/",
-          "description": "To view your specific district please use the following link."
-        },
-        {
-          "title": "District - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/District",
-          "description": "There are almost 400 districts in the country. Electoral districts are used in state elections. Districts were also used in several states as cadastral units for land titles. Some were used as squatting districts. New South Wales had several different types of districts used in the 21st century."
-        },
-        {
-          "title": "Michigan's 8th congressional district - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Michigan%27s_8th_congressional_district",
-          "description": "Michigan's 8th congressional district is a United States congressional district in Central Michigan. The district was first created in 1873, after redistricting following the 1870 census."
-        },
-        {
-          "title": "Home | Carrollton Public Schools",
-          "url": "https://www.carrolltonpublicschools.org/",
-          "description": "🌍 Join the Carrollton High School Homecoming Parade ! 🎉 Carrollton High School is now accepting entries for our 2026 Homecoming Parade, and we'd love to have your organization,..."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"District of Columbia Fire and EMS Department\" DC fire rescue leadership official | \"District of Columbia Fire and EMS Department\" DC EMS quality improvement contact | \"District of Columbia Fire and EMS Department\" DC staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Miami-Dade Fire Rescue",
@@ -711,36 +653,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Hillsborough County Fire Rescue\" EMS quality improvement director | \"Hillsborough County Fire Rescue\" EMS chief staff directory contact | \"Hillsborough County Fire Rescue\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Home | Hillsborough County, FL",
-          "url": "https://hcfl.gov/",
-          "description": "Hillsborough County is made up of four districts and three county-wide districts."
-        },
-        {
-          "title": "Hillsborough County, Florida - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",
-          "description": "Hillsborough County is located in the west-central portion of the U.S. state of Florida. In the 2020 census, the population was 1,459,762, [3] making it the fourth-most populous county in Florida and the most populous county outside the Miami metropolitan area."
-        },
-        {
-          "title": "Hillsborough disaster - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hillsborough_disaster",
-          "description": "The Hillsborough disaster was a fatal crowd crush at a football match at Hillsborough Stadium in Sheffield, South Yorkshire, England, on 15 April 1989. It occurred during an FA Cup semi-final between Liverpool and Nottingham Forest in the two standing-only central pens within the Leppings Lane stand allocated to Liverpool supporters."
-        },
-        {
-          "title": "Hillsborough: Timeline of the 1989 stadium disaster - BBC News",
-          "url": "https://www.bbc.co.uk/news/uk-england-merseyside-47697569",
-          "description": "On a sunny spring afternoon in 1989, a crush developed at the Hillsborough stadium in Sheffield resulting in the deaths of 97 Liverpool fans attending the club's FA Cup semi-final against..."
-        },
-        {
-          "title": "Hillsborough disaster | 1989, What Happened, Deaths, Facts, & Aftermath ...",
-          "url": "https://www.britannica.com/event/Hillsborough-disaster",
-          "description": "Hillsborough disaster, incident in which a crush of football (soccer) fans ultimately resulted in 97 deaths and hundreds of injuries. The crushing occurred during a match at Hillsborough Stadium in Sheffield, England, on April 15, 1989."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Hillsborough County Fire Rescue\" FL fire rescue leadership official | \"Hillsborough County Fire Rescue\" FL EMS quality improvement contact | \"Hillsborough County Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Broward County Fire Rescue",
@@ -766,36 +682,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Broward County Fire Rescue\" EMS quality improvement director | \"Broward County Fire Rescue\" EMS chief staff directory contact | \"Broward County Fire Rescue\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "AccessBROWARD - Home - Broward County, Florida",
-          "url": "https://access.broward.org/About.aspx",
-          "description": "Welcome to AccessBROWARD, your gateway to Broward County, Florida government services online. Use this site to sign in or register for your free AccessBROWARD account."
-        },
-        {
-          "title": "Broward County, Florida - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Broward_County,_Florida",
-          "description": "Throughout his term as governor, Broward championed Everglades drainage and was remembered for his campaign to turn the Everglades into \"useful land\". This opened up much of today's urban Broward County for development, first as agricultural land and later as residential."
-        },
-        {
-          "title": "Academics at Broward College",
-          "url": "https://www.broward.edu/academics/",
-          "description": "Broward College offers a wide range of degrees and certificates with day, evening, and online classes. With campuses and centers throughout Broward County, you can achieve your higher education goals without commuting too far from home."
-        },
-        {
-          "title": "Broward College Admissions - Central Campus Admissions & Aid Assistance ...",
-          "url": "https://www.broward.edu/admissions/",
-          "description": "Welcome to Broward College Admissions. Get help enrolling and funding your Broward College education with FAFSA. Complete your Broward College and Financial Aid Application today."
-        },
-        {
-          "title": "Welcome to Broward County",
-          "url": "https://www.broward.org/",
-          "description": "Broward County provides a wide range of services that support daily life, safety, mobility, education, recreation, and community operations. These services are funded through several revenue sources that allow the County to maintain facilities, operate programs, and support community needs."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Broward County Fire Rescue\" FL fire rescue leadership official | \"Broward County Fire Rescue\" FL EMS quality improvement contact | \"Broward County Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Jacksonville Fire and Rescue Department",
@@ -926,36 +816,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Delray Beach Fire Rescue\" EMS quality improvement director | \"Delray Beach Fire Rescue\" EMS chief staff directory contact | \"Delray Beach Fire Rescue\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Reggie Jackson - ClutchFans",
-          "url": "https://bbs.clutchfans.net/threads/reggie-jackson.313442/",
-          "description": "Reggie Jackson invented the bat flip and stare and slow trot around the bases \"let the kids play\" and all, but they need to know where it came from"
-        },
-        {
-          "title": "The World Economy Is On The Brink Of Epochal Change",
-          "url": "https://bbs.clutchfans.net/threads/the-world-economy-is-on-the-brink-of-epochal-change.326792/",
-          "description": "The World Economy Is On The Brink Of Epochal Change Discussion in ' BBS Hangout: Debate & Discussion ' started by Ubiquitin, Jun 28, 2025."
-        },
-        {
-          "title": "Changing the AI model for GitHub Copilot Chat",
-          "url": "https://docs.github.com/en/copilot/how-tos/copilot-in-your-ide/chat-with-copilot/change-the-chat-model",
-          "description": "In the popup menu, click Open Chat. In the bottom right of the chat panel, click the currently selected AI model, then select an alternative model from the popup menu. If you select Auto, Copilot auto model selection will select the best model based on availability and to help reduce rate limiting. See About Copilot auto model selection."
-        },
-        {
-          "title": "Supported AI models in GitHub Copilot",
-          "url": "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
-          "description": "For all of the default AI models, input prompts and output completions run through GitHub Copilot's content filters for harmful, offensive, or off-topic content, and for public code matching when enabled. Supported AI models in Copilot This table lists the AI models available in Copilot, along with their release status."
-        },
-        {
-          "title": "GPT-API-free / DeepSeek-API-free - GitHub",
-          "url": "https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file",
-          "description": "️ 免费API Key gpt-5系列模型的推理能力较弱，若需要更强的推理能力，可以购买付费API ️ 免费API Key仅可用于个人非商业用途，教育，非营利性科研工作中。 免费API Key严禁商用，严禁大规模训练商用模型！"
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Delray Beach Fire Rescue\" FL fire rescue leadership official | \"Delray Beach Fire Rescue\" FL EMS quality improvement contact | \"Delray Beach Fire Rescue\" FL staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "West Palm Beach Fire Rescue",
@@ -1031,25 +895,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Acadian Ambulance Service\" LA fire rescue leadership official | \"Acadian Ambulance Service\" LA EMS quality improvement contact | \"Acadian Ambulance Service\" LA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "Our Company | Acadian Companies",
-          "url": "https://acadian.com/our-company/",
-          "description": "Acadian began as a small ambulance company and expanded to include a diverse suite of services designed to offer the very best support and education in health, safety and transportation."
-        },
-        {
-          "title": "Acadian Ambulance Service | Medical Transport When You Need It",
-          "url": "https://acadianambulance.com/",
-          "description": "Acadian Ambulance is a proud member of the American Ambulance Association. Acadian is an Equal Opportunity Employer/Affirmative Action Employer. Employment is based solely upon one’s individual merit and qualifications directly related to professional competence."
-        },
-        {
-          "title": "Texas | Acadian Ambulance Service",
-          "url": "https://acadianambulance.com/locations/texas/",
-          "description": "In 2006, Acadian became the 911 provider in Orange County. We currently operate in 35 counties and serve nearly 20 million people spanning 32,000 square miles and operating more than 300 ambulance units."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Priority Ambulance",
@@ -1190,36 +1038,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Greensboro Fire Department\" EMS quality improvement director | \"Greensboro Fire Department\" EMS chief staff directory contact | \"Greensboro Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Greensboro, NC | Home",
-          "url": "https://www.greensboro-nc.gov/",
-          "description": "Greensboro will receive $70,000 to engage residents in efforts to clear vacant lots, reclaim public space, and better their communities. System changes triggered by separate maintenance operations may have affected water quality for some customers recently."
-        },
-        {
-          "title": "Explore Greensboro | Greensboro, NC",
-          "url": "https://www.greensboro-nc.gov/residents/explore",
-          "description": "Font Size: + - Share & Bookmark Feedback Print Arts & Events Coliseum Complex Convention & Visitors Bureau Creative Greensboro at Festival Park Downtown Greensboro Inc. Gardens Golf Courses Chamber of Commerce Greensboro History Museum Greensboro Science Center Greensboro Sportsplex J. Douglas Galyon Depot Lakes Libraries Parks Sports ..."
-        },
-        {
-          "title": "Greensboro, North Carolina - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Greensboro,_North_Carolina",
-          "description": "Greensboro (/ ˈɡriːnzbəroʊ / ⓘ; [6] locally / ˈɡriːnzbʌrə /) is a city in Guilford County, North Carolina, United States, and its county seat. The Greensboro–High Point metropolitan area has an estimated 801,000 residents, with the metropolitan area also encompassing the overall center of North Carolina. [4]"
-        },
-        {
-          "title": "Greensboro News and Record | Breaking News | | Read Greensboro and ...",
-          "url": "https://greensboro.com/",
-          "description": "Read the latest Greensboro, NC news. Get the latest on events, sports, weather, entertainment, lifestyles and more."
-        },
-        {
-          "title": "Living in Greensboro, NC - A Ranked Best Place to Live in 2026",
-          "url": "https://livability.com/nc/greensboro/",
-          "description": "Discover why Greensboro, NC, ranks as a best place to live in the U.S., with cost of living, employment, things to do and more."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Greensboro Fire Department\" NC fire rescue leadership official | \"Greensboro Fire Department\" NC EMS quality improvement contact | \"Greensboro Fire Department\" NC staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Charlotte Fire Department",
@@ -1245,36 +1067,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Charlotte Fire Department\" EMS quality improvement director | \"Charlotte Fire Department\" EMS chief staff directory contact | \"Charlotte Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Home - City of Charlotte",
-          "url": "https://www.charlottenc.gov/Home",
-          "description": "See live coverage of Charlotte City Council, county commission, school board meetings, live city events, announcements, and emergency services briefings. View regular news updates, educational programs, and original Charlotte stories."
-        },
-        {
-          "title": "Charlotte - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Charlotte",
-          "description": "This disambiguation page lists articles associated with the title Charlotte. If an internal link incorrectly led you here, you may wish to change the link to point directly to the intended article."
-        },
-        {
-          "title": "Charlotte, North Carolina - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Charlotte,_North_Carolina",
-          "description": "Charlotte's notable attractions include three major league professional sports teams, the Carolina Panthers of the NFL, the Charlotte Hornets of the NBA, and Charlotte FC of MLS."
-        },
-        {
-          "title": "Axios - Charlotte",
-          "url": "https://www.axios.com/local/charlotte",
-          "description": "Concourse C expansion and a passenger tunnel are parts of a new bundle of construction projects Charlotte Douglas International Airport is proposing."
-        },
-        {
-          "title": "Charlotte News: Breaking, Sports & Crime | Charlotte Observer",
-          "url": "https://www.charlotteobserver.com/",
-          "description": "Today's latest news from Charlotte and Mecklenburg covering local business, sports, crime, politics and community updates from North Carolina."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Charlotte Fire Department\" NC fire rescue leadership official | \"Charlotte Fire Department\" NC EMS quality improvement contact | \"Charlotte Fire Department\" NC staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Columbus Division of Fire",
@@ -1300,36 +1096,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Columbus Division of Fire\" EMS quality improvement director | \"Columbus Division of Fire\" EMS chief staff directory contact | \"Columbus Division of Fire\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Government - City of Columbus, Ohio",
-          "url": "https://www.columbus.gov/Government",
-          "description": "Government Municipal Court The Municipal Court is the judicial branch for the City of Columbus. Fourteen General Division judges and one Environmental judge preside over traffic cases, misdemeanor criminal cases, and civil cases where the amount at issue is $15,000 or less. The Environmental Division has exclusive jurisdiction to enforce local codes and regulations affecting real property ..."
-        },
-        {
-          "title": "Home - City of Columbus, Ohio",
-          "url": "https://www.columbus.gov/Home",
-          "description": "Welcome to the new Columbus.gov! We are thrilled to present a revamped digital experience that caters to the needs of all users. Discover a website that offers improved access to valuable information and services. Whether you are a resident, business owner, or visitor, we are committed to providing a better online platform to meet your needs. Explore the updated Columbus.gov and embrace a more ..."
-        },
-        {
-          "title": "Columbus News, Weather, Sports, Breaking News",
-          "url": "https://abc6onyourside.com/",
-          "description": "WSYX ABC 6 is On Your Side, providing local news, first warning weather forecasts and alerts, traffic updates, consumer advocacy, and the latest information about sports, politics, law enforcement ..."
-        },
-        {
-          "title": "Christopher Columbus - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
-          "description": "Christopher Columbus[b] (/ kəˈlʌmbəs /; [2] between 25 August and 31 October 1451 – 20 May 1506) was an Italian [3][c] explorer and navigator from the Republic of Genoa [3][4] who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. His expeditions were the first known ..."
-        },
-        {
-          "title": "Columbus, Ohio - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Columbus,_Ohio",
-          "description": "Columbus (/ kəˈlʌmbəs / kə-LUM-bəs) is the capital and most populous city of the U.S. state of Ohio. With a population of 905,748 at the 2020 census, [5] it is the 14th-most populous city in the U.S., second-most populous city in the Midwest (after Chicago), and third-most populous U.S. state capital (after Phoenix, Arizona, and Austin, Texas). The Columbus metropolitan area, with an ..."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Columbus Division of Fire\" OH fire rescue leadership official | \"Columbus Division of Fire\" OH EMS quality improvement contact | \"Columbus Division of Fire\" OH staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Cincinnati Fire Department",
@@ -1355,36 +1125,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Cincinnati Fire Department\" EMS quality improvement director | \"Cincinnati Fire Department\" EMS chief staff directory contact | \"Cincinnati Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "21 Best Things To Do in Cincinnati - U.S. News Travel",
-          "url": "https://travel.usnews.com/Cincinnati_OH/Things_To_Do/",
-          "description": "Ranking of the top 21 things to do in Cincinnati. Travelers favorites include #1 Cincinnati Museum Center, #2 Eden Park and more."
-        },
-        {
-          "title": "Home - City of Cincinnati",
-          "url": "https://www.cincinnati-oh.gov/cityofcincinnati/",
-          "description": "The City of Cincinnati government is dedicated to maintaining the highest quality of life for the people of Cincinnati. The City is focused on economic development to create jobs, committed to innovation and efficiency through technology, seeks to be a leader in environmental sustainability, and pursues partnerships to help create opportunities that benefit the city's diverse residents ..."
-        },
-        {
-          "title": "Cincinnati - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Cincinnati",
-          "description": "Cincinnati (/ ˌsɪnsɪˈnæti / ⓘ SIN-sin-AT-ee; colloquially nicknamed Cincy) is the most populous city in Hamilton County, Ohio, United States, and its county seat. [8] Settled in 1788, the city is located on the northern side of the confluence of the Licking and Ohio rivers, the latter of which marks the state line with Kentucky. It is the third-most populous city in Ohio (after Columbus ..."
-        },
-        {
-          "title": "History of Cincinnati - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/History_of_Cincinnati",
-          "description": "Cincinnati in 1800, lithograph, based on a painting by A.J. Swing. In 1800, there were about 30 buildings and a population of 750 people. Cincinnati began with the settlement of Columbia, Losantiville, and North Bend in the Northwest Territory of the United States beginning in late December 1788. The following year Fort Washington, named for George Washington, was established to protect the ..."
-        },
-        {
-          "title": "Cincinnati News, Sports and Things to Do | Cincinnati Enquirer",
-          "url": "https://www.cincinnati.com/",
-          "description": "Breaking Cincinnati news, traffic, weather and local headlines from The Cincinnati Enquirer newspaper."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Cincinnati Fire Department\" OH fire rescue leadership official | \"Cincinnati Fire Department\" OH EMS quality improvement contact | \"Cincinnati Fire Department\" OH staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Cleveland Division of Fire",
@@ -1410,36 +1154,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Cleveland Division of Fire\" EMS quality improvement director | \"Cleveland Division of Fire\" EMS chief staff directory contact | \"Cleveland Division of Fire\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Home | City of Cleveland Ohio",
-          "url": "https://www.clevelandohio.gov/",
-          "description": "Home Welcome to the City of Cleveland Cleveland is a city where entrepreneurial grit actually has a nice ring to it. Where world-changing breakthroughs meet genuine, hardworking people connected by the traditions we share, the opportunities we embrace, and the progress we seek. In other words, there’s no better place to live and work."
-        },
-        {
-          "title": "Cleveland - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Cleveland",
-          "description": "Cleveland (/ ˈkliːvlənd / KLEEV-lənd) is a city in the U.S. state of Ohio, located along the southern shore of Lake Erie. It is across the lake from the Canadian province of Ontario, and is approximately 60 miles (97 kilometers) west of the Ohio– Pennsylvania state line. Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio (after Columbus), and the 53rd ..."
-        },
-        {
-          "title": "Cleveland, Yorkshire - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Cleveland,_Yorkshire",
-          "description": "Cleveland (/ ˈkliːvlənd /) is an area of North Yorkshire, England, lying between the River Tees and the North Sea on one side and the North York Moors on the other."
-        },
-        {
-          "title": "Taylor Swift – Cleveland! Lyrics - Genius",
-          "url": "https://genius.com/Taylor-swift-cleveland-lyrics",
-          "description": "“Cleveland!” is the fourteenth track from Taylor Swift’s expanded album The Life of a Showgirl: The Encore, released on September 25, 2026. It is one of four new songs added to the original ..."
-        },
-        {
-          "title": "Taylor Swift - Cleveland! (Official Lyric Video) - YouTube",
-          "url": "https://m.youtube.com/watch?v=jfVVXYTZykw",
-          "description": "“Cleveland!” by Taylor Swift, from The Life of a Showgirl: The Encore. Stream/download ‘The Life of a Showgirl: The Encore': https://taylor.lnk.to/TSTLOASThe..."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Cleveland Division of Fire\" OH fire rescue leadership official | \"Cleveland Division of Fire\" OH EMS quality improvement contact | \"Cleveland Division of Fire\" OH staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Minneapolis Fire Department",
@@ -1646,36 +1364,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Clark County Fire Department\" EMS quality improvement director | \"Clark County Fire Department\" EMS chief staff directory contact | \"Clark County Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Clark.com - Clark Howard",
-          "url": "https://clark.com/",
-          "description": "Clark Howard has been sharing unbiased advice to help people save more and spend less for more than 30 years. On the Clark Howard Show, he shares practical and actionable ways you can improve your financial life."
-        },
-        {
-          "title": "Clark's Topics, Guides and Tools - Clark Howard",
-          "url": "https://clark.com/topics/",
-          "description": "Easy Way To Find a Cheaper Phone Plan. Our Phone Plan Finder tool can help you find the best (and cheapest!) phone plan based on your preferences and needs. Find your new phone plan today. NEW CREDIT CARD TOOL! Maximize your cash back based on your spending habits."
-        },
-        {
-          "title": "Clarks (shoe retailer) - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Clarks_(shoe_retailer)",
-          "description": "C. & J. Clark International Limited (trading as Clarks) is a British footwear manufacturer and retailer founded in 1825 by Cyrus Clark in Street, Somerset, where its headquarters remain."
-        },
-        {
-          "title": "Caitlin Clark ‘Upset’ After Kelsey Mitchell Said It’s Hard to Be Her ...",
-          "url": "https://people.com/caitlin-clark-upset-after-kelsey-mitchell-said-it-hard-to-be-her-teammate-12164395",
-          "description": "Caitlin Clark said in her Indiana Fever exit interview on Thursday, Oct. 8 that it makes her ‘upset’ to hear Kelsey Mitchell say it’s hard to be her teammate."
-        },
-        {
-          "title": "Clark College",
-          "url": "https://www.clark.edu/",
-          "description": "At Clark College, you can explore human behavior, culture, and social issues while preparing yourself for a career in education or public service. This area of study is for students who are committed to changing lives and making a difference in the world."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Clark County Fire Department\" NV fire rescue leadership official | \"Clark County Fire Department\" NV EMS quality improvement contact | \"Clark County Fire Department\" NV staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Salt Lake City Fire Department",
@@ -1834,36 +1526,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Fresno Fire Department\" EMS quality improvement director | \"Fresno Fire Department\" EMS chief staff directory contact | \"Fresno Fire Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "City of Fresno",
-          "url": "https://www.fresno.gov/",
-          "description": "The City of Fresno is reviewing a long-range plan for the southeast side of the city. This page explains what the plan is, what its first phase includes, and how the City decides whether to approve it."
-        },
-        {
-          "title": "Fresno, California - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Fresno,_California",
-          "description": "Fresno (/ ˈfrɛz.noʊ / ⓘ; Spanish for ' ash tree ') is a city in the San Joaquin Valley of California, United States. It is the county seat of Fresno County and the largest city in the greater Central Valley region, as well as the most populated city in Central California."
-        },
-        {
-          "title": "Metropolitan Fresno - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Metropolitan_Fresno",
-          "description": "Fresno is the largest city in the area and in the Central Valley. Along with Sacramento, it is the economic center of California's interior and is one of the fastest-growing cities in the United States, with the region having a growth of over 20% since 2000."
-        },
-        {
-          "title": "Things to Do in Fresno & Clovis This Week: Events, Concerts & More ...",
-          "url": "https://heyfresno.com/",
-          "description": "Things to do in Fresno and Clovis this week: concerts, live music, festivals, farmers markets, games and free events, updated every day. No app or account needed."
-        },
-        {
-          "title": "31 Things To Do In Fresno, California | An Underrated City",
-          "url": "https://theatlasheart.com/things-to-do-in-fresno/",
-          "description": "The best things to do in Fresno! In this bucket list guide, you'll not only discover top things to do but also what to eat and where to stay."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Fresno Fire Department\" CA fire rescue leadership official | \"Fresno Fire Department\" CA EMS quality improvement contact | \"Fresno Fire Department\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Fresno County EMS Agency",
@@ -1890,36 +1556,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Fresno County EMS Agency\" EMS quality improvement director | \"Fresno County EMS Agency\" EMS chief staff directory contact | \"Fresno County EMS Agency\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "City of Fresno",
-          "url": "https://www.fresno.gov/",
-          "description": "The City of Fresno is reviewing a long-range plan for the southeast side of the city. This page explains what the plan is, what its first phase includes, and how the City decides whether to approve it."
-        },
-        {
-          "title": "Fresno, California - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Fresno,_California",
-          "description": "Fresno (/ ˈfrɛz.noʊ / ⓘ; Spanish for ' ash tree ') is a city in the San Joaquin Valley of California, United States. It is the county seat of Fresno County and the largest city in the greater Central Valley region, as well as the most populated city in Central California."
-        },
-        {
-          "title": "Metropolitan Fresno - Wikipedia",
-          "url": "https://en.m.wikipedia.org/wiki/Metropolitan_Fresno",
-          "description": "Fresno is the largest city in the area and in the Central Valley. Along with Sacramento, it is the economic center of California's interior and is one of the fastest-growing cities in the United States, with the region having a growth of over 20% since 2000."
-        },
-        {
-          "title": "Things to Do in Fresno & Clovis This Week: Events, Concerts & More ...",
-          "url": "https://heyfresno.com/",
-          "description": "Things to do in Fresno and Clovis this week: concerts, live music, festivals, farmers markets, games and free events, updated every day. No app or account needed."
-        },
-        {
-          "title": "31 Things To Do In Fresno, California | An Underrated City",
-          "url": "https://theatlasheart.com/things-to-do-in-fresno/",
-          "description": "The best things to do in Fresno! In this bucket list guide, you'll not only discover top things to do but also what to eat and where to stay."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Fresno County EMS Agency\" CA fire rescue leadership official | \"Fresno County EMS Agency\" CA EMS quality improvement contact | \"Fresno County EMS Agency\" CA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Fairfax County Fire and Rescue Department",
@@ -1945,36 +1585,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Fairfax County Fire and Rescue Department\" EMS quality improvement director | \"Fairfax County Fire and Rescue Department\" EMS chief staff directory contact | \"Fairfax County Fire and Rescue Department\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Fairfax County Homepage | Fairfax County",
-          "url": "https://www.fairfaxcounty.gov/",
-          "description": "Engage Fairfax County is the framework that guides community engagement. View the official public participation portal that features select projects, surveys and opportunities to provide feedback."
-        },
-        {
-          "title": "Home City of Fairfax, VA",
-          "url": "https://www.fairfaxva.gov/Home",
-          "description": "It was, and still is, at the crossroads of Northern Virginia. Located just 20 minutes from Washington, D.C., with an attractive blend of commercial, office, retail, and residential properties, the City of Fairfax combines the charm of a small town with the opportunities of a thriving urban area."
-        },
-        {
-          "title": "Fairfax, Virginia - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Fairfax,_Virginia",
-          "description": "As of the 2020 census, the population was 24,146. [6] Fairfax is part of both the Washington metropolitan area and Northern Virginia regions. It is located 14 miles (23 km) west of Washington, D.C. Fairfax is served by Washington Metro 's Orange Line."
-        },
-        {
-          "title": "Fairfax County, Virginia - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Fairfax_County,_Virginia",
-          "description": "Fairfax County, officially the County of Fairfax, is a county in the state of Virginia, United States."
-        },
-        {
-          "title": "Trusted Sperm Bank & Cryobank | Fairfax Cryobank",
-          "url": "https://fairfaxcryobank.com/",
-          "description": "Fairfax Cryobank ships to over 50 countries and has branch locations across the United States, including Austin, Fairfax, Houston, Philadelphia, Miami, Pasadena, and the Twin Cities, meaning world-class donor sperm is never more than a shipping order away."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Fairfax County Fire and Rescue Department\" VA fire rescue leadership official | \"Fairfax County Fire and Rescue Department\" VA EMS quality improvement contact | \"Fairfax County Fire and Rescue Department\" VA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Loudoun County Combined Fire and Rescue System",
@@ -2154,15 +1768,9 @@
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
       "contactResearchQuery": "\"Atlanta Fire Rescue Department\" GA fire rescue leadership official | \"Atlanta Fire Rescue Department\" GA EMS quality improvement contact | \"Atlanta Fire Rescue Department\" GA staff directory fire rescue",
-      "contactResearchResults": [
-        {
-          "title": "50 Fun Things to Do in Atlanta, GA - Discover Atlanta",
-          "url": "https://discoveratlanta.com/50fun/main/",
-          "description": "Check out the top fifty fun things to do in Atlanta! From top attractions to hidden gems and everything in between, there is something fun for everyone."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:34:30.588109+00:00",
-      "contactResearchStatus": "Candidate sources found; verify agency match and identify a named contact"
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "DeKalb County Fire Rescue",
@@ -2188,36 +1796,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"DeKalb County Fire Rescue\" EMS quality improvement director | \"DeKalb County Fire Rescue\" EMS chief staff directory contact | \"DeKalb County Fire Rescue\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Home / DeKalb County, Indiana",
-          "url": "https://www.co.dekalb.in.us/",
-          "description": "Routine Childhood Vaccine Clinics October Oct 06 DeKalb County Indiana Press Release Oct 06 DeKalb County Plat Committee Agenda & Packet for October 6, 2026"
-        },
-        {
-          "title": "DEKALB® Brand Seed | Crop Science US",
-          "url": "https://www.cropscience.bayer.us/brands/dekalb",
-          "description": "Powered by advanced Bayer Traits and more than a century of relentless innovation, DEKALB® delivers the proven performance farmers count on to maximize every acre. DEKALB Corn and Bayer Traits Innovations. Never Settle."
-        },
-        {
-          "title": "DEKALB® Corn Seed - Catalog - Bayer",
-          "url": "https://www.cropscience.bayer.us/corn/dekalb/seed-catalog",
-          "description": "For over 100 years, we’ve been providing farmers with top-performing corn seed and expert product recommendations tailored to your fields."
-        },
-        {
-          "title": "Muncie, IN | Geoponic",
-          "url": "http://www.geoponic.com/main/seed/index.html",
-          "description": "DeKalb corn offers a superior product portfolio, supported by the latest technology. DeKalb seed is back up by over 100 years of corn breeding experience, delivering strong roots and stalks that give you what you need most: a higher yield potential."
-        },
-        {
-          "title": "DeKalb - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/DeKalb",
-          "description": "This disambiguation page lists articles associated with the title DeKalb. If an internal link incorrectly led you here, you may wish to change the link to point directly to the intended article."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"DeKalb County Fire Rescue\" GA fire rescue leadership official | \"DeKalb County Fire Rescue\" GA EMS quality improvement contact | \"DeKalb County Fire Rescue\" GA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Cobb County Fire and Emergency Services",
@@ -2243,36 +1825,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Cobb County Fire and Emergency Services\" EMS quality improvement director | \"Cobb County Fire and Emergency Services\" EMS chief staff directory contact | \"Cobb County Fire and Emergency Services\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Cobb (film) - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Cobb_(film)",
-          "description": "Cobb is a 1994 American biographical sports drama film starring Tommy Lee Jones as baseball player Ty Cobb. The film was written and directed by Ron Shelton and based on a 1994 book by Al Stump. The original music score was composed by Elliot Goldenthal."
-        },
-        {
-          "title": "Home [www.cobbgenetics.com]",
-          "url": "https://www.cobbgenetics.com/",
-          "description": "From farms and hatcheries to research and field service, our teams are more connected to customers than ever, turning insight into action and innovation into measurable results. Guided by disciplined processes and a data‑driven culture, we’re building the foundation for the next century of progress in poultry genetics."
-        },
-        {
-          "title": "Cobb County School District",
-          "url": "https://www.cobbk12.org/",
-          "description": "Our vision is a school district of excellence where all students succeed. Record Breaking, Again! Cobb Schools Tops Last Year's Highest Graduation Rate Ever. © Cobb County School District. All rights reserved."
-        },
-        {
-          "title": "Cobb Technologies | Home",
-          "url": "https://www.cobbtechnologies.com/Home",
-          "description": "For eight consecutive years, Cobb Technologies has been recognized as a top-performing service provider for Konica Minolta. To learn more about this achievement, read our press release."
-        },
-        {
-          "title": "COBB Tuning | Car Performance ECU Tuning",
-          "url": "https://www.cobbtuning.com/",
-          "description": "For those not familiar with CAN (Controller Area Network) in modern cars, head over to this blog post which explains a bit of it at a high level. This release is a meaty one with some all new hardware, new Stage Power Packages, and supporting COBB Off The Shelf Maps."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Cobb County Fire and Emergency Services\" GA fire rescue leadership official | \"Cobb County Fire and Emergency Services\" GA EMS quality improvement contact | \"Cobb County Fire and Emergency Services\" GA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Gwinnett County Fire and Emergency Services",
@@ -2298,36 +1854,10 @@
       "bestContactPhone": "",
       "bestContactSource": "",
       "bestContactConfidence": "Role recommendation only",
-      "contactResearchQuery": "\"Gwinnett County Fire and Emergency Services\" EMS quality improvement director | \"Gwinnett County Fire and Emergency Services\" EMS chief staff directory contact | \"Gwinnett County Fire and Emergency Services\" QA QI patient care report contact",
-      "contactResearchResults": [
-        {
-          "title": "Employee Central - chrysler",
-          "url": "http://kiosk.extra.chrysler.com/eMenu/page/EHub.jsp",
-          "description": "Chrysler Employee Central is the hub for employee resources and information."
-        },
-        {
-          "title": "SCHEDULE: NCAA Basketball Games - ALL-STAR",
-          "url": "https://all-starmagazine.com/news-and-updates/schedule-ncaa-basketball-games/",
-          "description": "Each playdate will feature two Juniors games at 10 a.m. and 12 p.m., followed by two Seniors games at 3 p.m. and 5 p.m. Check the complete NCAA Season 102 basketball schedule below for all game dates, matchups, venues, and times:"
-        },
-        {
-          "title": "Basic Integrated Visibility | FedEx Developer Portal",
-          "url": "https://developer.fedex.com/api/en-us/catalog/track.html",
-          "description": "Key Features Tracking Status Track FedEx Express®, FedEx Ground, FedEx Ground® Economy and FedEx Freight® packages with a tracking number. Estimated Delivery Get Estimated delivery date of FedEx shipments, by providing a tracking number."
-        },
-        {
-          "title": "QlikView - AccessPoint - chrysler",
-          "url": "https://discovery-dc.extra.chrysler.com/QlikView/",
-          "description": "Favorite Documents As you star your favorite documents they will appear here. Click the star next to the document to remove it from your favorites list. Submit"
-        },
-        {
-          "title": "Sitio oficial de Chrysler - Nuevas minivans y ofertas",
-          "url": "https://es.chrysler.com/",
-          "description": "Visita el sitio web oficial de Chrysler para conocer las ofertas actuales, las promociones de alquiler y los incentivos para las nuevas minivans. Diseñar y cotizar tu minivan Chrysler o buscar un inventario cercano."
-        }
-      ],
-      "contactResearchUpdatedAt": "2026-10-09T05:30:57.012465+00:00",
-      "contactResearchStatus": "Search results found; review official source and identify a named contact"
+      "contactResearchQuery": "\"Gwinnett County Fire and Emergency Services\" GA fire rescue leadership official | \"Gwinnett County Fire and Emergency Services\" GA EMS quality improvement contact | \"Gwinnett County Fire and Emergency Services\" GA staff directory fire rescue",
+      "contactResearchResults": [],
+      "contactResearchUpdatedAt": "2026-10-09T05:37:39.840248+00:00",
+      "contactResearchStatus": "No relevant official source found; manual research required"
     },
     {
       "agency": "Orlando Fire Department",
@@ -4712,10 +4242,10 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Public EMS oversight and advisory boards. Query: EMS advisory board (\"quality assurance\" OR \"quality improvement\" OR documentation OR ePCR). Collected at 2026-10-09T05:17:49.160043+00:00. Publisher: Maine.gov. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-09T05:34:25.174159+00:00",
+  "last_research_run_utc": "2026-10-09T05:37:34.189203+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 28,
+  "last_research_skipped_old": 32,
   "last_research_skipped_irrelevant": 16,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
@@ -4723,9 +4253,9 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-09T05:34:30.588109+00:00",
+  "last_contact_research_run_utc": "2026-10-09T05:37:39.840248+00:00",
   "last_contact_research_checked": 20,
-  "last_contact_research_with_results": 3,
+  "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
-  "last_contact_research_filter_version": 2
+  "last_contact_research_filter_version": 3
 }
