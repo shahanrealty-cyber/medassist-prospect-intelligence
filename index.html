@@ -89,17 +89,28 @@ const $=id=>document.getElementById(id);
 function save(){localStorage.setItem(KEY,JSON.stringify(leads));render()}
 function esc(s=''){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function scoreLead(x){
- const text=[x.category,x.signal,x.why,x.notes,x.triggerQuery].join(' ').toLowerCase();
- let score=20;
- if(x.confidence==='Verified signal')score+=20;
- if(x.confidence==='Needs validation')score-=5;
- if(/active solicitation|request for proposal|\brfp\b|procurement notice|e pcr replacement|epcr replacement|contract opportunity/.test(text))score+=35;
- if(/grant|funding|budget allocation|quality improvement initiative|quality assurance program|dedicated quality|patient care report review|documentation review/.test(text))score+=20;
- if(/billing|reimbursement|medical necessity|compliance/.test(text))score+=10;
- if(/director|chief|manager|leadership|hiring/.test(text))score+=5;
+ const text=[x.category,x.signal,x.why,x.notes,x.triggerQuery,x.triggerEvidence,x.medassistRelevance].join(' ').toLowerCase();
+ let score=10;
+ const verified=['Verified buying signal','Verified signal'].includes(x.validationStatus)||x.confidence==='Verified signal';
+ const explicitNeed=/needs? (automated )?(epcr|e pcr|chart|documentation|quality|qa|qi)|seeking (qa|qi|quality assurance|quality improvement|chart review|documentation review)|looking for (qa|qi|quality assurance|quality improvement|chart review|documentation review)|evaluat(e|ing) (qa|qi|quality assurance|quality improvement|epcr|e pcr)|request for (information|proposal).{0,80}(qa|qi|quality assurance|quality improvement|epcr|e pcr|chart review)|implement(ing|ation)? .{0,60}(epcr|e pcr|quality assurance|quality improvement|chart review)|automated chart review|epcr qa|e pcr qa|quality assurance software|quality improvement software/.test(text);
+ const qualityProblem=/(audit|inspection|accreditation|review|investigation|corrective action|deficienc|finding|failure|gap|non.?compliance|documentation error|incomplete documentation|missed documentation|charting issue|quality issue|patient safety event).{0,100}(documentation|chart|epcr|e pcr|quality|clinical|patient care|compliance|billing|reimbursement)|(documentation|chart|epcr|e pcr|quality|clinical|patient care|compliance|billing|reimbursement).{0,100}(audit finding|deficienc|corrective action|non.?compliance|gap|error|failure|issue|finding)/.test(text);
+ const lawsuit=/(lawsuit|litigation|sued|sues|court filing|civil suit|settlement|jury verdict|malpractice claim|negligence claim|wrongful death suit|legal complaint)/.test(text)&&/(ems|ambulance|paramedic|emergency medical|patient care|clinical|medical response|prehospital)/.test(text);
+ const qaInitiative=/(quality improvement initiative|quality assurance program|clinical quality initiative|cqi program|qa\/qi program|documentation improvement initiative|chart review program|patient care report review|documentation review|ems quality program)/.test(text);
+ const procurement=/active solicitation|request for proposal|\brfp\b|procurement notice|contract opportunity/.test(text);
+ const billingRisk=/(billing|reimbursement|medical necessity|payer compliance|documentation compliance)/.test(text);
+ const epcrChange=/(epcr|e pcr|electronic patient care report).{0,60}(transition|replacement|migration|implementation|new system|integration)|(transition|replacement|migration|implementation|integration).{0,60}(epcr|e pcr|electronic patient care report)/.test(text);
+ if(explicitNeed)score+=45;
+ if(qualityProblem)score+=verified?35:25;
+ if(lawsuit)score+=verified?30:20;
+ if(qaInitiative)score+=25;
+ if(procurement)score+=30;
+ if(billingRisk)score+=15;
+ if(epcrChange)score+=10;
+ if(/director|chief|manager|medical director|quality leader|clinical services/.test(text))score+=5;
+ if(x.confidence==='Needs validation'||x.validationStatus==='Needs review')score-=10;
  if(/baseline target|generic|research lead:/.test(text))score-=10;
  if(x.status==='Qualified'||x.status==='Meeting booked')score+=5;
- if(x.status==='Disqualified')score=0;
+ if(x.status==='Disqualified'||x.validationStatus==='Rejected')score=0;
  return Math.max(0,Math.min(100,score));
 }
 function priorityFor(x){const s=scoreLead(x);return {score:s,label:s>=75?'A · Act now':s>=55?'B · Strong fit':s>=35?'C · Develop':'D · Research'};}
