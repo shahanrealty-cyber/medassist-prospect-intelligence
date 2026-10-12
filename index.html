@@ -182,7 +182,22 @@ function messagingDefaults(x){
  }
  return {trigger,problem,who,angle};
 }
-function ensureMessagingDefaults(){for(const x of leads){const d=messagingDefaults({...x,messagingAngle:''});if(!x.messagingTrigger)x.messagingTrigger=d.trigger;if(!x.messagingProblem)x.messagingProblem=d.problem;if(!x.whoToTalkTo)x.whoToTalkTo=d.who;if(!x.messagingAngle)x.messagingAngle=d.angle;}}
+function ensureMessagingDefaults(){for(const x of leads){
+ const previousAutoAngles=[
+ 'Use the recorded signal as a reason to ask about the current ePCR QA workflow. Explore review coverage, manual effort, and reporting needs before positioning MedAssist. Do not assume a problem exists.',
+ 'Explore how the team identifies documentation gaps that may affect billing, reimbursement, or payer requirements. Position MedAssist as a way to flag reports for human review, not as a claim that problems exist.',
+ 'Ask about the current ePCR workflow, planned system changes, and how QA is handled. Explore whether an additional review and trend-analysis layer would be useful.',
+ 'Use the leadership or hiring signal to ask how QA/QI responsibilities are organized and what the team wants to improve. Discuss scaling report review only if that is a current priority.',
+ 'Ask whether the stated funding or budget priority includes EMS quality, documentation, or reporting. Connect MedAssist only if it supports an identified initiative; do not assume funding is available.',
+ 'Reference only the specific, verified public statement and ask how the agency manages documentation review and quality follow-up. Keep the tone neutral and do not imply fault or noncompliance.',
+ 'Lead with the stated quality or reporting program: ask how patient care reports are reviewed, how much is manual, and how the team identifies patterns. Position MedAssist as support for consistent review and trend visibility, not a replacement for clinical judgment.'
+ ];
+ const d=messagingDefaults({...x,messagingAngle:''});
+ if(!x.messagingTrigger)x.messagingTrigger=d.trigger;
+ if(!x.messagingProblem || x.messagingProblem==='Potential workflow to qualify: report-review workload, QA coverage, and how findings are tracked. No operational problem is confirmed.')x.messagingProblem=d.problem;
+ if(!x.whoToTalkTo)x.whoToTalkTo=d.who;
+ if(!x.messagingAngle || previousAutoAngles.includes(x.messagingAngle) || x.messagingLogicVersion!==2){x.messagingAngle=d.angle;x.messagingProblem=d.problem;x.whoToTalkTo=d.who;x.messagingLogicVersion=2;}
+}}
 function priorityFor(x){const s=scoreLead(x);return {score:s,label:s>=75?'A · Act now':s>=55?'B · Strong fit':s>=35?'C · Develop':'D · Research'};}
 function pillStatus(s){const cls=s==='Signal verified'?'verified':s==='Contacted'||s==='Meeting booked'?'contacted':s==='Disqualified'?'disqualified':'research';return '<span class="pill '+cls+'">'+esc(s)+'</span>'}
 function renderValidationQueue(){
