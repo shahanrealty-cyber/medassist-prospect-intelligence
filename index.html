@@ -124,16 +124,63 @@ function scoreLead(x){
 }
 function messagingDefaults(x){
  const category=(x.category||'').toLowerCase();
+ const raw=[x.messagingTrigger,x.triggerEvidence,x.triggerQuery,x.triggerTerms,x.signal,x.why,x.medassistRelevance,category].filter(Boolean).join(' ').toLowerCase();
  const trigger=(x.messagingTrigger||x.triggerEvidence||x.signal||x.triggerQuery||x.category||'').trim()||'No specific trigger recorded; baseline research target.';
- const problem=(x.messagingProblem||x.why||'').trim()||'Potential workflow to qualify: report-review workload, QA coverage, and how findings are tracked. No operational problem is confirmed.';
- let angle='Use the recorded signal as a reason to ask about the current ePCR QA workflow. Explore review coverage, manual effort, and reporting needs before positioning MedAssist. Do not assume a problem exists.';
- if(/billing|reimbursement|documentation|compliance/.test(category)) angle='Explore how the team identifies documentation gaps that may affect billing, reimbursement, or payer requirements. Position MedAssist as a way to flag reports for human review, not as a claim that problems exist.';
- else if(/epcr|procurement|technology/.test(category)) angle='Ask about the current ePCR workflow, planned system changes, and how QA is handled. Explore whether an additional review and trend-analysis layer would be useful.';
- else if(/leadership|hiring/.test(category)) angle='Use the leadership or hiring signal to ask how QA/QI responsibilities are organized and what the team wants to improve. Discuss scaling report review only if that is a current priority.';
- else if(/grant|budget/.test(category)) angle='Ask whether the stated funding or budget priority includes EMS quality, documentation, or reporting. Connect MedAssist only if it supports an identified initiative; do not assume funding is available.';
- else if(/accreditation|standards|legal|enforcement|official finding/.test(category)) angle='Reference only the specific, verified public statement and ask how the agency manages documentation review and quality follow-up. Keep the tone neutral and do not imply fault or noncompliance.';
- else if(/cqi|qa|qi|quality|reporting|performance/.test(category)) angle='Lead with the stated quality or reporting program: ask how patient care reports are reviewed, how much is manual, and how the team identifies patterns. Position MedAssist as support for consistent review and trend visibility, not a replacement for clinical judgment.';
- return {trigger,problem,who:(x.whoToTalkTo||x.bestContactTitle||x.bestContact||x.contact||'EMS leadership / QA-QI / clinical quality').trim(),angle:(x.messagingAngle||angle).trim()};
+ const isBaseline=/baseline target/.test(raw) && !/(new (ems )?(leadership|chief|director)|newly appointed|appointed (chief|director)|hired (chief|director)|leadership change|new qa|quality initiative|billing|reimbursement|documentation|compliance|epcr|procurement|accreditation|grant|budget|enforcement|audit|finding|lawsuit|settlement)/.test(raw);
+ let problem=(x.messagingProblem||'').trim();
+ let who=(x.whoToTalkTo||x.bestContactTitle||x.bestContact||x.contact||'').trim();
+ let angle=(x.messagingAngle||'').trim();
+
+ if(/new (ems )?(leadership|chief|director)|newly appointed|appointed (chief|director)|hired (chief|director)|leadership change/.test(raw)){
+   problem=problem||'A leadership transition is an opportunity to establish clear expectations for ePCR documentation, QA, and billing or payer compliance, while giving the new leader visibility into issues early.';
+   who=who||'EMS Chief / Director, Deputy Chief, QA/QI leader, Medical Director';
+   angle=angle||'New leadership is a natural time to establish strong documentation and billing-compliance processes. Position MedAssist as a way to give the new leadership team visibility into documentation issues early, identify areas that need attention, and establish a consistent QA process from the beginning of the new leadership term.';
+ } else if(/billing|reimbursement|payer|revenue cycle/.test(raw)){
+   problem=problem||'Potential documentation gaps that may affect reimbursement or payer requirements should be identified consistently across the ePCR population.';
+   who=who||'EMS Director, Revenue Cycle / Billing, QA/QI leader, Medical Director';
+   angle=angle||'Lead with reimbursement and payer compliance: how is the organization identifying documentation issues that could affect reimbursement today? MedAssist can review the ePCR population for documentation risks and surface reports for human follow-up.';
+ } else if(/documentation|compliance|regulatory|audit|payer requirement/.test(raw)){
+   problem=problem||'The team may need a more consistent way to identify documentation gaps and compliance risks across patient care reports.';
+   who=who||'EMS Director, QA/QI leader, Compliance, Medical Director';
+   angle=angle||'Lead with documentation compliance. Ask how the team currently identifies documentation gaps across its ePCRs and how those findings get back to providers. MedAssist can provide broader visibility and flag reports for review without replacing clinical judgment.';
+ } else if(/cqi|qa\/qi|qa|quality improvement|quality initiative|performance improvement|clinical quality|quality program/.test(raw)){
+   problem=problem||'The stated quality initiative creates an opportunity to examine how much PCR review is manual, how consistently reports are reviewed, and how trends are identified across the system.';
+   who=who||'QA/QI leader, EMS Director, Clinical Quality, Medical Director';
+   angle=angle||'Tie the conversation directly to the quality initiative: how much of PCR review is still manual, how consistently are reports reviewed, and how easily can the team identify documentation trends or providers needing attention? MedAssist adds scalable review and trend visibility without replacing the existing QA process.';
+ } else if(/epcr|electronic patient care report/.test(raw) && /procurement|purchase|implementation|replacement|migration|transition|new system|rfi|rfp|vendor|platform/.test(raw)){
+   problem=problem||'An ePCR change is a natural point to evaluate how QA, documentation review, reporting, and compliance checks will work in the new environment.';
+   who=who||'EMS Director, ePCR project lead, QA/QI leader, IT / clinical systems';
+   angle=angle||'Use the ePCR change as the opening: how will QA and documentation review work in the new workflow, and what visibility will leadership have after implementation? MedAssist can add an independent QA and trend-analysis layer around the ePCR process.';
+ } else if(/procurement|rfp|rfi|contract award/.test(raw)){
+   problem=problem||'A procurement activity may create an opening to understand how the organization currently handles ePCR QA, documentation review, and reporting.';
+   who=who||'EMS Director, Procurement, QA/QI leader, ePCR project owner';
+   angle=angle||'Use the procurement activity as a reason to learn how QA and documentation review are handled today. Ask what the organization wants to improve and whether scalable ePCR review and trend visibility are part of the requirement.';
+ } else if(/accreditation|standards|certification|licensure/.test(raw)){
+   problem=problem||'The standards or accreditation activity creates an opportunity to discuss consistent documentation review, quality assurance, and evidence of follow-through.';
+   who=who||'EMS Director, QA/QI leader, Compliance, Medical Director';
+   angle=angle||'Tie the conversation to the stated standards or accreditation priority. Ask how the organization demonstrates consistent documentation review and identifies trends that require follow-up. MedAssist can support that process with broader ePCR visibility.';
+ } else if(/grant|budget|funding|appropriation/.test(raw)){
+   problem=problem||'The stated funding or budget activity may indicate an initiative worth qualifying around EMS quality, documentation, reporting, or operational improvement.';
+   who=who||'EMS Director, Finance / Grants, QA/QI leader, procurement';
+   angle=angle||'Use the funding or budget activity as the reason for the conversation, then qualify whether EMS quality, documentation, or reporting is part of the initiative. If it is, position MedAssist around scalable review and measurable visibility.';
+ } else if(/enforcement|official finding|audit finding|investigation|lawsuit|settlement|citation|deficiency/.test(raw)){
+   problem=problem||'A verified public finding or enforcement matter may warrant a careful conversation about documentation review, compliance controls, and quality follow-up.';
+   who=who||'EMS Director, Compliance, QA/QI leader, Medical Director';
+   angle=angle||'Reference only the verified public finding and ask how the organization is handling documentation review and quality follow-up. Position MedAssist as a tool for identifying reports that warrant human review, without implying fault beyond the public record.';
+ } else if(/staffing|vacancy|turnover|recruiting|hiring/.test(raw)){
+   problem=problem||'Staffing pressure can make consistent manual PCR review difficult and can create a need for scalable visibility into documentation and quality trends.';
+   who=who||'EMS Director, Operations, QA/QI leader, Clinical Quality';
+   angle=angle||'Use the staffing signal to ask how the team maintains consistent PCR QA when reviewer capacity is constrained. MedAssist can help expand review coverage and surface trends without adding the same workload to the QA team.';
+ } else if(isBaseline){
+   problem=problem||'No specific problem is established yet. The first conversation should qualify how the organization reviews ePCRs, manages QA/QI workload, and identifies documentation or reimbursement risks.';
+   who=who||'EMS Director / Chief, QA/QI leader, Medical Director';
+   angle=angle||'This is a scale-based target, not a verified pain signal. Lead with the size and complexity of the EMS operation and ask how they currently review PCRs, measure documentation quality, and identify trends across the system. Use the answer to determine which MedAssist value proposition is relevant.';
+ } else {
+   problem=problem||'Potential workflow issue to validate: PCR review coverage, manual effort, documentation quality, compliance, or reporting. No problem is assumed.';
+   who=who||'EMS leadership / QA-QI / clinical quality';
+   angle=angle||'Use the recorded signal as the reason to start the conversation. Ask how the organization currently handles ePCR QA and documentation review, then connect MedAssist to the specific workflow issue they confirm.';
+ }
+ return {trigger,problem,who,angle};
 }
 function ensureMessagingDefaults(){for(const x of leads){const d=messagingDefaults({...x,messagingAngle:''});if(!x.messagingTrigger)x.messagingTrigger=d.trigger;if(!x.messagingProblem)x.messagingProblem=d.problem;if(!x.whoToTalkTo)x.whoToTalkTo=d.who;if(!x.messagingAngle)x.messagingAngle=d.angle;}}
 function priorityFor(x){const s=scoreLead(x);return {score:s,label:s>=75?'A · Act now':s>=55?'B · Strong fit':s>=35?'C · Develop':'D · Research'};}
