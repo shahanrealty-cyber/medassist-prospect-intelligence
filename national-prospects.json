@@ -1,6 +1,6 @@
 {
   "dataset_name": "MedAssist National Prospect Database",
-  "version": "2026-10-17",
+  "version": "2026-10-18",
   "notes": "Research starter set. Records marked Verified signal use an official source that describes an existing QA/QI, documentation, or data reporting program. These are relevance signals, not proof of an active purchase or a problem. Baseline targets require qualification. Confirm current contacts and procurement status before outreach.",
   "leads": [
     {
@@ -5301,18 +5301,18 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: City / county board EMS quality priorities. Query: (county commission OR county board OR city council OR \"board of supervisors\" OR \"fire authority\") EMS (\"quality improvement\" OR \"quality assurance\" OR documentation). Collected at 2026-10-17T15:37:05.409819+00:00. Publisher: WCTI. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-17T23:31:44.154454+00:00",
+  "last_research_run_utc": "2026-10-18T00:52:00.910111+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 32,
-  "last_research_skipped_irrelevant": 20,
+  "last_research_skipped_old": 28,
+  "last_research_skipped_irrelevant": 18,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
     "records_reviewed": 180,
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-17T23:31:53.998327+00:00",
+  "last_contact_research_run_utc": "2026-10-18T00:52:11.720671+00:00",
   "last_contact_research_checked": 0,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
