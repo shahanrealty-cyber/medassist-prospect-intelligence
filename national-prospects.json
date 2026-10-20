@@ -5485,18 +5485,18 @@
       "contactResearchStatus": "No relevant official source found; manual research required"
     }
   ],
-  "last_research_run_utc": "2026-10-20T20:43:08.892132+00:00",
+  "last_research_run_utc": "2026-10-20T21:41:13.101085+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 42,
-  "last_research_skipped_irrelevant": 18,
+  "last_research_skipped_old": 38,
+  "last_research_skipped_irrelevant": 20,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
     "records_reviewed": 180,
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-20T20:43:16.443082+00:00",
+  "last_contact_research_run_utc": "2026-10-20T21:41:20.281715+00:00",
   "last_contact_research_checked": 0,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
