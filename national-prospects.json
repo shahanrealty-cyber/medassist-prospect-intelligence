@@ -1,6 +1,6 @@
 {
   "dataset_name": "MedAssist National Prospect Database",
-  "version": "2026-10-20",
+  "version": "2026-10-21",
   "notes": "Research starter set. Records marked Verified signal use an official source that describes an existing QA/QI, documentation, or data reporting program. These are relevance signals, not proof of an active purchase or a problem. Baseline targets require qualification. Confirm current contacts and procurement status before outreach.",
   "leads": [
     {
@@ -5485,7 +5485,7 @@
       "contactResearchStatus": "No relevant official source found; manual research required"
     }
   ],
-  "last_research_run_utc": "2026-10-20T23:37:11.212687+00:00",
+  "last_research_run_utc": "2026-10-21T00:52:34.232192+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
   "last_research_skipped_old": 40,
@@ -5496,7 +5496,7 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-20T23:37:18.728472+00:00",
+  "last_contact_research_run_utc": "2026-10-21T00:52:41.690541+00:00",
   "last_contact_research_checked": 0,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
