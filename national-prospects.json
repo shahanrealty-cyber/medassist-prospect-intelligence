@@ -5698,18 +5698,18 @@
       "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: Ambulance RFP. Query: ambulance service EMS RFP contract award 2026. Collected at 2026-10-29T23:44:35.066933+00:00. Publisher: Jacksonville Journal-Courier. Source check: reachable. Reachability is not evidence that the headline's claim is accurate."
     }
   ],
-  "last_research_run_utc": "2026-10-30T02:54:56.112502+00:00",
+  "last_research_run_utc": "2026-10-30T03:54:57.735242+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
-  "last_research_skipped_old": 45,
-  "last_research_skipped_irrelevant": 24,
+  "last_research_skipped_old": 40,
+  "last_research_skipped_irrelevant": 25,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
     "records_reviewed": 180,
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-10-30T02:55:02.115600+00:00",
+  "last_contact_research_run_utc": "2026-10-30T03:55:04.315680+00:00",
   "last_contact_research_checked": 0,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
