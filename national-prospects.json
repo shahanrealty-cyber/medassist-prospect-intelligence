@@ -6130,7 +6130,7 @@
       "contactResearchStatus": "No relevant official source found; manual research required"
     }
   ],
-  "last_research_run_utc": "2026-11-11T16:08:47.063960+00:00",
+  "last_research_run_utc": "2026-11-11T22:41:13.642082+00:00",
   "last_research_added": 0,
   "last_research_errors": [],
   "last_research_skipped_old": 58,
@@ -6141,7 +6141,7 @@
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-11-11T16:08:52.481768+00:00",
+  "last_contact_research_run_utc": "2026-11-11T22:41:20.230638+00:00",
   "last_contact_research_checked": 0,
   "last_contact_research_with_results": 0,
   "last_contact_research_errors": [],
