@@ -1,6 +1,6 @@
 {
   "dataset_name": "MedAssist National Prospect Database",
-  "version": "2026-11-24",
+  "version": "2026-11-25",
   "notes": "Research starter set. Records marked Verified signal use an official source that describes an existing QA/QI, documentation, or data reporting program. These are relevance signals, not proof of an active purchase or a problem. Baseline targets require qualification. Confirm current contacts and procurement status before outreach.",
   "leads": [
     {
@@ -6351,22 +6351,67 @@
       "contactResearchResults": [],
       "contactResearchUpdatedAt": "2026-11-22T11:19:36.511424+00:00",
       "contactResearchStatus": "No relevant official source found; manual research required"
+    },
+    {
+      "id": "rss-69d6b3c2311dff6f",
+      "agency": "AFG grant assistance: Prepare before the application",
+      "state": "",
+      "providerType": "Public / private EMS research",
+      "category": "EMS grant/funding",
+      "triggerQuery": "EMS fire rescue grant funding quality improvement data",
+      "triggerTerms": "EMS grant/funding",
+      "triggerEvidence": "Headline: AFG grant assistance: Prepare before the application opens - FireRescue1 | Publisher: FireRescue1. Discovery clue only, not proof of buying intent.",
+      "sourceType": "News / industry publisher; locate original public record",
+      "sourceDomain": "news.google.com",
+      "sourceCheckStatus": "reachable",
+      "sourceContentType": "text/html; charset=utf-8",
+      "publishedAt": "2026-11-06",
+      "agencyMatchConfidence": "Low",
+      "validationStatus": "Needs review",
+      "validationReason": "Automated checks only. Confirm the original source, agency/provider identity, exact claim, publication date, and whether the signal is actionable before outreach.",
+      "medassistRelevance": "",
+      "lastValidatedAt": "",
+      "signal": "AFG grant assistance: Prepare before the application opens - FireRescue1 | Publisher: FireRescue1",
+      "why": "Candidate discovered via Google News RSS. The linked page reachability was checked, but the claim and agency match were not independently verified.",
+      "contact": "Identify EMS leadership / QA-QI / clinical quality / procurement",
+      "nextStep": "Open source, verify agency and date, capture the exact evidence, then merge into the correct account record.",
+      "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUI1SEdtWWwtaTFMZHJlX1NhMWxTbndaQlotUjczUlhPNm1rblRpVGh2TXJLR1R4SjBwUVQ0a0tsOWhsWUxUUGxhUVZmbTl0SVhrZlVwZ3ZmZ2JXZWJ2UVlhNk9jVGJKLVhNVE5oVl9ibVRfY3FZMWlaNFI2alh2S3prQm94TWQ2dTNJeUZDbWhtLXZRTFE4anhSSFo2bWpWcGNmNWh2QXh1TFVuQ2VNX3hwUW1vR0ZJZHBfNnV2bjk2YmlxS2p0NjM1azNhcFpYbGs4ZGhleDk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "confidence": "Needs validation",
+      "status": "Research",
+      "signalDate": "2026-11-06",
+      "notes": "AUTOMATED CANDIDATE, NOT VERIFIED. Category: EMS grant/funding. Query: EMS fire rescue grant funding quality improvement data. Collected at 2026-11-25T02:24:36.705937+00:00. Publisher: FireRescue1. Source check: reachable. Reachability is not evidence that the headline's claim is accurate.",
+      "bestContact": "",
+      "bestContactTitle": "",
+      "bestContactEmail": "",
+      "bestContactPhone": "",
+      "bestContactSource": "",
+      "bestContactConfidence": "Role recommendation only",
+      "contactResearchQuery": "\"AFG grant assistance  Prepare before the application\"  fire rescue leadership official | \"AFG grant assistance  Prepare before the application\"  EMS quality improvement contact | \"AFG grant assistance  Prepare before the application\"  staff directory fire rescue",
+      "contactResearchResults": [
+        {
+          "title": "Assistance to Firefighters Grants - FEMA.gov",
+          "url": "https://www.fema.gov/grants/preparedness/firefighters/assistance-grants",
+          "description": "The primary goal of the Assistance to Firefighters Grant (AFG) is to meet the firefighting and emergency response needs of fire departments and non-affiliated emergency medical service organizations. Since 2001, AFG has helped firefighters and other first responders obtain critically needed equipment, protective gear, emergency vehicles, training and other resources necessary for protecting ..."
+        }
+      ],
+      "contactResearchUpdatedAt": "2026-11-25T02:24:44.143928+00:00",
+      "contactResearchStatus": "Official candidate sources found; named contact not yet verified"
     }
   ],
-  "last_research_run_utc": "2026-11-24T17:40:22.999899+00:00",
-  "last_research_added": 0,
+  "last_research_run_utc": "2026-11-25T02:24:36.705937+00:00",
+  "last_research_added": 1,
   "last_research_errors": [],
-  "last_research_skipped_old": 47,
-  "last_research_skipped_irrelevant": 21,
+  "last_research_skipped_old": 55,
+  "last_research_skipped_irrelevant": 27,
   "cleanup_timestamp_utc": "2026-10-09T05:19:33.078Z",
   "cleanup_summary": {
     "records_reviewed": 180,
     "placeholder_evidence_replaced": 0,
     "method": "Replaced generic placeholder evidence with the existing record's specific signal/source or an explicit baseline-target research instruction. Queries and terms are agency/category specific. This does not independently verify every source claim."
   },
-  "last_contact_research_run_utc": "2026-11-24T17:40:31.860905+00:00",
-  "last_contact_research_checked": 0,
-  "last_contact_research_with_results": 0,
+  "last_contact_research_run_utc": "2026-11-25T02:24:44.143928+00:00",
+  "last_contact_research_checked": 1,
+  "last_contact_research_with_results": 1,
   "last_contact_research_errors": [],
   "last_contact_research_filter_version": 3,
   "contact_research_quality_note": "Automated search candidates are currently suppressed unless they pass strict official-source and EMS/fire relevance checks. No named contacts are verified by the current workflow."
